@@ -1,8 +1,11 @@
 Gene: ANKRD11
+
 Title: KBG Syndrome
+
 Abstract: CLINICAL CHARACTERISTICS: KBG syndrome is typically characterized by macrodontia (especially of the upper central incisors), characteristic facial features (triangular face, brachycephaly, synophrys, widely spaced eyes, broad or bushy eyebrows, prominent ears, prominent nasal bridge, bulbous nose, anteverted nares, long philtrum, and thin vermilion of the upper lip), short stature, developmental delay / intellectual disability, and behavioral issues. Affected individuals may have feeding difficulties (particularly in infancy), skeletal anomalies (brachydactyly, large anterior fontanelle with delayed closure, scoliosis), hearing loss (conductive, mixed, and sensorineural), seizure disorder, and brain malformations. There is significant variability in the clinical findings, even between affected members of the same family. DIAGNOSIS/TESTING: The diagnosis of KBG syndrome is confirmed in a proband by detection of either a heterozygous pathogenic variant in ANKRD11 or deletion of 16q24.3 that includes ANKRD11. MANAGEMENT: Treatment of manifestations. Surgical corrections and/or speech therapy for palatal anomalies; nasogastric tube feeding in infants; pharmacologic treatment for gastroesophageal reflux disease; pressure-equalizing tubes and/or tonsillectomy/adenoidectomy for chronic otitis media; consideration of amplification for hearing loss; consideration of growth hormone therapy for short stature and medication to arrest puberty for premature pubertal development; standard treatment of seizure disorder, undescended testis in males, congenital heart defects, strabismus / refractive errors, and developmental disabilities. Surveillance. Routine monitoring of hearing, vision, growth, pubertal status (in prepubertal individuals), and cognitive development. Agents/circumstances to avoid. Ototoxic drugs should be avoided because of the risk for hearing loss. Pregnancy management. Pregnancy management should be tailored to the specific features in the affected woman. For example, involvement of a cardiologist and maternal fetal medicine physician for a pregnant woman with a history of a congenital heart defect; control of seizures during pregnancy for those with a seizure disorder. GENETIC COUNSELING: Recurrence risk for sibs of a proband with KBG syndrome depends on the genetic alteration: Deletion of 16q24.3 (~75% of reported pathogenic variants are de novo and the remainder are inherited in an autosomal dominant manner.) ANKRD11 sequence variants (~66% of reported pathogenic variants are de novo and the remainder are inherited in an autosomal dominant manner.) Prenatal testing and preimplantation genetic diagnosis are possible if the causative genetic alteration has been identified in an affected family member.
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000316(widely spaced eyes)
+
+Similarity: HP_0001627(congenital heart defects)<> HP_0000316(widely spaced eyes)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -11,7 +14,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0001156(brachydactyly)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001156(brachydactyly)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00249160399081
@@ -20,7 +23,7 @@ JC 	 DiShIn 	 intrinsic 	0.0926091133534
 JC 	 MICA 	 intrinsic 	0.0926091133534
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000389(chronic otitis media)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000389(chronic otitis media)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -29,7 +32,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0001250(seizure)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001250(seizure)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00293571837295
@@ -38,7 +41,7 @@ JC 	 DiShIn 	 intrinsic 	0.109164769107
 JC 	 MICA 	 intrinsic 	0.109164769107
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0011010(chronic)
+Similarity: HP_0001627(congenital heart defects)<> HP_0011010(chronic)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
@@ -47,7 +50,7 @@ JC 	 DiShIn 	 intrinsic 	0.0783026783398
 JC 	 MICA 	 intrinsic 	0.0783026783398
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000664(synophrys)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000664(synophrys)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -56,7 +59,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0001572(macrodontia)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001572(macrodontia)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.0022331639496
@@ -65,7 +68,7 @@ JC 	 DiShIn 	 intrinsic 	0.0829817925127
 JC 	 MICA 	 intrinsic 	0.0829817925127
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0004322(short stature)
+Similarity: HP_0001627(congenital heart defects)<> HP_0004322(short stature)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.002642730747
@@ -74,7 +77,7 @@ JC 	 DiShIn 	 intrinsic 	0.0982411479213
 JC 	 MICA 	 intrinsic 	0.0982411479213
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0040288(nasogastric tube feeding)
+Similarity: HP_0001627(congenital heart defects)<> HP_0040288(nasogastric tube feeding)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -83,7 +86,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000463(anteverted nares)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000463(anteverted nares)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.0022331639496
@@ -92,7 +95,7 @@ JC 	 DiShIn 	 intrinsic 	0.0829817925127
 JC 	 MICA 	 intrinsic 	0.0829817925127
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0002020(gastroesophageal reflux)
+Similarity: HP_0001627(congenital heart defects)<> HP_0002020(gastroesophageal reflux)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -101,7 +104,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000006(autosomal dominant)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000006(autosomal dominant)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
@@ -110,7 +113,7 @@ JC 	 DiShIn 	 intrinsic 	0.0887557328834
 JC 	 MICA 	 intrinsic 	0.0887557328834
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000343(long philtrum)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000343(long philtrum)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -119,7 +122,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0001627(congenital heart defects)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001627(congenital heart defects)
 Resnik 	 DiShIn 	 intrinsic 	3.88856353052
 Resnik 	 MICA 	 intrinsic 	3.88856353052
 Lin 	 DiShIn 	 intrinsic 	1.0
@@ -128,7 +131,7 @@ JC 	 DiShIn 	 intrinsic 	1.0
 JC 	 MICA 	 intrinsic 	1.0
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0001250(seizures)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001250(seizures)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00293571837295
@@ -137,7 +140,7 @@ JC 	 DiShIn 	 intrinsic 	0.109164769107
 JC 	 MICA 	 intrinsic 	0.109164769107
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000414(bulbous nose)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000414(bulbous nose)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -146,7 +149,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000574(bushy eyebrows)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000574(bushy eyebrows)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -155,7 +158,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000028(undescended testis)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000028(undescended testis)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.0022331639496
@@ -164,7 +167,7 @@ JC 	 DiShIn 	 intrinsic 	0.0829817925127
 JC 	 MICA 	 intrinsic 	0.0829817925127
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000248(brachycephaly)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000248(brachycephaly)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.0022331639496
@@ -173,7 +176,7 @@ JC 	 DiShIn 	 intrinsic 	0.0829817925127
 JC 	 MICA 	 intrinsic 	0.0829817925127
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000325(triangular face)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000325(triangular face)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -182,7 +185,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000486(strabismus)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000486(strabismus)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00289855881664
@@ -191,7 +194,7 @@ JC 	 DiShIn 	 intrinsic 	0.107778973164
 JC 	 MICA 	 intrinsic 	0.107778973164
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000411(prominent ears)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000411(prominent ears)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -200,7 +203,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0030645(central)
+Similarity: HP_0001627(congenital heart defects)<> HP_0030645(central)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
@@ -209,7 +212,7 @@ JC 	 DiShIn 	 intrinsic 	0.0783026783398
 JC 	 MICA 	 intrinsic 	0.0783026783398
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000388(otitis media)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000388(otitis media)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.0023107379265
@@ -218,7 +221,7 @@ JC 	 DiShIn 	 intrinsic 	0.0858710281437
 JC 	 MICA 	 intrinsic 	0.0858710281437
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0001627(congenital heart defect)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001627(congenital heart defect)
 Resnik 	 DiShIn 	 intrinsic 	3.88856353052
 Resnik 	 MICA 	 intrinsic 	3.88856353052
 Lin 	 DiShIn 	 intrinsic 	1.0
@@ -227,7 +230,7 @@ JC 	 DiShIn 	 intrinsic 	1.0
 JC 	 MICA 	 intrinsic 	1.0
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0002650(scoliosis)
+Similarity: HP_0001627(congenital heart defects)<> HP_0002650(scoliosis)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00245662124188
@@ -236,7 +239,7 @@ JC 	 DiShIn 	 intrinsic 	0.0913056559253
 JC 	 MICA 	 intrinsic 	0.0913056559253
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000260(large anterior fontanelle)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000260(large anterior fontanelle)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -245,7 +248,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000365(hearing loss)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000365(hearing loss)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00274479020176
@@ -254,7 +257,7 @@ JC 	 DiShIn 	 intrinsic 	0.102045559028
 JC 	 MICA 	 intrinsic 	0.102045559028
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0002020(gastroesophageal reflux disease)
+Similarity: HP_0001627(congenital heart defects)<> HP_0002020(gastroesophageal reflux disease)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -263,7 +266,7 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0011968(feeding difficulties)
+Similarity: HP_0001627(congenital heart defects)<> HP_0011968(feeding difficulties)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00241649273638
@@ -272,7 +275,7 @@ JC 	 DiShIn 	 intrinsic 	0.0898105801556
 JC 	 MICA 	 intrinsic 	0.0898105801556
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000426(prominent nasal bridge)
+Similarity: HP_0001627(congenital heart defects)<> HP_0000426(prominent nasal bridge)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00211195834934
@@ -281,73 +284,21 @@ JC 	 DiShIn 	 intrinsic 	0.078468400333
 JC 	 MICA 	 intrinsic 	0.078468400333
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0001263(developmental delay)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001263(developmental delay)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.0023107379265
 Lin 	 MICA 	 intrinsic 	0.0023107379265
 JC 	 DiShIn 	 intrinsic 	0.0858710281437
 JC 	 MICA 	 intrinsic 	0.0858710281437
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001425(heterogeneous)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0783026783398
-JC 	 MICA 	 intrinsic 	0.0783026783398
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001250(epilepsy)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00293571837295
-Lin 	 MICA 	 intrinsic 	0.00293571837295
-JC 	 DiShIn 	 intrinsic 	0.109164769107
-JC 	 MICA 	 intrinsic 	0.109164769107
 
 
 Title: Genotype and phenotype analysis using an epilepsy-associated gene panel in Chinese pediatric epilepsy patients.
+
 Abstract: Epilepsy is a common and genetically heterogeneous disorder among children. Advances in next-generation sequencing have revealed that numerous epilepsy genes, helped us improve the understanding of mechanisms underlying epileptogenesis, and guided the development of treatments. We identified 39 candidate variants in 21 genes, including 37 that were pathogenic or likely pathogenic variants according to the American College of Medical Genetics and Genomics scoring system and two variants of uncertain significance that were considered causative after they were associated with clinical characteristics. Thirty were de novo variants (76.9%), and 20 variants had not previously been reported (51.3%). We obtained a diagnosis in 39 of the 141 probands (27.7%). The most frequently mutated gene was SCN1A; KCNQ2, KCNT1, PCDH19, STXBP1, SCN2A, TSC2, and PRRT2 were mutated in more than one individual; ANKRD11, CDKL5, DCX, DEPDC5, GABRB3, GRIN2A, IQSEC2, KCNA2, KCNB1, KCNJ6, TSC1, SCN9A, and SCN1B were mutated in a single individual. In addition, we detected a nonsense variant in a candidate gene KCND1 and considered it as a new candidate epilepsy gene, which needed further functional study. Consequently, large number of unreported variants were detected, diverse phenotypes were associated with known epilepsy genes. Changes in clinical management beyond genetic counseling were suggested.
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000316(widely spaced eyes)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
 
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001156(brachydactyly)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00249160399081
-Lin 	 MICA 	 intrinsic 	0.00249160399081
-JC 	 DiShIn 	 intrinsic 	0.0926091133534
-JC 	 MICA 	 intrinsic 	0.0926091133534
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000389(chronic otitis media)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001250(seizure)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00293571837295
-Lin 	 MICA 	 intrinsic 	0.00293571837295
-JC 	 DiShIn 	 intrinsic 	0.109164769107
-JC 	 MICA 	 intrinsic 	0.109164769107
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0011010(chronic)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001425(heterogeneous)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
@@ -356,259 +307,7 @@ JC 	 DiShIn 	 intrinsic 	0.0783026783398
 JC 	 MICA 	 intrinsic 	0.0783026783398
 
 
-Similarity: HP_0001627(ANKRD11)<> HP_0000664(synophrys)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001572(macrodontia)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0004322(short stature)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.002642730747
-Lin 	 MICA 	 intrinsic 	0.002642730747
-JC 	 DiShIn 	 intrinsic 	0.0982411479213
-JC 	 MICA 	 intrinsic 	0.0982411479213
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0040288(nasogastric tube feeding)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000463(anteverted nares)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0002020(gastroesophageal reflux)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000006(autosomal dominant)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0887557328834
-JC 	 MICA 	 intrinsic 	0.0887557328834
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000343(long philtrum)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001627(congenital heart defects)
-Resnik 	 DiShIn 	 intrinsic 	3.88856353052
-Resnik 	 MICA 	 intrinsic 	3.88856353052
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001250(seizures)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00293571837295
-Lin 	 MICA 	 intrinsic 	0.00293571837295
-JC 	 DiShIn 	 intrinsic 	0.109164769107
-JC 	 MICA 	 intrinsic 	0.109164769107
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000414(bulbous nose)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000574(bushy eyebrows)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000028(undescended testis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000248(brachycephaly)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000325(triangular face)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000486(strabismus)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00289855881664
-Lin 	 MICA 	 intrinsic 	0.00289855881664
-JC 	 DiShIn 	 intrinsic 	0.107778973164
-JC 	 MICA 	 intrinsic 	0.107778973164
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000411(prominent ears)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0030645(central)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0783026783398
-JC 	 MICA 	 intrinsic 	0.0783026783398
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000388(otitis media)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0023107379265
-Lin 	 MICA 	 intrinsic 	0.0023107379265
-JC 	 DiShIn 	 intrinsic 	0.0858710281437
-JC 	 MICA 	 intrinsic 	0.0858710281437
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001627(congenital heart defect)
-Resnik 	 DiShIn 	 intrinsic 	3.88856353052
-Resnik 	 MICA 	 intrinsic 	3.88856353052
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0002650(scoliosis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00245662124188
-Lin 	 MICA 	 intrinsic 	0.00245662124188
-JC 	 DiShIn 	 intrinsic 	0.0913056559253
-JC 	 MICA 	 intrinsic 	0.0913056559253
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000260(large anterior fontanelle)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000365(hearing loss)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00274479020176
-Lin 	 MICA 	 intrinsic 	0.00274479020176
-JC 	 DiShIn 	 intrinsic 	0.102045559028
-JC 	 MICA 	 intrinsic 	0.102045559028
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0002020(gastroesophageal reflux disease)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0011968(feeding difficulties)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00241649273638
-Lin 	 MICA 	 intrinsic 	0.00241649273638
-JC 	 DiShIn 	 intrinsic 	0.0898105801556
-JC 	 MICA 	 intrinsic 	0.0898105801556
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0000426(prominent nasal bridge)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001263(developmental delay)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0023107379265
-Lin 	 MICA 	 intrinsic 	0.0023107379265
-JC 	 DiShIn 	 intrinsic 	0.0858710281437
-JC 	 MICA 	 intrinsic 	0.0858710281437
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001425(heterogeneous)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0783026783398
-JC 	 MICA 	 intrinsic 	0.0783026783398
-
-
-Similarity: HP_0001627(ANKRD11)<> HP_0001250(epilepsy)
+Similarity: HP_0001627(congenital heart defects)<> HP_0001250(epilepsy)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
 Lin 	 DiShIn 	 intrinsic 	0.00293571837295

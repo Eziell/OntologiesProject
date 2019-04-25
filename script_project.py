@@ -2,7 +2,7 @@ import ontologiesProcedures as wp
 import requests
 import sys
 
-annotations=open("test.txt","r")
+annotations=open("5.txt","r")
 header = True
 
 geneDict = dict()
@@ -47,25 +47,26 @@ for key, values in genePaper.items():
             print("Proceeding...")
      
     genePaperMER[key] = merValues
-
-
+    print(genePaperMER)
 
 with open("relatorio.txt", "w") as f:
 	output = ""
+	# opens geneDict dictionary which contains gene: phenotype, geneID, phenotypeID.
 	for gene in geneDict.keys():
-		output += "Gene: %s\n" % gene
+		output += "Gene: %s\n\n" % gene
+		# captures the 2 papers given for each entry in genePaper.
 		for i in range(2):		
 			title = genePaper.get(gene)[i][0]
 			abstract = genePaper.get(gene)[i][1]
-			output += "Title: %s\nAbstract: %s\n\n" % (title, abstract)			
-			for key, value in genePaperMER.items():
-				for line in value:
+			output += "Title: %s\n\nAbstract: %s\n\n\n" % (title, abstract)
+			# captures the corresponding paper in genePaperMER which stores for each gene an array with annotations for 2 papers
+			# each entry in the array stores a dict containing annotation: ID, count	
+			for term, idcount in genePaperMER.get(gene)[i].items():
 					# to track progress
-					for term, idcount in line.items():
-						print("Similarity: %s(%s)<> %s(%s)\n" % (geneDict[gene][2], geneDict[gene][0], idcount[0], term))
-						output += "Similarity: %s(%s)<> %s(%s)\n" % (geneDict[gene][2], geneDict[gene][0], idcount[0], term)
-						dishinRes = wp.runDiShIn(geneDict[gene][2], str(idcount[0]), "hp")
-						output += dishinRes + "\n\n"	
+					print("Similarity: %s(%s)<> %s(%s)\n" % (geneDict[gene][2], geneDict[gene][0], idcount[0], term))
+					output += "Similarity: %s(%s)<> %s(%s)\n" % (geneDict[gene][2], geneDict[gene][0], idcount[0], term)
+					dishinRes = wp.runDiShIn(geneDict[gene][2], str(idcount[0]), "hp")
+					output += dishinRes + "\n\n"	
 	f.write(output)
 	
 		
