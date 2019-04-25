@@ -1,0 +1,11 @@
+GENE,PHENOTYPE,GENE_ID PHENOTYPE_ID
+ANKRD11,congenital heart defects,29123,HP_0001627
+FAN1,interstitial nephritis,22909,HP_0001970
+KCNQ1,cardiac arrhythmia,3784,HP_0011675
+DTNA,left ventricular noncompaction,1837,HP_0030682
+DNAJC13,parkinsonism,23317,HP_0001300
+RET,hyperparathyroidism,5979,HP_0000843
+TMEM43,premature ventricular contractions,79188,HP_0006682
+MED13L,facial dysmorphism,23389,HP_0001999
+INSL3,cryptorchidism,3640,HP_0000028
+TTC7A,hypogammaglobulinemia,57217,HP_0004313
