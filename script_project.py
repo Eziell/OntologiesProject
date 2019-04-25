@@ -2,6 +2,7 @@ import ontologiesProcedures as wp
 import requests
 import sys
 
+
 annotations=open("5.txt","r")
 header = True
 
@@ -47,12 +48,12 @@ for key, values in genePaper.items():
             print("Proceeding...")
      
     genePaperMER[key] = merValues
-    print(genePaperMER)
 
 with open("relatorio.txt", "w") as f:
 	output = ""
 	# opens geneDict dictionary which contains gene: phenotype, geneID, phenotypeID.
 	for gene in geneDict.keys():
+		output += "#"*40 + "\n"
 		output += "Gene: %s\n\n" % gene
 		# captures the 2 papers given for each entry in genePaper.
 		for i in range(2):		
