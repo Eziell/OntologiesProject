@@ -2,7 +2,7 @@ import ontologiesProcedures as wp
 import requests
 import sys
 
-annotations=open("5.txt","r")
+annotations=open("test.txt","r")
 header = True
 
 geneDict = dict()
@@ -29,6 +29,7 @@ for gene in geneDict.keys():
 
     genePaper[gene] = paperBuffer
 
+
 genePaperMER = dict()
 for key, values in genePaper.items():
     print('Calculating MER for: %s' % key)
@@ -38,11 +39,35 @@ for key, values in genePaper.items():
     for value in values:
         try:
             titleAbstract = " ".join(value)
-            merValues.append(wp.runMER(titleAbstract, "hpo"))
-        
+	    mer = wp.runMER(titleAbstract.lower(), "hp")
+            merValues.append(mer)
         except:
             print("Exception raised for %s, stating: %s" % (key, sys.exc_info()[0]))
-            print("Probably no abstract found for: %s." % value[0])
+            print("Output for %s may be incomplete." % key)
             print("Proceeding...")
-    
+     
     genePaperMER[key] = merValues
+
+
+with open("relatorio.txt", "w") as f:
+	output = ""
+	for gene in geneDict.keys():
+		output += "Gene: %s\n" % gene
+		for i in range(2):		
+			title = genePaper.get(gene)[i][0]
+			abstract = genePaper.get(gene)[i][1]
+			output += "Title: %s\nAbstract: %s\n\n" % (title, abstract)
+			output += "Term \t\t\t HPID \t\t\t Count\n"			
+			for key, value in genePaperMER.items():
+				for line in value:
+					for term, idcount in line.items():					
+						output += "%s \t\t\t %s \t\t\t %i\n" % (term, idcount[0], idcount[1])
+	f.write(output)
+			
+		
+
+
+
+
+
+		

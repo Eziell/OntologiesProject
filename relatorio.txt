@@ -1,0 +1,77 @@
+Gene: ANKRD11
+Title: KBG Syndrome
+Abstract: CLINICAL CHARACTERISTICS: KBG syndrome is typically characterized by macrodontia (especially of the upper central incisors), characteristic facial features (triangular face, brachycephaly, synophrys, widely spaced eyes, broad or bushy eyebrows, prominent ears, prominent nasal bridge, bulbous nose, anteverted nares, long philtrum, and thin vermilion of the upper lip), short stature, developmental delay / intellectual disability, and behavioral issues. Affected individuals may have feeding difficulties (particularly in infancy), skeletal anomalies (brachydactyly, large anterior fontanelle with delayed closure, scoliosis), hearing loss (conductive, mixed, and sensorineural), seizure disorder, and brain malformations. There is significant variability in the clinical findings, even between affected members of the same family. DIAGNOSIS/TESTING: The diagnosis of KBG syndrome is confirmed in a proband by detection of either a heterozygous pathogenic variant in ANKRD11 or deletion of 16q24.3 that includes ANKRD11. MANAGEMENT: Treatment of manifestations. Surgical corrections and/or speech therapy for palatal anomalies; nasogastric tube feeding in infants; pharmacologic treatment for gastroesophageal reflux disease; pressure-equalizing tubes and/or tonsillectomy/adenoidectomy for chronic otitis media; consideration of amplification for hearing loss; consideration of growth hormone therapy for short stature and medication to arrest puberty for premature pubertal development; standard treatment of seizure disorder, undescended testis in males, congenital heart defects, strabismus / refractive errors, and developmental disabilities. Surveillance. Routine monitoring of hearing, vision, growth, pubertal status (in prepubertal individuals), and cognitive development. Agents/circumstances to avoid. Ototoxic drugs should be avoided because of the risk for hearing loss. Pregnancy management. Pregnancy management should be tailored to the specific features in the affected woman. For example, involvement of a cardiologist and maternal fetal medicine physician for a pregnant woman with a history of a congenital heart defect; control of seizures during pregnancy for those with a seizure disorder. GENETIC COUNSELING: Recurrence risk for sibs of a proband with KBG syndrome depends on the genetic alteration: Deletion of 16q24.3 (~75% of reported pathogenic variants are de novo and the remainder are inherited in an autosomal dominant manner.) ANKRD11 sequence variants (~66% of reported pathogenic variants are de novo and the remainder are inherited in an autosomal dominant manner.) Prenatal testing and preimplantation genetic diagnosis are possible if the causative genetic alteration has been identified in an affected family member.
+
+Term 			 HPID 			 Count
+widely spaced eyes 			 HP_0000316 			 1
+brachydactyly 			 HP_0001156 			 1
+chronic otitis media 			 HP_0000389 			 1
+seizure 			 HP_0001250 			 3
+chronic 			 HP_0011010 			 1
+synophrys 			 HP_0000664 			 1
+macrodontia 			 HP_0001572 			 1
+short stature 			 HP_0004322 			 2
+nasogastric tube feeding 			 HP_0040288 			 1
+anteverted nares 			 HP_0000463 			 1
+gastroesophageal reflux 			 HP_0002020 			 1
+autosomal dominant 			 HP_0000006 			 2
+long philtrum 			 HP_0000343 			 1
+congenital heart defects 			 HP_0001627 			 1
+seizures 			 HP_0001250 			 1
+bulbous nose 			 HP_0000414 			 1
+bushy eyebrows 			 HP_0000574 			 1
+undescended testis 			 HP_0000028 			 1
+brachycephaly 			 HP_0000248 			 1
+triangular face 			 HP_0000325 			 1
+strabismus 			 HP_0000486 			 1
+prominent ears 			 HP_0000411 			 1
+central 			 HP_0030645 			 1
+otitis media 			 HP_0000388 			 1
+congenital heart defect 			 HP_0001627 			 1
+scoliosis 			 HP_0002650 			 1
+large anterior fontanelle 			 HP_0000260 			 1
+hearing loss 			 HP_0000365 			 3
+gastroesophageal reflux disease 			 HP_0002020 			 1
+feeding difficulties 			 HP_0011968 			 1
+prominent nasal bridge 			 HP_0000426 			 1
+developmental delay 			 HP_0001263 			 1
+heterogeneous 			 HP_0001425 			 1
+epilepsy 			 HP_0001250 			 5
+Title: Genotype and phenotype analysis using an epilepsy-associated gene panel in Chinese pediatric epilepsy patients.
+Abstract: Epilepsy is a common and genetically heterogeneous disorder among children. Advances in next-generation sequencing have revealed that numerous epilepsy genes, helped us improve the understanding of mechanisms underlying epileptogenesis, and guided the development of treatments. We identified 39 candidate variants in 21 genes, including 37 that were pathogenic or likely pathogenic variants according to the American College of Medical Genetics and Genomics scoring system and two variants of uncertain significance that were considered causative after they were associated with clinical characteristics. Thirty were de novo variants (76.9%), and 20 variants had not previously been reported (51.3%). We obtained a diagnosis in 39 of the 141 probands (27.7%). The most frequently mutated gene was SCN1A; KCNQ2, KCNT1, PCDH19, STXBP1, SCN2A, TSC2, and PRRT2 were mutated in more than one individual; ANKRD11, CDKL5, DCX, DEPDC5, GABRB3, GRIN2A, IQSEC2, KCNA2, KCNB1, KCNJ6, TSC1, SCN9A, and SCN1B were mutated in a single individual. In addition, we detected a nonsense variant in a candidate gene KCND1 and considered it as a new candidate epilepsy gene, which needed further functional study. Consequently, large number of unreported variants were detected, diverse phenotypes were associated with known epilepsy genes. Changes in clinical management beyond genetic counseling were suggested.
+
+Term 			 HPID 			 Count
+widely spaced eyes 			 HP_0000316 			 1
+brachydactyly 			 HP_0001156 			 1
+chronic otitis media 			 HP_0000389 			 1
+seizure 			 HP_0001250 			 3
+chronic 			 HP_0011010 			 1
+synophrys 			 HP_0000664 			 1
+macrodontia 			 HP_0001572 			 1
+short stature 			 HP_0004322 			 2
+nasogastric tube feeding 			 HP_0040288 			 1
+anteverted nares 			 HP_0000463 			 1
+gastroesophageal reflux 			 HP_0002020 			 1
+autosomal dominant 			 HP_0000006 			 2
+long philtrum 			 HP_0000343 			 1
+congenital heart defects 			 HP_0001627 			 1
+seizures 			 HP_0001250 			 1
+bulbous nose 			 HP_0000414 			 1
+bushy eyebrows 			 HP_0000574 			 1
+undescended testis 			 HP_0000028 			 1
+brachycephaly 			 HP_0000248 			 1
+triangular face 			 HP_0000325 			 1
+strabismus 			 HP_0000486 			 1
+prominent ears 			 HP_0000411 			 1
+central 			 HP_0030645 			 1
+otitis media 			 HP_0000388 			 1
+congenital heart defect 			 HP_0001627 			 1
+scoliosis 			 HP_0002650 			 1
+large anterior fontanelle 			 HP_0000260 			 1
+hearing loss 			 HP_0000365 			 3
+gastroesophageal reflux disease 			 HP_0002020 			 1
+feeding difficulties 			 HP_0011968 			 1
+prominent nasal bridge 			 HP_0000426 			 1
+developmental delay 			 HP_0001263 			 1
+heterogeneous 			 HP_0001425 			 1
+epilepsy 			 HP_0001250 			 5
