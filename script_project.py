@@ -49,31 +49,25 @@ for key, values in genePaper.items():
     genePaperMER[key] = merValues
 
 
-dictGeneTerms = {}
+
 with open("relatorio.txt", "w") as f:
 	output = ""
 	for gene in geneDict.keys():
-		geneTerms = []
 		output += "Gene: %s\n" % gene
 		for i in range(2):		
 			title = genePaper.get(gene)[i][0]
 			abstract = genePaper.get(gene)[i][1]
-			output += "Title: %s\nAbstract: %s\n\n" % (title, abstract)
-			output += "Term \t\t\t HPID \t\t\t Count\n"			
+			output += "Title: %s\nAbstract: %s\n\n" % (title, abstract)			
 			for key, value in genePaperMER.items():
 				for line in value:
-					for term, idcount in line.items():					
-						output += "%s \t\t\t %s \t\t\t %i\n" % (term, idcount[0], idcount[1])
-						geneTerms.append(idcount[0])
-						dictGeneTerms[geneDict[gene][2]] = geneTerms
+					# to track progress
+					for term, idcount in line.items():
+						print("Similarity: %s(%s)<> %s(%s)\n" % (geneDict[gene][2], geneDict[gene][0], idcount[0], term))
+						output += "Similarity: %s(%s)<> %s(%s)\n" % (geneDict[gene][2], geneDict[gene][0], idcount[0], term)
+						dishinRes = wp.runDiShIn(geneDict[gene][2], str(idcount[0]), "hp")
+						output += dishinRes + "\n\n"	
 	f.write(output)
-
-print(dictGeneTerms)	
-for key, value in dictGeneTerms.items():
-	for term in value:
-		print(key)
-		print(term)
-		print(wp.runDiShIn(str(key), str(term), "hp"))		
+	
 		
 
 

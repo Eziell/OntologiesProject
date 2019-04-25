@@ -55,18 +55,22 @@ def runMER(text, lexicon='doid'):
     
 
 # returns the resnik distance between two terms in the doid lexicon
-def runDiShIn(arg1, arg2, lexicon = "doid"):
+def runDiShIn(arg1, arg2, lexicon = "doid", full=True):
 	with cm.cd("DiShIn"):
 		cmd = "python dishin.py %s.db %s %s" % (lexicon, arg1, arg2)
 		
 		dishin = os.popen(cmd).read()
 		
+		if full:
+			return dishin
+		else:
+			list_temp = []
+			list_temp = dishin.split('\n')
 
-		list_temp = []
-		list_temp = dishin.split('\n')
+			resnik = list_temp[0].strip().split('\t')
+			resnik = str(resnik[3])
 
-		resnik = list_temp[0].strip().split('\t')
-		resnik = str(resnik[3])
+			return resnik
 
-		return resnik
+		
 
