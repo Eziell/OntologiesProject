@@ -49,9 +49,11 @@ for key, values in genePaper.items():
     genePaperMER[key] = merValues
 
 
+dictGeneTerms = {}
 with open("relatorio.txt", "w") as f:
 	output = ""
 	for gene in geneDict.keys():
+		geneTerms = []
 		output += "Gene: %s\n" % gene
 		for i in range(2):		
 			title = genePaper.get(gene)[i][0]
@@ -62,8 +64,16 @@ with open("relatorio.txt", "w") as f:
 				for line in value:
 					for term, idcount in line.items():					
 						output += "%s \t\t\t %s \t\t\t %i\n" % (term, idcount[0], idcount[1])
+						geneTerms.append(idcount[0])
+						dictGeneTerms[geneDict[gene][2]] = geneTerms
 	f.write(output)
-			
+
+print(dictGeneTerms)	
+for key, value in dictGeneTerms.items():
+	for term in value:
+		print(key)
+		print(term)
+		print(wp.runDiShIn(str(key), str(term), "hp"))		
 		
 
 

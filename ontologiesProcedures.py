@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 
 from Bio import Entrez, Medline
+import contextManager as cm
 import requests
+import os
 
 #   returns an array containing title, authors(array), abstract, ontologis, and date (url still needs to ne added)
 def getPubmedArticles(disease, ammount=10):
@@ -53,11 +55,12 @@ def runMER(text, lexicon='doid'):
     
 
 # returns the resnik distance between two terms in the doid lexicon
-def runDiShIn(arg1, arg2):
+def runDiShIn(arg1, arg2, lexicon = "doid"):
 	with cm.cd("DiShIn"):
-		cmd = "python dishin.py doid.db " + arg1 + " " + arg2
-		print(cmd)
+		cmd = "python dishin.py %s.db %s %s" % (lexicon, arg1, arg2)
+		
 		dishin = os.popen(cmd).read()
+		
 
 		list_temp = []
 		list_temp = dishin.split('\n')
@@ -66,3 +69,4 @@ def runDiShIn(arg1, arg2):
 		resnik = str(resnik[3])
 
 		return resnik
+
