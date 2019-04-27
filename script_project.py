@@ -70,10 +70,6 @@ with open("relatorio.txt", "w") as f:
 					output += dishinRes + "\n\n"	
 	f.write(output)
 	
-		
-
-
-
 
 
 		
