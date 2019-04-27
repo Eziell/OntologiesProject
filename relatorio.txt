@@ -1,217 +1,397 @@
 ########################################
-Gene: INSL3
+Gene: SARS2
 
-Title: INSL3 in the muscolo-skeletal system.
+Title: Genetic causes of hypomagnesemia, a clinical overview.
 
-Abstract: Bone and skeletal muscle are currently considered a unified functional unit, showing complementary regulation at mechanical, biochemical, paracrine and metabolic levels. This functional unit undergoes a central hormonal regulation which is mainly ascribed to sex steroids and, in particular, androgens. However, recent evidence suggest that another testicular hormone lines the classical anabolic effect of testosterone on bone and muscle, the insulin-like peptide 3 (INSL3) acting on its specific receptor RXFP2. This minireview focuses on the most recent findings describing the role of INSL3/RXFP2 axis on the muscolo-skeletal system, from the mechanistic insights to the phenotypic consequences. Pathophysiological and therapeutic widenings deriving from available data are also discussed.
+Abstract: Magnesium is essential to the proper functioning of numerous cellular processes. Magnesium ion (Mg(2+)) deficits, as reflected in hypomagnesemia, can cause neuromuscular irritability, seizures and cardiac arrhythmias. With normal Mg(2+) intake, homeostasis is maintained primarily through the regulated reabsorption of Mg(2+) by the thick ascending limb of Henle's loop and distal convoluted tubule of the kidney. Inadequate reabsorption results in renal Mg(2+) wasting, as evidenced by an inappropriately high fractional Mg(2+) excretion. Familial renal Mg(2+) wasting is suggestive of a genetic cause, and subsequent studies in these hypomagnesemic families have revealed over a dozen genes directly or indirectly involved in Mg(2+) transport. Those can be classified into four groups: hypercalciuric hypomagnesemias (encompassing mutations in CLDN16, CLDN19, CASR, CLCNKB), Gitelman-like hypomagnesemias (CLCNKB, SLC12A3, BSND, KCNJ10, FYXD2, HNF1B, PCBD1), mitochondrial hypomagnesemias (SARS2, MT-TI, Kearns-Sayre syndrome) and other hypomagnesemias (TRPM6, CNMM2, EGF, EGFR, KCNA1, FAM111A). Although identification of these genes has not yet changed treatment, which remains Mg(2+) supplementation, it has contributed enormously to our understanding of Mg(2+) transport and renal function. In this review, we discuss general mechanisms and symptoms of genetic causes of hypomagnesemia as well as the specific molecular mechanisms and clinical phenotypes associated with each syndrome.
 
 
-Similarity: HP_0000028(cryptorchidism)<> HP_0030645(central)
+Similarity: HP_0000083(renal failure)<> HP_0000737(irritability)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.0016695232882
+Lin 	 MICA 	 intrinsic 	0.0016695232882
+JC 	 DiShIn 	 intrinsic 	0.0620025313137
+JC 	 MICA 	 intrinsic 	0.0620025313137
+
+
+Similarity: HP_0000083(renal failure)<> HP_0001250(seizures)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00214541024799
+Lin 	 MICA 	 intrinsic 	0.00214541024799
+JC 	 DiShIn 	 intrinsic 	0.079713955487
+JC 	 MICA 	 intrinsic 	0.079713955487
+
+
+Similarity: HP_0000083(renal failure)<> HP_0012839(distal)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.058576693318
-JC 	 MICA 	 intrinsic 	0.058576693318
+JC 	 DiShIn 	 intrinsic 	0.0618990166438
+JC 	 MICA 	 intrinsic 	0.0618990166438
 
 
-Title: Insulin-like factor 3, luteinizing hormone and testosterone in testicular cancer patients: effects of beta-hCG and cancer treatment.
-
-Abstract: BACKGROUND: Primary hypogonadism (low testosterone and high luteinizing hormone, LH) is present in approximately 20% of testicular cancer (TC) survivors after orchidectomy with or without chemotherapy. OBJECTIVES: We investigated insulin-like factor 3 (INSL3), a novel marker of Leydig cell function, in TC patients. MATERIALS AND METHODS: We analyzed: (I) a cross-sectional cohort of TC patients after orchidectomy with or without chemotherapy (1988-1999) at long-term follow-up (median 36 and 35 years of age at follow-up, respectively) and healthy men of similar age; (II) a longitudinal cohort of chemotherapy-treated TC patients (2000-2008), analyzed before and 1 year after chemotherapy (median 29 years of age at chemotherapy). INSL3, testosterone, and LH were compared between groups and over time and related to pre-chemotherapy beta-hCG levels. RESULTS: In the cross-sectional cohort, TC patients at median 7 years after orchidectomy and chemotherapy (n = 79) had higher LH (p < 0.001), lower testosterone (p = 0.001), but similar INSL3 as controls (n = 40). After orchidectomy only (n = 25), higher LH (p = 0.02), but no differences in testosterone or INSL3 were observed compared to controls. In the longitudinal cohort, patients with normal pre-chemotherapy beta-hCG (</=5 mU/L, n = 35) had increased LH 1 year after chemotherapy compared to pre-chemotherapy (p = 0.001), and no change in testosterone or INSL3. In contrast, patients with high beta-hCG pre-chemotherapy (n = 42) had suppressed LH, markedly elevated testosterone, and low INSL3 at start of chemotherapy, with increased LH, decreased testosterone, and increased INSL3 1 year later (all p < 0.001). DISCUSSION: Changes in LH show that gonadal endocrine function is disturbed before chemotherapy, 1 year later, and at long-term follow-up in chemotherapy-treated TC patients. CONCLUSION: Pre-chemotherapy, beta-hCG-producing tumors affect the gonadal endocrine axis, demonstrated by increased testosterone and decreased LH. INSL3 did not uniformly follow the pattern of testosterone.
-
-
-Similarity: HP_0000028(cryptorchidism)<> HP_0000135(hypogonadism)
-Resnik 	 DiShIn 	 intrinsic 	1.80128637217
-Resnik 	 MICA 	 intrinsic 	3.58908688157
-Lin 	 DiShIn 	 intrinsic 	0.225541059546
-Lin 	 MICA 	 intrinsic 	0.449393539294
-JC 	 DiShIn 	 intrinsic 	0.0808377951549
-JC 	 MICA 	 intrinsic 	0.113702903348
-
-
-Similarity: HP_0000028(cryptorchidism)<> HP_0000815(primary hypogonadism)
-Resnik 	 DiShIn 	 intrinsic 	1.80128637217
-Resnik 	 MICA 	 intrinsic 	3.58908688157
-Lin 	 DiShIn 	 intrinsic 	0.211026798801
-Lin 	 MICA 	 intrinsic 	0.420473683107
-JC 	 DiShIn 	 intrinsic 	0.0742442116272
-JC 	 MICA 	 intrinsic 	0.101076847782
-
-
-Similarity: HP_0000028(cryptorchidism)<> HP_0002664(cancer)
+Similarity: HP_0000083(renal failure)<> HP_0011675(arrhythmias)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00237436463394
-Lin 	 MICA 	 intrinsic 	0.00237436463394
-JC 	 DiShIn 	 intrinsic 	0.0882411344167
-JC 	 MICA 	 intrinsic 	0.0882411344167
+Lin 	 DiShIn 	 intrinsic 	0.0021331977262
+Lin 	 MICA 	 intrinsic 	0.0021331977262
+JC 	 DiShIn 	 intrinsic 	0.0792592221584
+JC 	 MICA 	 intrinsic 	0.0792592221584
+
+
+Similarity: HP_0000083(renal failure)<> HP_0011675(cardiac arrhythmias)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.0021331977262
+Lin 	 MICA 	 intrinsic 	0.0021331977262
+JC 	 DiShIn 	 intrinsic 	0.0792592221584
+JC 	 MICA 	 intrinsic 	0.0792592221584
+
+
+Similarity: HP_0000083(renal failure)<> HP_0001427(mitochondrial)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0618990166438
+JC 	 MICA 	 intrinsic 	0.0618990166438
+
+
+Similarity: HP_0000083(renal failure)<> HP_0002917(hypomagnesemia)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.0016695232882
+Lin 	 MICA 	 intrinsic 	0.0016695232882
+JC 	 DiShIn 	 intrinsic 	0.0620025313137
+JC 	 MICA 	 intrinsic 	0.0620025313137
+
+
+Title: The bidirectional promoter of two genes for the mitochondrial translational apparatus in mouse is regulated by an array of CCAAT boxes interacting with the transcription factor NF-Y.
+
+Abstract: The genes for mitoribosomal protein S12 (Mrps12) and mitochondrial seryl-tRNA ligase (Sarsm and Sars2) are oppositely transcribed from a conserved promoter region of <200 bp in both human and mouse. Using a dual reporter vector we identified an array of 4 CCAAT box elements required for efficient transcription of the two genes in cultured mouse 3T3 cells, and for enforcing directionality in favour of Mrps12. Electrophoretic mobility shift assay (EMSA) and in vivo footprinting confirmed the importance of these promoter elements as sites of protein-binding, and EMSA supershift and chromatin immunoprecipitation (ChIP) assays identified NF-Y as the key transcription factor involved, revealing a common pattern of protein-DNA interactions in all tissues tested (liver, brain, heart, kidney and 3T3 cells). The inherently bidirectional activity of NF-Y makes it an especially suitable factor to govern promoters of this class, whose expression is linked to cell proliferation.
+
+
+Similarity: HP_0000083(renal failure)<> HP_0001427(mitochondrial)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0618990166438
+JC 	 MICA 	 intrinsic 	0.0618990166438
 
 
 ########################################
-Gene: MED13L
+Gene: ASB10
 
-Title: Mediator complex component MED13 regulates zygotic genome activation and is required for postimplantation development in the mouse.
+Title: Variants in the ASB10 Gene Are Associated with Primary Open Angle Glaucoma.
 
-Abstract: Understanding factors that regulate zygotic genome activation (ZGA) is critical for determining how cells are reprogrammed to become totipotent or pluripotent. There is limited information regarding how this process occurs physiologically in early mammalian embryos. Here, we identify a mediator complex subunit, MED13, as translated during mouse oocyte maturation and transcribed early from the zygotic genome. Knockdown and conditional knockout approaches demonstrate that MED13 is essential for ZGA in the mouse, in part by regulating expression of the embryo-specific chromatin remodeling complex, esBAF. The role of MED13 in ZGA is mediated in part by interactions with E2F transcription factors. In addition to MED13, its paralog, MED13L, is required for successful preimplantation embryo development. MED13L partially compensates for loss of MED13 function in preimplantation knockout embryos, but postimplantation development is not rescued by MED13L. Our data demonstrate an essential role for MED13 in supporting chromatin reprogramming and directed transcription of essential genes during ZGA.
-
-
-Title: MED13L-related intellectual disability: involvement of missense variants and delineation of the phenotype.
-
-Abstract: Molecular anomalies in MED13L, leading to haploinsufficiency, have been reported in patients with moderate to severe intellectual disability (ID) and distinct facial features, with or without congenital heart defects. Phenotype of the patients was referred to "MED13L haploinsufficiency syndrome." Missense variants in MED13L were already previously described to cause the MED13L-related syndrome, but only in a limited number of patients. Here we report 36 patients with MED13L molecular anomaly, recruited through an international collaboration between centers of expertise for developmental anomalies. All patients presented with intellectual disability and severe language impairment. Hypotonia, ataxia, and recognizable facial gestalt were frequent findings, but not congenital heart defects. We identified seven de novo missense variations, in addition to protein-truncating variants and intragenic deletions. Missense variants clustered in two mutation hot-spots, i.e., exons 15-17 and 25-31. We found that patients carrying missense mutations had more frequently epilepsy and showed a more severe phenotype. This study ascertains missense variations in MED13L as a cause for MED13L-related intellectual disability and improves the clinical delineation of the condition.
+Abstract: BACKGROUND: Recently nonsynonymous coding variants in the ankyrin repeats and suppressor of cytokine signaling box-containing protein 10 (ASB10) gene were found to be associated with primary open angle glaucoma (POAG) in cohorts from Oregon and Germany, but this finding was not confirmed in an independent cohort from Iowa. The aim of the current study was to assess the role of ASB10 gene variants in Pakistani glaucoma patients. METHODS: Sanger sequencing of the coding exons and splice junctions of the ASB10 gene was performed in 30 probands of multiplex POAG families, 208 sporadic POAG patients and 151 healthy controls from Pakistan. Genotypic associations of individual variants with POAG were analyzed with the Fisher's exact or Chi-square test. RESULTS: In total 24 variants were identified in POAG probands and sporadic patients, including 11 novel variants and 13 known variants. 13 of the variants were nonsynonymous, 6 were synonymous, and 5 were intronic. Three nonsynonymous variants (p.Arg49Cys, p.Arg237Gly, p.Arg453Cys) identified in the probands were not segregating in the respective families. This is not surprising since glaucoma is a multifactorial disease, and multiple factors are likely to be involved in the disease manifestation in these families. However a nonsynonymous variant, p.Arg453Cys (rs3800791), was found in 6 sporadic POAG patients but not in controls, suggesting that it infers increased risk for the disease. In addition, one synonymous variant was found to be associated with sporadic POAG: p.Ala290Ala and the association of the variant with POAG remained significant after correction for multiple testing (uncorrected p-value 0.002, corrected p-value 0.047). The cumulative burden of rare, nonsynonymous variants was significantly higher in sporadic POAG patients compared to control individuals (p-value 0.000006). CONCLUSIONS: Variants in ASB10 were found to be significantly associated with sporadic POAG in the Pakistani population. This supports previous findings that sequence variants in the ASB10 gene may act as a risk factor for glaucoma.
 
 
-Similarity: HP_0001999(facial dysmorphism)<> HP_0001627(congenital heart defects)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00267131248954
-Lin 	 MICA 	 intrinsic 	0.00267131248954
-JC 	 DiShIn 	 intrinsic 	0.0993064944679
-JC 	 MICA 	 intrinsic 	0.0993064944679
-
-
-Similarity: HP_0001999(facial dysmorphism)<> HP_0001250(epilepsy)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00234391709897
-Lin 	 MICA 	 intrinsic 	0.00234391709897
-JC 	 DiShIn 	 intrinsic 	0.0871069205545
-JC 	 MICA 	 intrinsic 	0.0871069205545
-
-
-Similarity: HP_0001999(facial dysmorphism)<> HP_0001249(intellectual disability)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00196811555683
-Lin 	 MICA 	 intrinsic 	0.00196811555683
-JC 	 DiShIn 	 intrinsic 	0.0731134784513
-JC 	 MICA 	 intrinsic 	0.0731134784513
-
-
-Similarity: HP_0001999(facial dysmorphism)<> HP_0012828(severe)
+Similarity: HP_0000501(glaucoma)<> HP_0003745(sporadic)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.066266264852
-JC 	 MICA 	 intrinsic 	0.066266264852
+JC 	 DiShIn 	 intrinsic 	0.0614979447404
+JC 	 MICA 	 intrinsic 	0.0614979447404
 
 
-Similarity: HP_0001999(facial dysmorphism)<> HP_0002463(language impairment)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00183666421124
-Lin 	 MICA 	 intrinsic 	0.00183666421124
-JC 	 DiShIn 	 intrinsic 	0.0682212100566
-JC 	 MICA 	 intrinsic 	0.0682212100566
+Similarity: HP_0000501(glaucoma)<> HP_0000501(glaucoma)
+Resnik 	 DiShIn 	 intrinsic 	7.37831430952
+Resnik 	 MICA 	 intrinsic 	7.37831430952
+Lin 	 DiShIn 	 intrinsic 	1.0
+Lin 	 MICA 	 intrinsic 	1.0
+JC 	 DiShIn 	 intrinsic 	1.0
+JC 	 MICA 	 intrinsic 	1.0
 
 
-Similarity: HP_0001999(facial dysmorphism)<> HP_0001251(ataxia)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211721297684
-Lin 	 MICA 	 intrinsic 	0.00211721297684
-JC 	 DiShIn 	 intrinsic 	0.0786640467294
-JC 	 MICA 	 intrinsic 	0.0786640467294
+Similarity: HP_0000501(glaucoma)<> HP_0012108(primary open angle glaucoma)
+Resnik 	 DiShIn 	 intrinsic 	7.37831430952
+Resnik 	 MICA 	 intrinsic 	7.37831430952
+Lin 	 DiShIn 	 intrinsic 	0.907502331368
+Lin 	 MICA 	 intrinsic 	0.907502331368
+JC 	 DiShIn 	 intrinsic 	0.664859402943
+JC 	 MICA 	 intrinsic 	0.664859402943
 
 
-Similarity: HP_0001999(facial dysmorphism)<> HP_0012826(moderate)
+Title: Analysis of microsatellite polymorphisms within the GLC1F locus in Japanese patients with normal tension glaucoma.
+
+Abstract: PURPOSE: To investigate whether the GLC1F locus is associated with normal tension glaucoma (NTG) in Japanese patients. METHODS: We recruited 242 unrelated Japanese subjects, including, 141 NTG patients and 101 healthy controls. The patients exhibiting a comparatively early onset were selected as they suggest that genetic factors may show stronger involvement. Genotyping and assessment of allelic diversity was performed on 11 highly polymorphic microsatellite markers in and around the GLC1F locus. RESULTS: Individuals carrying the 163 allele of D7S1277i had a statistically significant increased risk of NTG (p=0.0013, pc=0.016, OR=2.47, 95%CI=1.42-4.30). None of the other markers identified significant loci (pc>0.05) after Bonferroni's correction. CONCLUSIONS: These findings suggested that the genes in the GLC1F locus may be associated with the pathogenesis of NTG.
+
+
+Similarity: HP_0000501(glaucoma)<> HP_0003674(onset)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.066266264852
-JC 	 MICA 	 intrinsic 	0.066266264852
+JC 	 DiShIn 	 intrinsic 	0.0701961132224
+JC 	 MICA 	 intrinsic 	0.0701961132224
 
 
-Similarity: HP_0001999(facial dysmorphism)<> HP_0040282(frequent)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.066266264852
-JC 	 MICA 	 intrinsic 	0.066266264852
+Similarity: HP_0000501(glaucoma)<> HP_0000501(glaucoma)
+Resnik 	 DiShIn 	 intrinsic 	7.37831430952
+Resnik 	 MICA 	 intrinsic 	7.37831430952
+Lin 	 DiShIn 	 intrinsic 	1.0
+Lin 	 MICA 	 intrinsic 	1.0
+JC 	 DiShIn 	 intrinsic 	1.0
+JC 	 MICA 	 intrinsic 	1.0
 
 
 ########################################
-Gene: RET
+Gene: ACO2
 
-Title: Consecutive bouts of electrical stimulation-induced contractions alter ribosome biogenesis in rat skeletal muscle.
+Title: Zinc cooperates with p53 to inhibit the activity of mitochondrial aconitase through reactive oxygen species accumulation.
 
-Abstract: Ribosome biogenesis has been implicated in resistance exercise training (RET)-induced skeletal muscle hypertrophy. However, it is unclear how increasing bouts of RET affects ribosome content and biogenesis. This was investigated in the present study using simulated RET where rat skeletal muscle is subjected to increasing bouts of electrical stimulations. Sprague-Dawley rats were randomly assigned to the following seven groups: sedentary for 5 days (SED) or 6 weeks (SED_6w), resistance-exercise trained with 1 bout (1B), 2 bouts (2B), 3 bouts (3B), 6 bouts (6B), and 18 bouts (18B). RET was simulated on the right gastrocnemius muscle by transcutaneous electric stimulation under isoflurane anesthesia, and RET bout was given 3 times a week. Rats in 1B, 2B and 3B groups showed increased 45S precursor (pre-) rRNA and 18S+28S rRNA content per muscle weight and elevated mRNA levels of c-myc and upstream binding factor (UBF). Increases in phosphorylated UBF and total cyclin D1 protein level were observed 48 h after RET; the former increased as a function of RET duration. In 3B, 6B and 18B groups, the 18S+28S rRNA content per muscle weight was kept unchanged, and 45S pre-rRNA, cyclin D1 and phosphorylated UBF levels in 18B were lower than those in 3B. These results suggest that RET activates ribosome biogenesis and increases ribosome content through modulation of UBF and cyclin D1 activity at its early phase. Additional bouts of RET may not lead to further increase in ribosome content per muscle weight through possibly the attenuation of transcription process.
-
-
-Similarity: HP_0000843(hyperparathyroidism)<> HP_0003712(muscle hypertrophy)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0018337600905
-Lin 	 MICA 	 intrinsic 	0.0018337600905
-JC 	 DiShIn 	 intrinsic 	0.0681131409788
-JC 	 MICA 	 intrinsic 	0.0681131409788
+Abstract: Metabolic reprogramming is a central hallmark of cancer. Therefore, targeting metabolism may provide an effective strategy for identifying promising drug targets for cancer treatment. In prostate cancer, cells undergo metabolic transformation from zinc-accumulating, citrate-producing cells to citrate-oxidizing malignant cells with lower zinc levels and higher mitochondrial aconitase (ACO2) activity. ACO2 is a Krebs cycle enzyme that converts citrate to isocitrate and is sensitive to reactive oxygen species (ROS)-mediated damage. In this study, we found that the expression of ACO2 is positively correlated with the malignancy of prostate cancer. Both zinc and p53 can lead to an increase in ROS. ACO2 can be a target for remodeling metabolism by sensing changes in the ROS levels of prostate cancer. Our results indicate that targeting ACO2 through zinc and p53 can change prostate cancer metabolism, and thus provides a potential new therapeutic strategy for prostate cancer.
 
 
-Similarity: HP_0000843(hyperparathyroidism)<> HP_0012834(right)
+Similarity: HP_0000648(optic-nerve degeneration)<> HP_0030645(central)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0593524903949
-JC 	 MICA 	 intrinsic 	0.0593524903949
+JC 	 DiShIn 	 intrinsic 	0.0576059487164
+JC 	 MICA 	 intrinsic 	0.0576059487164
 
 
-Similarity: HP_0000843(hyperparathyroidism)<> HP_0003712(skeletal muscle hypertrophy)
+Similarity: HP_0000648(optic-nerve degeneration)<> HP_0012125(prostate cancer)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0018337600905
-Lin 	 MICA 	 intrinsic 	0.0018337600905
-JC 	 DiShIn 	 intrinsic 	0.0681131409788
-JC 	 MICA 	 intrinsic 	0.0681131409788
+Lin 	 DiShIn 	 intrinsic 	0.00155373183833
+Lin 	 MICA 	 intrinsic 	0.00155373183833
+JC 	 DiShIn 	 intrinsic 	0.0576955921949
+JC 	 MICA 	 intrinsic 	0.0576955921949
 
 
-Title: Clinical impact of testing for mutations and microRNAs in thyroid nodules.
-
-Abstract: BACKGROUND: We report results of a multicenter clinical experience study examining the likelihood of patients with indeterminate thyroid nodules to undergo surgery or have malignant outcome based on multiplatform combination mutation and microRNA testing (MPT). METHODS: MPT assessed mutations in BRAF, HRAS, KRAS, NRAS, and PIK3CA genes, PAX8/PPARgamma, RET/PTC1, and RET/PTC3 gene rearrangements, and the expression of 10 microRNAs. Baseline clinical information at the time of MPT and clinical follow-up records were reviewed for 337 patients, of which 80% had negative MPT results. Kaplan Meier analysis for cumulative probability of survival without having a surgical procedure or malignant diagnosis over the course of patient follow-up was determined for MPT results of 180 patients, among which only 14% had malignancy. RESULTS: A negative MPT result in nodules with Bethesda III or IV cytology (2009) conferred a high probability of non-surgical treatment, with only 11% expected to undergo surgery and a high probability of survival without malignancy (92%) for up to 2 years follow up. A positive MPT result conferred a 57% probability of malignancy and was an independent risk factor for undergoing surgical treatment (Hazard Ratio [HR] 9.2, 95% confidence intervals 5.4-15.9, P < .0001) and for malignancy (HR 13.4, 95% confidence intervals 4.8-37.2, P < .0001). For nodules with weak driver mutations, positive microRNA test results supported high risk of cancer while negative results downgraded cancer risk. CONCLUSION: MPT results are predictive of real-world decisions to surgically treat indeterminate thyroid nodules, with those decisions being appropriately aligned with a patient's risk of malignancy over time.
-
-
-Similarity: HP_0000843(hyperparathyroidism)<> HP_0002664(cancer)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00242194047658
-Lin 	 MICA 	 intrinsic 	0.00242194047658
-JC 	 DiShIn 	 intrinsic 	0.0900135406475
-JC 	 MICA 	 intrinsic 	0.0900135406475
-
-
-########################################
-Gene: KCNQ1
-
-Title: Teamwork: Ion channels and transporters join forces in the brain.
-
-Abstract: Voltage-gated potassium (Kv) channels open in response to changes in membrane potential to permit passage of K(+) ions across the cell membrane, down their electrochemical gradient. Sodium-coupled solute transporters utilize the downhill sodium gradient to co-transport solutes, ranging from ions to sugars to neurotransmitters, into the cell. A variety of recent studies have uncovered cooperation between these two structurally and functionally unrelated classes of protein, revealing previously unnoticed functional crosstalk and in many cases physical interaction to form channel-transporter (chansporter) complexes. Adding to this field, Bartolome-Martin and colleagues now report that the heteromeric KCNQ2/KCNQ3 (Kv7.2/7.3) potassium channel - the primary molecular correlate of the neuronal M-current - can physically interact with two sodium-coupled neurotransmitter transporters expressed in the brain, DAT and GLT1 (dopamine and glutamate transporters, respectively). The authors provide evidence that the interactions may enhance transporter activity while dampening the depolarizing effects of sodium influx. Cumulative evidence discussed here suggests that chansporter complexes represent a widespread form of cellular signaling hub, in the CNS and other tissues.
-
-
-Title: Involvement of sex hormonal regulation of K(+) channels in electrophysiological and contractile functions of muscle tissues.
-
-Abstract: Sex hormones, such as testosterone, progesterone, and 17beta-estradiol, control various physiological functions. This review focuses on the sex hormonal regulation of K(+) channels and the effects of such regulation on electrophysiological and contractile functions of muscles. In the cardiac tissue, testosterone and progesterone shorten action potential, and estrogen lengthens QT interval, a marker of increased risk of ventricular tachyarrhythmias. We have shown that testosterone and progesterone in physiological concentration activate KCNQ1 channels via membrane-delimited sex hormone receptor/eNOS pathways to shorten the action potential duration. Mitochondrial K(+) channels are also involved in the protection of cardiac muscle. Testosterone and 17beta-estradiol directly activate mitochondrial inner membrane K(+) channels (Ca(2+) activated K(+) channel (KCa channel) and ATP-sensitive K(+) channel (KATP channel)) that are involved in ischemic preconditioning and cardiac protection. During pregnancy, uterine blood flow increases to support fetal growth and development. It has been reported that 17beta-estradiol directly activates large-conductance Ca(2+)-activated K(+) channel (BKCa channel) attenuating arterial contraction. Furthermore, 17beta-estradiol increases expression of BKCa channel beta1 subunit which enhances BKCa channel activity by DNA demethylation. These findings are useful for understanding the mechanisms of sex or generation-dependent differences in the physiological and pathological functions of muscles, and the mechanisms of drug actions.
-
-
-Similarity: HP_0011675(cardiac arrhythmia)<> HP_0001427(mitochondrial)
+Similarity: HP_0000648(optic-nerve degeneration)<> HP_0001427(mitochondrial)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0701594965187
-JC 	 MICA 	 intrinsic 	0.0701594965187
+JC 	 DiShIn 	 intrinsic 	0.0576059487164
+JC 	 MICA 	 intrinsic 	0.0576059487164
+
+
+Similarity: HP_0000648(optic-nerve degeneration)<> HP_0002664(cancer)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00231571878196
+Lin 	 MICA 	 intrinsic 	0.00231571878196
+JC 	 DiShIn 	 intrinsic 	0.0860565549974
+JC 	 MICA 	 intrinsic 	0.0860565549974
+
+
+Title: Elevated CO2 and virus infection impacts wheat and aphid metabolism.
+
+Abstract: INTRODUCTION: The aphid Rhopalosiphum padi L. is a vector of Barley yellow dwarf virus (BYDV) in wheat and other economically important cereal crops. Increased atmospheric CO2 has been shown to alter plant growth and metabolism, enhancing BYDV disease in wheat. However, the biochemical influences on aphid metabolism are not known. OBJECTIVES: This work aims to determine whether altered host-plant quality, influenced by virus infection and elevated CO2, impacts aphid weight and metabolism. METHODS: Untargeted (1)H NMR metabolomics coupled with multivariate statistics were employed to profile the metabolism of R. padi reared on virus-infected and non-infected (sham-inoculated) wheat grown under ambient CO2 (aCO2, 400 micromol mol(-1)) and future, predicted elevated CO2 (eCO2, 650 micromol mol(-1)) concentrations. Un-colonised wheat was also profiled to observe changes to host-plant quality (i.e., amino acids and sugars). RESULTS: The direct impacts of virus or eCO2 were compared. Virus presence increased aphid weight under aCO2 but decreased weight under eCO2; whilst eCO2 increased non-viruliferous (sham) aphid weight but decreased viruliferous aphid weight. Discriminatory metabolites due to eCO2 were succinate and sucrose (in sham wheat), glucose, choline and betaine (in infected wheat), and threonine, lactate, alanine, GABA, glutamine, glutamate and asparagine (in aphids), irrespective of virus presence. Discriminatory metabolites due to virus presence were alanine, GABA, succinate and betaine (in wheat) and threonine and lactate (in aphids), irrespective of CO2 treatment. CONCLUSION: This study confirms that virus and eCO2 alter host-plant quality, and these differences are reflected by aphid weight and metabolism.
+
+
+Similarity: HP_0000648(optic-nerve degeneration)<> HP_0004325(decreased weight)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00173255973058
+Lin 	 MICA 	 intrinsic 	0.00173255973058
+JC 	 DiShIn 	 intrinsic 	0.0643476332612
+JC 	 MICA 	 intrinsic 	0.0643476332612
 
 
 ########################################
-Gene: FAN1
+Gene: ZFYVE26
 
-Title: FAN1 modifies Huntington's disease progression by stabilizing the expanded HTT CAG repeat.
+Title: Screening for susceptibility genes in hereditary non-polyposis colorectal cancer.
 
-Abstract: Huntington's disease (HD) is an inherited neurodegenerative disease caused by an expanded CAG repeat in the huntingtin (HTT) gene. CAG repeat length explains around half of the variation in age at onset (AAO) but genetic variation elsewhere in the genome accounts for a significant proportion of the remainder. Genome-wide association studies have identified a bidirectional signal on chromosome 15, likely underlain by FANCD2- and FANCI-associated nuclease 1 (FAN1), a nuclease involved in DNA interstrand cross link repair. Here we show that increased FAN1 expression is significantly associated with delayed AAO and slower progression of HD, suggesting FAN1 is protective in the context of an expanded HTT CAG repeat. FAN1 overexpression in human cells reduces CAG repeat expansion in exogenously expressed mutant HTT exon 1, and in patient-derived stem cells and differentiated medium spiny neurons, FAN1 knockdown increases CAG repeat expansion. The stabilizing effects are FAN1 concentration and CAG repeat length-dependent. We show that FAN1 binds to the expanded HTT CAG repeat DNA and its nuclease activity is not required for protection against CAG repeat expansion. These data shed new mechanistic insights into how the genetic modifiers of HD act to alter disease progression and show that FAN1 affects somatic expansion of the CAG repeat through a nuclease-independent mechanism. This provides new avenues for therapeutic interventions in HD and potentially other triplet repeat disorders.
+Abstract: In the present study, hereditary non-polyposis colorectal cancer (HNPCC) susceptibility genes were screened for using whole exome sequencing in 3 HNPCC patients from 1 family and using single nucleotide polymorphism (SNP) genotyping assays in 96 other colorectal cancer and control samples. Peripheral blood was obtained from 3 HNPCC patients from 1 family; the proband and the proband's brother and cousin. High-throughput sequencing was performed using whole exome capture technology. Sequences were aligned against the HAPMAP, dbSNP130 and 1,000 Genome Project databases. Reported common variations and synonymous mutations were filtered out. Non-synonymous single nucleotide variants in the 3 HNPCC patients were integrated and the candidate genes were identified. Finally, SNP genotyping was performed for the genes in 96 peripheral blood samples. In total, 60.4 Gb of data was retrieved from the 3 HNPCC patients using whole exome capture technology. Subsequently, according to certain screening criteria, 15 candidate genes were identified. Among the 96 samples that had been SNP genotyped, 92 were successfully genotyped for 15 gene loci, while genotyping for HTRA1 failed in 4 sporadic colorectal cancer patient samples. In 12 control subjects and 81 sporadic colorectal cancer patients, genotypes at 13 loci were wild-type, namely DDX20, ZFYVE26, PIK3R3, SLC26A8, ZEB2, TP53INP1, SLC11A1, LRBA, CEBPZ, ETAA1, SEMA3G, IFRD2 and FAT1. The CEP290 genotype was mutant in 1 sporadic colorectal cancer patient and was wild-type in all other subjects. A total of 5 of the 12 control subjects and 30 of the 81 sporadic colorectal cancer patients had a mutant HTRA1 genotype. In all 3 HNPCC patients, the same mutant genotypes were identified at all 15 gene loci. Overall, 13 potential susceptibility genes for HNPCC were identified, namely DDX20, ZFYVE26, PIK3R3, SLC26A8, ZEB2, TP53INP1, SLC11A1, LRBA, CEBPZ, ETAA1, SEMA3G, IFRD2 and FAT1.
 
 
-Similarity: HP_0001970(interstitial nephritis)<> HP_0003674(onset)
+Similarity: HP_0001258(spastic paraplegia)<> HP_0003745(sporadic)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0576059487164
+JC 	 MICA 	 intrinsic 	0.0576059487164
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0030646(peripheral)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0576059487164
+JC 	 MICA 	 intrinsic 	0.0576059487164
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0002664(cancer)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00231571878196
+Lin 	 MICA 	 intrinsic 	0.00231571878196
+JC 	 DiShIn 	 intrinsic 	0.0860565549974
+JC 	 MICA 	 intrinsic 	0.0860565549974
+
+
+Title: Congenital disorders of autophagy: an emerging novel class of inborn errors of neuro-metabolism.
+
+Abstract: Single gene disorders of the autophagy pathway are an emerging, novel and diverse group of multisystem diseases in children. Clinically, these disorders prominently affect the central nervous system at various stages of development, leading to brain malformations, developmental delay, intellectual disability, epilepsy, movement disorders, and neurodegeneration, among others. Frequent early and severe involvement of the central nervous system puts the paediatric neurologist, neurogeneticist, and neurometabolic specialist at the forefront of recognizing and treating these rare conditions. On a molecular level, mutations in key autophagy genes map to different stages of this highly conserved pathway and thus lead to impairment in isolation membrane (or phagophore) and autophagosome formation, maturation, or autophagosome-lysosome fusion. Here we discuss 'congenital disorders of autophagy' as an emerging subclass of inborn errors of metabolism by using the examples of six recently identified monogenic diseases: EPG5-related Vici syndrome, beta-propeller protein-associated neurodegeneration due to mutations in WDR45, SNX14-associated autosomal-recessive cerebellar ataxia and intellectual disability syndrome, and three forms of hereditary spastic paraplegia, SPG11, SPG15 and SPG49 caused by SPG11, ZFYVE26 and TECPR2 mutations, respectively. We also highlight associations between defective autophagy and other inborn errors of metabolism such as lysosomal storage diseases and neurodevelopmental diseases associated with the mTOR pathway, which may be included in the wider spectrum of autophagy-related diseases from a pathobiological point of view. By exploring these emerging themes in disease pathogenesis and underlying pathophysiological mechanisms, we discuss how congenital disorders of autophagy inform our understanding of the importance of this fascinating cellular pathway for central nervous system biology and disease. Finally, we review the concept of modulating autophagy as a therapeutic target and argue that congenital disorders of autophagy provide a unique genetic perspective on the possibilities and challenges of pathway-specific drug development.
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0002180(neurodegeneration)
+Resnik 	 DiShIn 	 intrinsic 	1.04785375038
+Resnik 	 MICA 	 intrinsic 	2.08222163799
+Lin 	 DiShIn 	 intrinsic 	0.12361246004
+Lin 	 MICA 	 intrinsic 	0.245634029489
+JC 	 DiShIn 	 intrinsic 	0.0673031494297
+JC 	 MICA 	 intrinsic 	0.0781896902378
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0030645(central)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0576059487164
+JC 	 MICA 	 intrinsic 	0.0576059487164
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0001250(epilepsy)
+Resnik 	 DiShIn 	 intrinsic 	1.41837718674
+Resnik 	 MICA 	 intrinsic 	2.82326851071
+Lin 	 DiShIn 	 intrinsic 	0.205923031986
+Lin 	 MICA 	 intrinsic 	0.409888157587
+JC 	 DiShIn 	 intrinsic 	0.0914156583762
+JC 	 MICA 	 intrinsic 	0.123012391237
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0010550(paraplegia)
+Resnik 	 DiShIn 	 intrinsic 	4.61548121421
+Resnik 	 MICA 	 intrinsic 	8.18924452574
+Lin 	 DiShIn 	 intrinsic 	0.553874213806
+Lin 	 MICA 	 intrinsic 	0.982738562426
+JC 	 DiShIn 	 intrinsic 	0.134495216066
+JC 	 MICA 	 intrinsic 	3.47605949678
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0012828(severe)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0576059487164
+JC 	 MICA 	 intrinsic 	0.0576059487164
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0001258(spastic paraplegia)
+Resnik 	 DiShIn 	 intrinsic 	8.47692659819
+Resnik 	 MICA 	 intrinsic 	8.47692659819
+Lin 	 DiShIn 	 intrinsic 	1.0
+Lin 	 MICA 	 intrinsic 	1.0
+JC 	 DiShIn 	 intrinsic 	1.0
+JC 	 MICA 	 intrinsic 	1.0
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0001251(ataxia)
+Resnik 	 DiShIn 	 intrinsic 	2.38035550616
+Resnik 	 MICA 	 intrinsic 	4.74722514955
+Lin 	 DiShIn 	 intrinsic 	0.317212758425
+Lin 	 MICA 	 intrinsic 	0.632628353477
+JC 	 DiShIn 	 intrinsic 	0.0975873286157
+JC 	 MICA 	 intrinsic 	0.181373232118
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0001249(intellectual disability)
+Resnik 	 DiShIn 	 intrinsic 	1.41837718674
+Resnik 	 MICA 	 intrinsic 	2.82326851071
+Lin 	 DiShIn 	 intrinsic 	0.1775965768
+Lin 	 MICA 	 intrinsic 	0.353504573802
+JC 	 DiShIn 	 intrinsic 	0.0761251125885
+JC 	 MICA 	 intrinsic 	0.0968383543755
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0001263(developmental delay)
+Resnik 	 DiShIn 	 intrinsic 	1.41837718674
+Resnik 	 MICA 	 intrinsic 	2.82326851071
+Lin 	 DiShIn 	 intrinsic 	0.174454563703
+Lin 	 MICA 	 intrinsic 	0.347250421718
+JC 	 DiShIn 	 intrinsic 	0.0744937129278
+JC 	 MICA 	 intrinsic 	0.0942136874332
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0001251(cerebellar ataxia)
+Resnik 	 DiShIn 	 intrinsic 	2.38035550616
+Resnik 	 MICA 	 intrinsic 	4.74722514955
+Lin 	 DiShIn 	 intrinsic 	0.317212758425
+Lin 	 MICA 	 intrinsic 	0.632628353477
+JC 	 DiShIn 	 intrinsic 	0.0975873286157
+JC 	 MICA 	 intrinsic 	0.181373232118
+
+
+Similarity: HP_0001258(spastic paraplegia)<> HP_0040282(frequent)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0576059487164
+JC 	 MICA 	 intrinsic 	0.0576059487164
+
+
+########################################
+Gene: C1QTNF5
+
+Title: Cataract surgery in patients with late-onset retinal degeneration.
+
+Abstract: PURPOSE: To review the outcomes in a series of patients with long anterior lens zonular fibers associated with late-onset retinal degeneration who had phacoemulsification cataract surgery. SETTING: Newcastle Eye Centre, Newcastle upon Tyne, United Kingdom. DESIGN: Retrospective case series. METHODS: Inclusion criteria were patients with genetically confirmed late-onset retinal degeneration requiring cataract surgery. Perioperative data relating to surgery were collected. In addition, the corrected distance visual acuity (CDVA) and retinal imaging data were recorded. Selected lens capsules were examined using immunohistochemistry or scanning electron microscopy (SEM). RESULTS: Eleven eyes of 7 patients were included. The long anterior lens zonular fibers made capsulorhexis challenging; however, it was completed safely in all cases. There were no intraoperative or postoperative issues with lens stability. The CDVA improved postoperatively in those cases with intact foveal photoreceptors and retinal pigment epithelium. Over the longer term, the CDVA slowly declined because of progressive atrophy of the macula. Most patients noticed a subjective improvement in vision, even those with advanced disease at baseline. Immunohistochemistry showed that the C1QTNF5 protein was expressed within the lens capsule epithelial cells, although SEM of the long anterior lens zonular fibers showed them to be smaller in diameter than normal anterior lens zonular fibers and to be composed of a helix of fibers. CONCLUSIONS: In this small series of patients with late-onset retinal degeneration, cataract surgery was successfully performed without long-term complications involving intraocular lens stability. The objective improvement in CDVA seemed to be limited to patients with good foveal photoreceptor architecture.
+
+
+Similarity: HP_0000546(retinal degeneration)<> HP_0000546(retinal degeneration)
+Resnik 	 DiShIn 	 intrinsic 	6.63109990769
+Resnik 	 MICA 	 intrinsic 	6.63109990769
+Lin 	 DiShIn 	 intrinsic 	1.0
+Lin 	 MICA 	 intrinsic 	1.0
+JC 	 DiShIn 	 intrinsic 	1.0
+JC 	 MICA 	 intrinsic 	1.0
+
+
+Similarity: HP_0000546(retinal degeneration)<> HP_0003676(progressive)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0644600213081
+JC 	 MICA 	 intrinsic 	0.0644600213081
+
+
+Similarity: HP_0000546(retinal degeneration)<> HP_0000518(cataract)
+Resnik 	 DiShIn 	 intrinsic 	3.10628857006
+Resnik 	 MICA 	 intrinsic 	3.10628857006
+Lin 	 DiShIn 	 intrinsic 	0.501015242886
+Lin 	 MICA 	 intrinsic 	0.501015242886
+JC 	 DiShIn 	 intrinsic 	0.161618795456
+JC 	 MICA 	 intrinsic 	0.161618795456
+
+
+Title: Aerobic exercise training-induced changes in serum C1q/TNF-related protein levels are associated with reduced arterial stiffness in middle-aged and older adults.
+
+Abstract: Adiponectin regulates endothelial nitric oxide synthase in endothelial cells, and body fat loss by aerobic exercise training promotes adiponectin secretion. Recently, C1q/tumor necrosis factor-related proteins (CTRPs) have been identified as novel adipokines and are paralogs of adiponectin, but the association between exercise training-induced reduction of arterial stiffness and circulating CTRPs levels remains unclear. This study aimed to clarify whether the reduction of arterial stiffness in middle-aged and older adults is associated with the change in serum levels of CTRPs induced by exercise training. A total of 52 middle-aged and older participants were randomly divided into two groups: a training group ( n = 26) and a sedentary control group ( n = 26). Participants in the training group completed 8 wk of aerobic exercise training (60-70% peak oxygen uptake for 45 min, 3 days/wk). The reduction of percent whole body fat, abdominal visceral fat area, and carotid-femoral pulse-wave velocity (cfPWV) was significantly greater in the training group than in the control group ( P < 0.05). Moreover, the increase in serum adiponectin, CTRP3, and CTRP5 from baseline to 8 wk was significantly higher in the training group compared with the control group ( P < 0.05). Additionally, the training-induced change in cfPWV was negatively correlated with the training-induced change in serum adiponectin, CTRP3, and CTRP5 levels ( r = -0.51, r = -0.48, r = -0.42, respectively, P < 0.05), and increased plasma nitrite/nitrate level by exercise training was correlated only with adiponectin levels ( r = 0.41, P < 0.05). These results suggest that the exercise training-induced increase in serum CTRPs levels may be associated with the reduction of arterial stiffness in middle-aged and older adults.
+
+
+########################################
+Gene: HFM1
+
+Title: Concerted action of the MutLbeta heterodimer and Mer3 helicase regulates the global extent of meiotic gene conversion.
+
+Abstract: Gene conversions resulting from meiotic recombination are critical in shaping genome diversification and evolution. How the extent of gene conversions is regulated is unknown. Here we show that the budding yeast mismatch repair related MutLbeta complex, Mlh1-Mlh2, specifically interacts with the conserved meiotic Mer3 helicase, which recruits it to recombination hotspots, independently of mismatch recognition. This recruitment is essential to limit gene conversion tract lengths genome-wide, without affecting crossover formation. Contrary to expectations, Mer3 helicase activity, proposed to extend the displacement loop (D-loop) recombination intermediate, does not influence the length of gene conversion events, revealing non-catalytical roles of Mer3. In addition, both purified Mer3 and MutLbeta preferentially recognize D-loops, providing a mechanism for limiting gene conversion in vivo. These findings show that MutLbeta is an integral part of a new regulatory step of meiotic recombination, which has implications to prevent rapid allele fixation and hotspot erosion in populations.
+
+
+Title: Damage Detection and Evaluation for an In-Service Shield Tunnel Based on the Monitored Increment of Neutral Axis Depth Using Long-Gauge Fiber Bragg Grating Sensors.
+
+Abstract: It is difficult to detect and evaluate the structural damage in a shield tunnel during operation because many traditional techniques based on the observation of vibrations are limited in daily monitoring in tunnels. Thus, the curvature radius of a static longitudinal settlement curve is used to identify the residual health and safety of an in-service shield tunnel. However, there are still two problems. The curvature radius is suitable for a qualitative judgment rather than a quantitative evaluation for longitudinal damage detection. Moreover, the curvature radius, which is calculated from the measured settlements of three neighboring points, gives an average damage degree in a wide scope only and is difficult to use to identify the damage's precise location. By means of the analysis of three kinds of longitudinal failure modes in a shield tunnel, this paper proposes: (1) a damage detection method based on the monitored increment of the neutral axis depth; and (2) an index to evaluate longitudinal damage. The index is composed of the residual ratios of the equivalent flexural stiffness (HFM1) and the equivalent shear stiffness (HFM3). The neutral axis position and the proposed damage index can be determined using long-gauge Fiber Bragg Grating sensors. Results from numerical simulations show that the deviation between the HFM1 and the true value residual ratio of the equivalent flexural stiffness is no more than 1.7%. The HFM3 is equal to its true value in the entire damage process. A loading experiment for a scaled-down model of a shield tunnel using long-gauge Fiber Bragg Grating sensors indicated that the errors in the HFM1 were no more than 5.0% in the case of early damage development (HFM1 >/= 0.5). The maximum error did not exceed 9.0% even under severe damage conditions in the model. Meanwhile, the HFM3 also coincided with its true value in the entire testing process.
+
+
+Similarity: HP_0008209(premature ovarian failure)<> HP_0012830(position)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
@@ -220,262 +400,190 @@ JC 	 DiShIn 	 intrinsic 	0.0664154691429
 JC 	 MICA 	 intrinsic 	0.0664154691429
 
 
-Similarity: HP_0001970(interstitial nephritis)<> HP_0002180(neurodegenerative disease)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00161835165023
-Lin 	 MICA 	 intrinsic 	0.00161835165023
-JC 	 DiShIn 	 intrinsic 	0.0600990453962
-JC 	 MICA 	 intrinsic 	0.0600990453962
-
-
-Title: Whole-Genome Sequence of Acetobacter orientalis Strain FAN1, Isolated from Caucasian Yogurt.
-
-Abstract: In traditional Caucasian yogurt, Acetobacter orientalis bacteria play important roles in the fermentation of milk in concert with Lactococcus bacteria. In this study, an A. orientalis strain, FAN1, was newly isolated from commercially available Caucasian yogurt, and its whole-genome sequence was determined, identifying two circular DNAs.
+Similarity: HP_0008209(premature ovarian failure)<> HP_0012828(severe)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0562911450579
+JC 	 MICA 	 intrinsic 	0.0562911450579
 
 
 ########################################
-Gene: DNAJC13
+Gene: FOXRED1
 
-Title: A clinical and genetic study of early-onset and familial parkinsonism in taiwan: An integrated approach combining gene dosage analysis and next-generation sequencing.
+Title: Congenital lactic acidosis, cerebral cysts and pulmonary hypertension in an infant with FOXRED1 related complex I deficiency.
 
-Abstract: BACKGROUND: Recent genetic progress has allowed for the molecular diagnosis of Parkinson's disease. However, genetic causes of PD vary widely in different ethnicities. Mutational frequencies and clinical phenotypes of genes associated with PD in Asian populations are largely unknown. The objective of this study was to identify the mutational frequencies and clinical spectrums of multiple PD-causative genes in a Taiwanese PD cohort. METHODS: A total of 571 participants including 324 patients with early-onset parkinsonism (onset age, <50 years) and 247 parkinsonism pedigrees were recruited at a tertiary referral center in Taiwan from 2002 to 2017. Genetic causes were identified by an integrated approach including gene dosage analysis, a targeted next-generation sequencing panel containing 40 known PD-causative genes, repeat-primed polymerase chain reaction, and whole-exome sequencing analysis. RESULTS: Thirty of the 324 patients with early-onset parkinsonism (9.3%) were found to carry mutations in Parkin, PINK1, or PLA2G6 or had increased trinucleotide repeats in SCA8. Twenty-nine of 109 probands with autosomal-recessive inheritance of parkinsonism (26.6%) were found to carry mutations in Parkin, PINK1, GBA, or HTRA2. The genetic causes for the 138 probands with an autosomal-dominant inheritance pattern of parkinsonism were more heterogeneous. Seventeen probands (12.3%) carried pathogenic mutations in LRRK2, VPS35, MAPT, GBA, DNAJC13, C9orf72, SCA3, or SCA17. A novel missense mutation in the UQCRC1 gene was found in a family with autosomal-dominant inheritance parkinsonism via whole-exome sequencing analysis. CONCLUSIONS: Our findings provide a better understanding of the genetic architecture of PD in eastern Asia and broaden the clinical spectrum of PD-causing mutations. (c) 2019 The Authors. Movement Disorders published by Wiley Periodicals, Inc. on behalf of International Parkinson and Movement Disorder Society.
+Abstract: Mitochondrial complex I is encoded by 38 nuclear-encoded and 7 mitochondrial-encoded genes. FOXRED1 is one of the 13 additional nuclear genes known as assembly factors. So far, four patients have been described with complex I deficiency caused by autosomal recessive mutations in FOXRED1. Here, we report the fifth patient with FOXRED1 related complex 1 deficiency presenting with prenatal onset of bilateral periventricular cysts, congenital lactic acidosis, and persistent life-limiting pulmonary hypertension. Whole exome sequencing identified a compound heterozygosity for a known pathogenic variant (c.612_615dupAGTG; p.A206SfsX15) (paternal) and a likely pathogenic variant (c.874G>A; p.Gly292Arg) (maternal). Deficiency of complex I was demonstrated by the absence of complex I on Blue Native Gel Electrophoresis and by a significantly reduced complex I enzyme activity in the patient's fibroblasts. Compared with the previous known FOXRED1 cases, unique clinical features observed in our patient include bilateral periventricular cysts and severe pulmonary hypertension. Whole exome sequencing was instrumental in recognizing the underlying gene defect in this patient.
 
 
-Similarity: HP_0001300(parkinsonism)<> HP_0003674(onset)
+Similarity: HP_0001250(epilepsy)<> HP_0003577(prenatal onset)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0651702903953
-JC 	 MICA 	 intrinsic 	0.0651702903953
+JC 	 DiShIn 	 intrinsic 	0.0705155736869
+JC 	 MICA 	 intrinsic 	0.0705155736869
 
 
-Similarity: HP_0001300(parkinsonism)<> HP_0001425(heterogeneous)
+Similarity: HP_0001250(epilepsy)<> HP_0012832(bilateral)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
+JC 	 DiShIn 	 intrinsic 	0.0705155736869
+JC 	 MICA 	 intrinsic 	0.0705155736869
 
 
-Similarity: HP_0001300(parkinsonism)<> HP_0100022(movement disorder)
+Similarity: HP_0001250(epilepsy)<> HP_0003128(lactic acidosis)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00212757967338
+Lin 	 MICA 	 intrinsic 	0.00212757967338
+JC 	 DiShIn 	 intrinsic 	0.0790500376625
+JC 	 MICA 	 intrinsic 	0.0790500376625
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0001941(acidosis)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00236414165219
+Lin 	 MICA 	 intrinsic 	0.00236414165219
+JC 	 DiShIn 	 intrinsic 	0.0878603061268
+JC 	 MICA 	 intrinsic 	0.0878603061268
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0007109(periventricular cysts)
+Resnik 	 DiShIn 	 intrinsic 	2.08222163799
+Resnik 	 MICA 	 intrinsic 	2.08222163799
+Lin 	 DiShIn 	 intrinsic 	0.302301388496
+Lin 	 MICA 	 intrinsic 	0.302301388496
+JC 	 DiShIn 	 intrinsic 	0.104043590793
+JC 	 MICA 	 intrinsic 	0.104043590793
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0003674(onset)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0821938427372
+JC 	 MICA 	 intrinsic 	0.0821938427372
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0000007(autosomal recessive)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0725910688324
+JC 	 MICA 	 intrinsic 	0.0725910688324
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0012828(severe)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0705155736869
+JC 	 MICA 	 intrinsic 	0.0705155736869
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0000822(hypertension)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00208622209849
+Lin 	 MICA 	 intrinsic 	0.00208622209849
+JC 	 DiShIn 	 intrinsic 	0.0775101880974
+JC 	 MICA 	 intrinsic 	0.0775101880974
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0004902(congenital lactic acidosis)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00190192669988
+Lin 	 MICA 	 intrinsic 	0.00190192669988
+JC 	 DiShIn 	 intrinsic 	0.0706499447031
+JC 	 MICA 	 intrinsic 	0.0706499447031
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0001427(mitochondrial)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0705155736869
+JC 	 MICA 	 intrinsic 	0.0705155736869
+
+
+Title: FOXRED1 silencing in mice: a possible animal model for Leigh syndrome.
+
+Abstract: Leigh syndrome (LS) is one of the most puzzling mitochondrial disorders, which is also known as subacute necrotizing encephalopathy. It has an incidence of 1 in 77,000 live births worldwide with poor prognosis. Currently, there is a poor understanding of the underlying pathophysiological mechanisms of the disease without any available effective treatment. Hence, the inevitability for developing suitable animal and cellular models needed for the development of successful new therapeutic modalities. In this short report, we blocked FOXRED1 gene with small interfering RNA (siRNA) using C57bl/6 mice. Results showed neurobehavioral changes in the injected mice along with parallel degeneration in corpus striatum and sparing of the substantia nigra similar to what happen in Leigh syndrome cases. FOXRED1 blockage could serve as a new animal model for Leigh syndrome due to defective CI, which echoes damage to corpus striatum and affection of the central dopaminergic system in this disease. Further preclinical studies are required to validate this model.
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0030645(central)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0705155736869
+JC 	 MICA 	 intrinsic 	0.0705155736869
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0011011(subacute)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0705155736869
+JC 	 MICA 	 intrinsic 	0.0705155736869
+
+
+Similarity: HP_0001250(epilepsy)<> HP_0006976(necrotizing encephalopathy)
 Resnik 	 DiShIn 	 intrinsic 	2.82326851071
 Resnik 	 MICA 	 intrinsic 	2.82326851071
-Lin 	 DiShIn 	 intrinsic 	0.440031855327
-Lin 	 MICA 	 intrinsic 	0.440031855327
-JC 	 DiShIn 	 intrinsic 	0.139167753261
-JC 	 MICA 	 intrinsic 	0.139167753261
+Lin 	 DiShIn 	 intrinsic 	0.398168797411
+Lin 	 MICA 	 intrinsic 	0.398168797411
+JC 	 DiShIn 	 intrinsic 	0.117168357811
+JC 	 MICA 	 intrinsic 	0.117168357811
 
 
-Similarity: HP_0001300(parkinsonism)<> HP_0001300(parkinsonism)
-Resnik 	 DiShIn 	 intrinsic 	8.47692659819
-Resnik 	 MICA 	 intrinsic 	8.47692659819
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0001300(parkinsonism)<> HP_0000005(inheritance)
+Similarity: HP_0001250(epilepsy)<> HP_0001427(mitochondrial)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0687003909499
-JC 	 MICA 	 intrinsic 	0.0687003909499
+JC 	 DiShIn 	 intrinsic 	0.0705155736869
+JC 	 MICA 	 intrinsic 	0.0705155736869
 
 
-Title: New Genes Causing Hereditary Parkinson's Disease or Parkinsonism.
-
-Abstract: PURPOSE OF REVIEW: This article reviews was to review genes where putative or confirmed pathogenic mutations causing Parkinson's disease or Parkinsonism have been identified since 2012, and summarizes the clinical and pathological picture of the associated disease subtypes. RECENT FINDINGS: Newly reported genes for dominant Parkinson's disease are DNAJC13, CHCHD2, and TMEM230. However, the evidence for a disease-causing role is not conclusive, and further genetic and functional studies are warranted. RIC3 mutations have been reported from one family but not yet encountered in other patients. New genes for autosomal recessive disease include SYNJ1, DNAJC6, VPS13C, and PTRHD1. Deletions of a region on chromosome 22 (22q11.2del) are also associated with early-onset PD, but the mode of inheritance and the underlying causative gene remain unclear. PODXL mutations were reported in autosomal recessive PD, but their roles remain to be confirmed. Mutations in RAB39B cause an X-linked Parkinsonian disorder. Mutations in the new dominant PD genes have generally been found in medium- to late-onset Parkinson's disease. Many mutations in the new recessive and X-chromosomal genes cause severe atypical juvenile Parkinsonism, but less devastating mutations in these genes may cause PD.
-
-
-Similarity: HP_0001300(parkinsonism)<> HP_0000007(autosomal recessive)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0589836415602
-JC 	 MICA 	 intrinsic 	0.0589836415602
-
-
-Similarity: HP_0001300(parkinsonism)<> HP_0012828(severe)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0001300(parkinsonism)<> HP_0001300(parkinsonism)
-Resnik 	 DiShIn 	 intrinsic 	8.47692659819
-Resnik 	 MICA 	 intrinsic 	8.47692659819
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0001300(parkinsonism)<> HP_0001417(x-linked)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0600017840069
-JC 	 MICA 	 intrinsic 	0.0600017840069
-
-
-Similarity: HP_0001300(parkinsonism)<> HP_0000005(inheritance)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0687003909499
-JC 	 MICA 	 intrinsic 	0.0687003909499
+Similarity: HP_0001250(epilepsy)<> HP_0001298(encephalopathy)
+Resnik 	 DiShIn 	 intrinsic 	2.82326851071
+Resnik 	 MICA 	 intrinsic 	2.82326851071
+Lin 	 DiShIn 	 intrinsic 	0.466585658454
+Lin 	 MICA 	 intrinsic 	0.466585658454
+JC 	 DiShIn 	 intrinsic 	0.154911806198
+JC 	 MICA 	 intrinsic 	0.154911806198
 
 
 ########################################
-Gene: TTC7A
+Gene: POLR1C
 
-Title: Epithelial proliferation in inflammatory skin disease is regulated by tetratricopeptide repeat domain 7 (Ttc7) in fibroblasts and lymphocytes.
+Title: Restoration of polr1c in Early Embryogenesis Rescues the Type 3 Treacher Collins Syndrome Facial Malformation Phenotype in Zebrafish.
 
-Abstract: BACKGROUND: Mutations in tetratricopeptide repeat domain 7A (TTC7A) and its mouse orthologue, Ttc7, result in a multisystemic disease, mostly affecting the epithelial barriers and immune system. Despite successful hematopoietic stem cell transplantation, ongoing progression of gastrointestinal manifestations can be life-threatening in TTC7A-deficient patients. OBJECTIVE: We sought to identify whether TTC7A mutations dysregulate epithelial cells only or whether a cell-intrinsic defect in lymphocytes or other cells contributes to disease manifestations. METHODS: Ttc7-mutated (Ttc7(fsn/fsn)) mice were crossed to generate double-mutant (Rag2(-/-)Ttc7(fsn/fsn)) and triple-mutant (Rag2(-/-)IL2rg(-/-)Ttc7(fsn/fsn)) mice. These models, together with bone marrow chimeras, were used to explore the role of adaptive and innate lymphocytes in the flaky skin phenotype. The effect of the Ttc7(fsn/fsn) mutation on stromal cells was tested in a xenograft model in conjunction with transcriptomic analysis of Ttc7(fsn/fsn) fibroblasts. RESULTS: We observed that the severity of epithelial hyperproliferation was accentuated by lymphocytes, whereas the phenotype was not induced by transfer of Ttc7-mutated hematopoietic cells. Furthermore, mice completely lacking the lymphocytic compartment were not protected from epithelial hyperproliferation. Ttc7-mutated mouse fibroblasts expressed increased transcript levels of insulin-like growth factor 1 (Igf1) and the antimicrobial protein regenerating islet-derived protein 3gamma (Reg3gamma). In a xenograft model Ttc7-mutated fibroblasts markedly increased epithelial proliferation of keratinocytes. Thus Ttc7-mutated fibroblasts were identified as potent instigators of epithelial hyperproliferation. CONCLUSION: Our results reveal a previously unsuspected fundamental cell-extrinsic role of Ttc7. We have identified potential candidates for molecularly targeted treatment strategies that will need to be evaluated in future preclinical studies.
+Abstract: Treacher Collins syndrome (TCS) is a rare congenital birth disorder (1 in 50,000 live births) characterized by severe craniofacial defects. Recently, the authors' group unfolded the pathogenesis of polr1c Type 3 TCS by using the zebrafish model. Facial development depends on the neural crest cells, in which polr1c plays a role in regulating their expression. In this study, the authors aimed to identify the functional time window of polr1c in TCS by the use of photo-morpholino to restore the polr1c expression at different time points. Results suggested that the restoration of polr1c at 8 hours after fertilization could rescue the TCS facial malformation phenotype by correcting the neural crest cell expression, reducing the cell death, and normalizing the p53 mRNA expression level in the rescued morphants. However, such recovery could not be reproduced if the polr1c is restored after 30 hours after fertilization.
 
 
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0012824(severity)
+Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0012828(severe)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.074382803985
-JC 	 MICA 	 intrinsic 	0.074382803985
+JC 	 DiShIn 	 intrinsic 	0.0562911450579
+JC 	 MICA 	 intrinsic 	0.0562911450579
 
 
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0011123(inflammatory skin disease)
-Resnik 	 DiShIn 	 intrinsic 	1.61386113603
-Resnik 	 MICA 	 intrinsic 	3.21423640928
-Lin 	 DiShIn 	 intrinsic 	0.282647929993
-Lin 	 MICA 	 intrinsic 	0.562933976977
-JC 	 DiShIn 	 intrinsic 	0.122072346953
-JC 	 MICA 	 intrinsic 	0.20035611593
-
-
-Title: Congenital intestinal atresias with multiple episodes of sepsis: A case report and review of literature.
-
-Abstract: INTRODUCTION: Hereditary multiple intestinal atresia associated with severe combined immunodeficiency (MIA-SCID) is a very rare disease caused by deleterious mutations in the tetratricopeptide repeat domain-containing protein 7A gene TTC7A. It is characterized by intestinal obstruction, sepsis, and a poor prognosis. Insights into phenotype-genotype correlations could help to guide genetic counseling and increase our knowledge of the natural history of this disease. CASE PRESENTATION: We report the case of a newborn in which his fetal magnetic resonance imaging showed jejunal atresia and microcolon and an abdominal x-ray at birth confirmed intestinal obstruction. The clinical course was complicated by multiple episodes of sepsis, and laboratory investigations showed SCID. The genetic analysis identified a homozygous c.53344_53347 mutation in the TTC7A gene compatible with MIA-SCID syndrome. The patient required 3 operations because of new intestinal atresias in the first months of life. She underwent bone marrow transplantation at 8 months of age but died of liver failure secondary to graft-versus-host disease. CONCLUSION: Immunologic assessment and genetic screening for TTC7A mutations are important in patients with MIA. Greater knowledge of the functions of the TTC7A protein will have important therapeutic implications for patients with MIA-SCID syndrome.
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0001399(liver failure)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00200623257408
-Lin 	 MICA 	 intrinsic 	0.00200623257408
-JC 	 DiShIn 	 intrinsic 	0.0745323331797
-JC 	 MICA 	 intrinsic 	0.0745323331797
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0004388(microcolon)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0018352194444
-Lin 	 MICA 	 intrinsic 	0.0018352194444
-JC 	 DiShIn 	 intrinsic 	0.0681674468484
-JC 	 MICA 	 intrinsic 	0.0681674468484
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0005387(combined immunodeficiency)
-Resnik 	 DiShIn 	 intrinsic 	1.61386113603
-Resnik 	 MICA 	 intrinsic 	3.21423640928
-Lin 	 DiShIn 	 intrinsic 	0.2258527981
-Lin 	 MICA 	 intrinsic 	0.449818308766
-JC 	 DiShIn 	 intrinsic 	0.090386957524
-JC 	 MICA 	 intrinsic 	0.127181277331
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0100806(sepsis)
-Resnik 	 DiShIn 	 intrinsic 	1.61386113603
-Resnik 	 MICA 	 intrinsic 	3.21423640928
-Lin 	 DiShIn 	 intrinsic 	0.2258527981
-Lin 	 MICA 	 intrinsic 	0.449818308766
-JC 	 DiShIn 	 intrinsic 	0.090386957524
-JC 	 MICA 	 intrinsic 	0.127181277331
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0005214(intestinal obstruction)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00202635926469
-Lin 	 MICA 	 intrinsic 	0.00202635926469
-JC 	 DiShIn 	 intrinsic 	0.0752815659063
-JC 	 MICA 	 intrinsic 	0.0752815659063
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0031797(clinical course)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0871242954601
-JC 	 MICA 	 intrinsic 	0.0871242954601
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0002721(immunodeficiency)
-Resnik 	 DiShIn 	 intrinsic 	1.61386113603
-Resnik 	 MICA 	 intrinsic 	3.21423640928
-Lin 	 DiShIn 	 intrinsic 	0.24008703308
-Lin 	 MICA 	 intrinsic 	0.478167833586
-JC 	 DiShIn 	 intrinsic 	0.0978833198314
-JC 	 MICA 	 intrinsic 	0.142541623097
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0004430(severe combined immunodeficiency)
-Resnik 	 DiShIn 	 intrinsic 	1.61386113603
-Resnik 	 MICA 	 intrinsic 	3.21423640928
-Lin 	 DiShIn 	 intrinsic 	0.219621791187
-Lin 	 MICA 	 intrinsic 	0.43740836293
-JC 	 DiShIn 	 intrinsic 	0.0871914974765
-JC 	 MICA 	 intrinsic 	0.120944465116
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0012828(severe)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0680423446245
-JC 	 MICA 	 intrinsic 	0.0680423446245
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0005235(jejunal atresia)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0018352194444
-Lin 	 MICA 	 intrinsic 	0.0018352194444
-JC 	 DiShIn 	 intrinsic 	0.0681674468484
-JC 	 MICA 	 intrinsic 	0.0681674468484
-
-
-Similarity: HP_0004313(hypogammaglobulinemia)<> HP_0011100(intestinal atresia)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00204445045105
-Lin 	 MICA 	 intrinsic 	0.00204445045105
-JC 	 DiShIn 	 intrinsic 	0.0759550510927
-JC 	 MICA 	 intrinsic 	0.0759550510927
-
-
-########################################
-Gene: DTNA
-
-Title: Phenotype and Functional Analyses in a Transgenic Mouse Model of Left Ventricular Noncompaction Caused by a DTNA Mutation.
-
-Abstract: DTNA encoding dystrobrevin-alpha (alpha-DB) is a putative causal gene associated with left ventricular noncompaction cardiomyopathy (LVNC). The aim of the study was to investigate the causal role of DTNA in LVNC using a transgenic mouse model.A missense mutation (c.146A > G, p.N49S) of DTNA was identified in a patient with LVNC by Sanger sequencing. Six independent lines of transgenic mice expressing the mutant DTNA under a myosin heavy chain 6 (Myh6) promoter were generated (Myh6:Dtna(N49S)). Phenotypic characteristics of DTNA-p.N49S mutations were evaluated by echocardiography, histological observation, and immunoblotting. Multiple trabeculation and a higher ratio of non-compacted to compact myocardial layer were found in the Myh6:Dtna(N49S) mice compared to the controls. The transgenic mice also showed left ventricular (LV) dilation and cardiac systolic dysfunction. In conclusion, overexpression of the DTNA-p.N49S mutation in a mouse heart can be responsible for the phenotype of deep trabeculation, dilated cardiomyopathy, and cardiac dysfunction, which resembles the phenotype of LVNC.
-
-
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0030682(left ventricular noncompaction)
+Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0005321(treacher collins syndrome)
 Resnik 	 DiShIn 	 intrinsic 	8.8823917063
 Resnik 	 MICA 	 intrinsic 	8.8823917063
 Lin 	 DiShIn 	 intrinsic 	1.0
@@ -484,43 +592,39 @@ JC 	 DiShIn 	 intrinsic 	1.0
 JC 	 MICA 	 intrinsic 	1.0
 
 
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0001644(dilated cardiomyopathy)
-Resnik 	 DiShIn 	 intrinsic 	5.83786926857
-Resnik 	 MICA 	 intrinsic 	5.83786926857
-Lin 	 DiShIn 	 intrinsic 	0.657240691652
-Lin 	 MICA 	 intrinsic 	0.657240691652
-JC 	 DiShIn 	 intrinsic 	0.164229369377
-JC 	 MICA 	 intrinsic 	0.164229369377
+Title: 4H Leukodystrophy: Lessons from 3T Imaging.
+
+Abstract: 4H leukodystrophy is characterized by hypomyelination, hypodontia, and hypogonadotropic hypogonadism. With its variability in clinical symptoms, application of pattern recognition to identify specific magnetic resonance imaging (MRI) features proved useful for the diagnosis. We collected 3T MR imaging data of 12 patients with mutations in POLR3A (n = 8), POLR3B (n = 3), and POLR1C (n = 1), all obtained at the same scanner. We assessed these images and compared them with previously obtained 1.5T images in 8 patients. Novel MRI findings were myelin islets, closed eye sign, and a cyst-like lesion in the splenium. Myelin islets were variable numbers of small T1 hyperintense and T2 hypointense dots, mostly in the frontal and parietal white matter, and present in all patients. This interpretation was supported with perivascular staining of myelin protein in the hypomyelinated white matter of a deceased 4H patient. All patients had better myelination of the medial lemniscus with a relatively hypointense signal of this structure on axial T2-weighted (T2W) images ("closed eye sign"). Five patients had a small cyst-like lesion in the splenium. In 10 patients with sagittal T2W images, we also found spinal cord hypomyelination. In conclusion, imaging at 3T identified additional features in 4H leukodystrophy, aiding the MRI diagnosis of this entity.
 
 
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0001638(cardiomyopathy)
-Resnik 	 DiShIn 	 intrinsic 	5.83786926857
-Resnik 	 MICA 	 intrinsic 	5.83786926857
-Lin 	 DiShIn 	 intrinsic 	0.744372588958
-Lin 	 MICA 	 intrinsic 	0.744372588958
-JC 	 DiShIn 	 intrinsic 	0.249401229189
-JC 	 MICA 	 intrinsic 	0.249401229189
+Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0002415(leukodystrophy)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00160083908113
+Lin 	 MICA 	 intrinsic 	0.00160083908113
+JC 	 DiShIn 	 intrinsic 	0.0594476565267
+JC 	 MICA 	 intrinsic 	0.0594476565267
 
 
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0011664(left ventricular noncompaction cardiomyopathy)
-Resnik 	 DiShIn 	 intrinsic 	5.83786926857
-Resnik 	 MICA 	 intrinsic 	5.83786926857
-Lin 	 DiShIn 	 intrinsic 	0.657240691652
-Lin 	 MICA 	 intrinsic 	0.657240691652
-JC 	 DiShIn 	 intrinsic 	0.164229369377
-JC 	 MICA 	 intrinsic 	0.164229369377
+Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0003429(hypomyelination)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00155373183833
+Lin 	 MICA 	 intrinsic 	0.00155373183833
+JC 	 DiShIn 	 intrinsic 	0.0576955921949
+JC 	 MICA 	 intrinsic 	0.0576955921949
 
 
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0012817(noncompaction cardiomyopathy)
-Resnik 	 DiShIn 	 intrinsic 	5.83786926857
-Resnik 	 MICA 	 intrinsic 	5.83786926857
-Lin 	 DiShIn 	 intrinsic 	0.692984159379
-Lin 	 MICA 	 intrinsic 	0.692984159379
-JC 	 DiShIn 	 intrinsic 	0.193320612626
-JC 	 MICA 	 intrinsic 	0.193320612626
+Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0000135(hypogonadism)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00161835165023
+Lin 	 MICA 	 intrinsic 	0.00161835165023
+JC 	 DiShIn 	 intrinsic 	0.0600990453962
+JC 	 MICA 	 intrinsic 	0.0600990453962
 
 
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0012835(left)
+Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0025287(axial)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
@@ -529,412 +633,173 @@ JC 	 DiShIn 	 intrinsic 	0.0562911450579
 JC 	 MICA 	 intrinsic 	0.0562911450579
 
 
-Title: Prenatal diagnosis and molecular cytogenetic characterization of an interstitial deletion of 18q12.1-q12.3 encompassing DTNA, CELF4 and SETBP1.
+Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0000668(hypodontia)
+Resnik 	 DiShIn 	 intrinsic 	1.6963289457
+Resnik 	 MICA 	 intrinsic 	2.66080799414
+Lin 	 DiShIn 	 intrinsic 	0.190976597497
+Lin 	 MICA 	 intrinsic 	0.299559857538
+JC 	 DiShIn 	 intrinsic 	0.0695791306947
+JC 	 MICA 	 intrinsic 	0.0803653897677
 
-Abstract: OBJECTIVE: We present prenatal diagnosis and molecular cytogenetic characterization of an interstitial deletion of 18q12.1-q12.3. CASE REPORT: A 35-year-old woman underwent amniocentesis at 18 weeks of gestation because of advanced maternal age. Amniocentesis revealed a karyotype of 46,XX,del(18)(q12.1q12.3). The fetal ultrasound was unremarkable. The woman underwent repeat amniocentesis at 20 weeks of gestation. Array comparative genomic hybridization (aCGH) using uncultured amniocytes revealed a 10.76-Mb interstitial deletion 18q12.1-q12.3 or arr 18q12.1q12.3 (31,944,347-42,704,784) x 1.0 encompassing 19 Online Mendelian Inheritance of in Man (OMIM) genes including DTNA, CELF4 and SETBP1. Metaphase fluorescence in situ hybridization analysis on cultured amniocytes confirmed an 18q proximal interstitial deletion. The parental karyotypes were normal. Polymorphic DNA marker analysis determined a paternal origin of the deletion. The pregnancy was subsequently terminated at 24 weeks of gestation, and a 650-g fetus was delivered with characteristic facial dysmorphism. CONCLUSION: aCGH analysis and polymorphic DNA marker analysis at amniocentesis are useful for determination of the deleted genes and the parental origin of the de novo deletion, and the acquired information is helpful for genetic counseling.
+
+########################################
+Gene: SPG11
+
+Title: Potential oligogenic disease of mental retardation, short stature, spastic paraparesis, and osteopetrosis.
+
+Abstract: The interaction of multiple genetic factors, as opposed to monogenic inheritance, has been suspected to play a role in many diseases. This interaction has been described as an oligogenic inheritance model, which may be a useful tool in explaining certain clinical observations. The purpose of this study was to search for novel genetic defects among members of a family with traits that include mental retardation, short stature, osteopetrosis, calcification of basal ganglia, and thinning of the corpus callosum. In the index case (111-4), we identified four homozygous mutations: chromosome 8, intron2 (c.232+1G>A) at CA2 gene; chromosome 15, exon 32 (c.6100C>T) at the SPG11; chromosome 5, exon 11 (c.1015G>A) at the MCCC2; and chromosome 9, exon 9 (C.1193g>t) at the LARP gene. The mutations were confirmed by Sanger sequencing, and both parents were observed to be heterozygous for the four mutations. A moderately affected sister of the index case was homozygous for only three mutations in CA2, LARP, and Mccc2, while a nonaffected sister was heterozygous for three mutations in CA2, LARP, and MCCC2 and negative for SPG11. The clinical features of the two affected sisters can be explained distinctively by each homozygous mutation in an oligogenic pattern of inheritance. This family represents an example of an oligogenic pattern of inheritance of mental retardation, short stature, spastic paraparesis, and osteopetrosis.
 
 
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0001999(facial dysmorphism)
+Similarity: HP_0009830(neuropathy)<> HP_0004322(short stature)
 Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
 Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00178731550824
-Lin 	 MICA 	 intrinsic 	0.00178731550824
-JC 	 DiShIn 	 intrinsic 	0.0663849156412
-JC 	 MICA 	 intrinsic 	0.0663849156412
+Lin 	 DiShIn 	 intrinsic 	0.00227945391159
+Lin 	 MICA 	 intrinsic 	0.00227945391159
+JC 	 DiShIn 	 intrinsic 	0.0847058038285
+JC 	 MICA 	 intrinsic 	0.0847058038285
 
 
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0012840(proximal)
+Similarity: HP_0009830(neuropathy)<> HP_0000005(inheritance)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0862505631173
+JC 	 MICA 	 intrinsic 	0.0862505631173
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0011002(osteopetrosis)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00187336334806
+Lin 	 MICA 	 intrinsic 	0.00187336334806
+JC 	 DiShIn 	 intrinsic 	0.0695869243628
+JC 	 MICA 	 intrinsic 	0.0695869243628
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0010983(oligogenic inheritance)
+Resnik 	 DiShIn 	 intrinsic 	0.0
+Resnik 	 MICA 	 intrinsic 	0.0
+Lin 	 DiShIn 	 intrinsic 	0.0
+Lin 	 MICA 	 intrinsic 	-0.0
+JC 	 DiShIn 	 intrinsic 	0.0694565627692
+JC 	 MICA 	 intrinsic 	0.0694565627692
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0002313(spastic paraparesis)
+Resnik 	 DiShIn 	 intrinsic 	1.04785375038
+Resnik 	 MICA 	 intrinsic 	2.08222163799
+Lin 	 DiShIn 	 intrinsic 	0.14977874032
+Lin 	 MICA 	 intrinsic 	0.297629830396
+JC 	 DiShIn 	 intrinsic 	0.0840596438652
+JC 	 MICA 	 intrinsic 	0.101754458529
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0002385(paraparesis)
+Resnik 	 DiShIn 	 intrinsic 	2.08222163799
+Resnik 	 MICA 	 intrinsic 	2.08222163799
+Lin 	 DiShIn 	 intrinsic 	0.303877687931
+Lin 	 MICA 	 intrinsic 	0.303877687931
+JC 	 DiShIn 	 intrinsic 	0.104822933286
+JC 	 MICA 	 intrinsic 	0.104822933286
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0001249(mental retardation)
+Resnik 	 DiShIn 	 intrinsic 	2.08222163799
+Resnik 	 MICA 	 intrinsic 	2.08222163799
+Lin 	 DiShIn 	 intrinsic 	0.320066208002
+Lin 	 MICA 	 intrinsic 	0.320066208002
+JC 	 DiShIn 	 intrinsic 	0.113035861323
+JC 	 MICA 	 intrinsic 	0.113035861323
+
+
+Title: "Ears of the Lynx" MRI Sign Is Associated with SPG11 and SPG15 Hereditary Spastic Paraplegia.
+
+Abstract: BACKGROUND AND PURPOSE: The "ears of the lynx" MR imaging sign has been described in case reports of hereditary spastic paraplegia with a thin corpus callosum, mostly associated with mutations in the spatacsin vesicle trafficking associated gene, causing Spastic Paraplegia type 11 (SPG11). This sign corresponds to long T1 and T2 values in the forceps minor of the corpus callosum, which appears hyperintense on FLAIR and hypointense on T1-weighted images. Our purpose was to determine the sensitivity and specificity of the ears of the lynx MR imaging sign for genetic cases compared with common potential mimics. MATERIALS AND METHODS: Four independent raters, blinded to the diagnosis, determined whether the ears of the lynx sign was present in each of a set of 204 single anonymized FLAIR and T1-weighted MR images from 34 patients with causal mutations associated with SPG11 or Spastic Paraplegia type 15 (SPG15). 34 healthy controls, and 34 patients with multiple sclerosis. RESULTS: The interrater reliability for FLAIR images was substantial (Cohen kappa, 0.66-0.77). For these images, the sensitivity of the ears of the lynx sign across raters ranged from 78.8 to 97.0 and the specificity ranged from 90.9 to 100. The accuracy of the sign, measured by area under the receiver operating characteristic curve, ranged from very good (87.1) to excellent (93.9). CONCLUSIONS: The ears of the lynx sign on FLAIR MR imaging is highly specific for the most common genetic subtypes of hereditary spastic paraplegia with a thin corpus callosum. When this sign is present, there is a high likelihood of a genetic mutation, particularly associated with SPG11 or SPG15, even in the absence of a family history.
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0001258(spastic paraplegia)
+Resnik 	 DiShIn 	 intrinsic 	1.04785375038
+Resnik 	 MICA 	 intrinsic 	2.08222163799
+Lin 	 DiShIn 	 intrinsic 	0.14977874032
+Lin 	 MICA 	 intrinsic 	0.297629830396
+JC 	 DiShIn 	 intrinsic 	0.0840596438652
+JC 	 MICA 	 intrinsic 	0.101754458529
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0002079(thin corpus callosum)
+Resnik 	 DiShIn 	 intrinsic 	2.74682681521
+Resnik 	 MICA 	 intrinsic 	2.74682681521
+Lin 	 DiShIn 	 intrinsic 	0.392627559057
+Lin 	 MICA 	 intrinsic 	0.392627559057
+JC 	 DiShIn 	 intrinsic 	0.117669639709
+JC 	 MICA 	 intrinsic 	0.117669639709
+
+
+Similarity: HP_0009830(neuropathy)<> HP_0010550(paraplegia)
+Resnik 	 DiShIn 	 intrinsic 	2.08222163799
+Resnik 	 MICA 	 intrinsic 	2.08222163799
+Lin 	 DiShIn 	 intrinsic 	0.303877687931
+Lin 	 MICA 	 intrinsic 	0.303877687931
+JC 	 DiShIn 	 intrinsic 	0.104822933286
+JC 	 MICA 	 intrinsic 	0.104822933286
+
+
+########################################
+Gene: CHST14
+
+Title: DNA methylome changes by estradiol benzoate and bisphenol A links early-life environmental exposures to prostate cancer risk.
+
+Abstract: Developmental exposure to endocrine-disrupting chemicals (EDCs), 17beta-estradiol-3-benzoate (EB) and bisphenol A (BPA), increases susceptibility to prostate cancer (PCa) in rodent models. Here, we used the methylated-CpG island recovery assay (MIRA)-assisted genomic tiling and CpG island arrays to identify treatment-associated methylome changes in the postnatal day (PND)90 dorsal prostate tissues of Sprague-Dawley rats neonatally (PND1, 3, and 5) treated with 25 microg/pup or 2,500 microg EB/kg body weight (BW) or 0.1 microg BPA/pup or 10 microg BPA/kg BW. We identified 111 EB-associated and 86 BPA-associated genes, with 20 in common, that have significant differentially methylated regions. Pathway analysis revealed cancer as the top common disease pathway. Bisulfite sequencing validated the differential methylation patterns observed by array analysis in 15 identified candidate genes. The methylation status of 7 (Pitx3, Wnt10b, Paqr4, Sox2, Chst14, Tpd52, Creb3l4) of these 15 genes exhibited an inverse correlation with gene expression in tissue samples. Cell-based assays, using 5-aza-cytidine-treated normal (NbE-1) and cancerous (AIT) rat prostate cells, added evidence of DNA methylation-mediated gene expression of 6 genes (exception: Paqr4). Functional connectivity of these genes was linked to embryonic stem cell pluripotency. Furthermore, clustering analyses using the dataset from The Cancer Genome Atlas revealed that expression of this set of 7 genes was associated with recurrence-free survival of PCa patients. In conclusion, our study reveals that gene-specific promoter methylation changes, resulting from early-life EDC exposure in the rat, may serve as predictive epigenetic biomarkers of PCa recurrence, and raises the possibility that such exposure may impact human disease.
+
+
+Similarity: HP_0001166(arachnodactyly)<> HP_0012125(prostate cancer)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00151826931491
+Lin 	 MICA 	 intrinsic 	0.00151826931491
+JC 	 DiShIn 	 intrinsic 	0.0563767401325
+JC 	 MICA 	 intrinsic 	0.0563767401325
+
+
+Similarity: HP_0001166(arachnodactyly)<> HP_0002664(cancer)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00223781565652
+Lin 	 MICA 	 intrinsic 	0.00223781565652
+JC 	 DiShIn 	 intrinsic 	0.0831550322468
+JC 	 MICA 	 intrinsic 	0.0831550322468
+
+
+Title: Structural alteration of glycosaminoglycan side chains and spatial disorganization of collagen networks in the skin of patients with mcEDS-CHST14.
+
+Abstract: Musculocontractural Ehlers-Danlos syndrome (mcEDS) due to CHST14/D4ST1 deficiency (mcEDS-CHST14) is a recently delineated type of EDS caused by biallelic loss-of-function mutations in CHST14, which results in the depletion of dermatan sulfate (DS). Clinical characteristics of mcEDS-CHST14 consist of multiple malformations and progressive fragility-related manifestations, including skin hyperextensibility and fragility. Skin fragility is suspected to result from the impaired assembly of collagen fibrils caused by alteration of the glycosaminoglycan (GAG) chain of decorin-proteoglycan (PG) from DS to chondroitin sulfate (CS). This systematic investigation of the skin pathology of patients with mcEDS-CHST14 comprised both immunostaining of decorin and transmission electron microscopy-based cupromeronic blue staining to visualize GAG chains. Collagen fibrils were dispersed in the affected papillary to reticular dermis; in contrast, they were regularly and tightly assembled in controls. Moreover, the fibrils exhibited a perpendicular arrangement to the affected epidermis, whereas fibrils were parallel to control epidermis. Affected GAG chains were linear, stretching from the outer surface of collagen fibrils to adjacent fibrils; in contrast, those of controls were curved, maintaining close contact with attached collagen fibrils. This is the first observation of compositional alteration, from DS to CS, of GAG side chains, which caused structural alteration of GAG side chains and resulted in spatial disorganization of collagen networks; this presumably disrupted the ring-mesh structure of GAG side chains surrounding collagen fibrils. McEDS-CHST14 provides a critical example of the importance of DS in GAG side chains of decorin-PG during assembly of collagen fibrils in maintenance of connective tissues.
+
+
+Similarity: HP_0001166(arachnodactyly)<> HP_0001030(skin fragility)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00155373183833
+Lin 	 MICA 	 intrinsic 	0.00155373183833
+JC 	 DiShIn 	 intrinsic 	0.0576955921949
+JC 	 MICA 	 intrinsic 	0.0576955921949
+
+
+Similarity: HP_0001166(arachnodactyly)<> HP_0000974(skin hyperextensibility)
+Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
+Resnik 	 MICA 	 intrinsic 	0.0134858627707
+Lin 	 DiShIn 	 intrinsic 	0.00160083908113
+Lin 	 MICA 	 intrinsic 	0.00160083908113
+JC 	 DiShIn 	 intrinsic 	0.0594476565267
+JC 	 MICA 	 intrinsic 	0.0594476565267
+
+
+Similarity: HP_0001166(arachnodactyly)<> HP_0003676(progressive)
 Resnik 	 DiShIn 	 intrinsic 	0.0
 Resnik 	 MICA 	 intrinsic 	0.0
 Lin 	 DiShIn 	 intrinsic 	0.0
 Lin 	 MICA 	 intrinsic 	-0.0
 JC 	 DiShIn 	 intrinsic 	0.0562911450579
 JC 	 MICA 	 intrinsic 	0.0562911450579
-
-
-Similarity: HP_0030682(left ventricular noncompaction)<> HP_0000005(inheritance)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0668385619391
-JC 	 MICA 	 intrinsic 	0.0668385619391
-
-
-########################################
-Gene: TMEM43
-
-Title: Electronic health record phenotype in subjects with genetic variants associated with arrhythmogenic right ventricular cardiomyopathy: a study of 30,716 subjects with exome sequencing.
-
-Abstract: PurposeArrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited heart disease. Clinical follow-up of incidental findings in ARVC-associated genes is recommended. We aimed to determine the prevalence of disease thus ascertained.MethodsIndividuals (n = 30,716) underwent exome sequencing. Variants in PKP2, DSG2, DSC2, DSP, JUP, TMEM43, or TGFbeta3 that were database-listed as pathogenic or likely pathogenic were identified and evidence-reviewed. For subjects with putative loss-of-function (pLOF) variants or variants of uncertain significance (VUS), electronic health records (EHR) were reviewed for ARVC diagnosis, diagnostic criteria, and International Classification of Diseases (ICD-9) codes.ResultsEighteen subjects had pLOF variants; none of these had an EHR diagnosis of ARVC. Of 14 patients with an electrocardiogram, one had a minor diagnostic criterion; the rest were normal. A total of 184 subjects had VUS, none of whom had an ARVC diagnosis. The proportion of subjects with VUS with major (4%) or minor (13%) electrocardiogram diagnostic criteria did not differ from that of variant-negative controls. ICD-9 codes showed no difference in defibrillator use, electrophysiologic abnormalities or nonischemic cardiomyopathies in patients with pLOF or VUSs compared with controls.ConclusionpLOF variants in an unselected cohort were not associated with ARVC phenotypes based on EHR review. The negative predictive value of EHR review remains uncertain.
-
-
-Similarity: HP_0006682(premature ventricular contractions)<> HP_0001638(cardiomyopathy)
-Resnik 	 DiShIn 	 intrinsic 	2.47716324827
-Resnik 	 MICA 	 intrinsic 	2.47716324827
-Lin 	 DiShIn 	 intrinsic 	0.324238642329
-Lin 	 MICA 	 intrinsic 	0.324238642329
-JC 	 DiShIn 	 intrinsic 	0.096847138817
-JC 	 MICA 	 intrinsic 	0.096847138817
-
-
-Similarity: HP_0006682(premature ventricular contractions)<> HP_0012834(right)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0006682(premature ventricular contractions)<> HP_0011663(right ventricular cardiomyopathy)
-Resnik 	 DiShIn 	 intrinsic 	2.47716324827
-Resnik 	 MICA 	 intrinsic 	2.47716324827
-Lin 	 DiShIn 	 intrinsic 	0.285398678083
-Lin 	 MICA 	 intrinsic 	0.285398678083
-JC 	 DiShIn 	 intrinsic 	0.0806127094223
-JC 	 MICA 	 intrinsic 	0.0806127094223
-
-
-Title: TMEM43-S358L mutation enhances NF-kappaB-TGFbeta signal cascade in arrhythmogenic right ventricular dysplasia/cardiomyopathy.
-
-Abstract: Arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVD/C) is a genetic cardiac muscle disease that accounts for approximately 30% sudden cardiac death in young adults. The Ser358Leu mutation of transmembrane protein 43 (TMEM43) was commonly identified in the patients of highly lethal and fully penetrant ARVD subtype, ARVD5. Here, we generated TMEM43 S358L mouse to explore the underlying mechanism. This mouse strain showed the classic pathologies of ARVD patients, including structural abnormalities and cardiac fibrofatty. TMEM43 S358L mutation led to hyper-activated nuclear factor kappaB (NF-kappaB) activation in heart tissues and primary cardiomyocyte cells. Importantly, this hyper activation of NF-kappaB directly drove the expression of pro-fibrotic gene, transforming growth factor beta (TGFbeta1), and enhanced downstream signal, indicating that TMEM43 S358L mutation up-regulates NF-kappaB-TGFbeta signal cascade during ARVD cardiac fibrosis. Our study partially reveals the regulatory mechanism of ARVD development.
-
-
-Similarity: HP_0006682(premature ventricular contractions)<> HP_0012834(right)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0006682(premature ventricular contractions)<> HP_0001645(sudden cardiac death)
-Resnik 	 DiShIn 	 intrinsic 	5.37084626746
-Resnik 	 MICA 	 intrinsic 	5.37084626746
-Lin 	 DiShIn 	 intrinsic 	0.618785389295
-Lin 	 MICA 	 intrinsic 	0.618785389295
-JC 	 DiShIn 	 intrinsic 	0.151111597244
-JC 	 MICA 	 intrinsic 	0.151111597244
-
-
-########################################
-Gene: ANKRD11
-
-Title: KBG Syndrome
-
-Abstract: CLINICAL CHARACTERISTICS: KBG syndrome is typically characterized by macrodontia (especially of the upper central incisors), characteristic facial features (triangular face, brachycephaly, synophrys, widely spaced eyes, broad or bushy eyebrows, prominent ears, prominent nasal bridge, bulbous nose, anteverted nares, long philtrum, and thin vermilion of the upper lip), short stature, developmental delay / intellectual disability, and behavioral issues. Affected individuals may have feeding difficulties (particularly in infancy), skeletal anomalies (brachydactyly, large anterior fontanelle with delayed closure, scoliosis), hearing loss (conductive, mixed, and sensorineural), seizure disorder, and brain malformations. There is significant variability in the clinical findings, even between affected members of the same family. DIAGNOSIS/TESTING: The diagnosis of KBG syndrome is confirmed in a proband by detection of either a heterozygous pathogenic variant in ANKRD11 or deletion of 16q24.3 that includes ANKRD11. MANAGEMENT: Treatment of manifestations. Surgical corrections and/or speech therapy for palatal anomalies; nasogastric tube feeding in infants; pharmacologic treatment for gastroesophageal reflux disease; pressure-equalizing tubes and/or tonsillectomy/adenoidectomy for chronic otitis media; consideration of amplification for hearing loss; consideration of growth hormone therapy for short stature and medication to arrest puberty for premature pubertal development; standard treatment of seizure disorder, undescended testis in males, congenital heart defects, strabismus / refractive errors, and developmental disabilities. Surveillance. Routine monitoring of hearing, vision, growth, pubertal status (in prepubertal individuals), and cognitive development. Agents/circumstances to avoid. Ototoxic drugs should be avoided because of the risk for hearing loss. Pregnancy management. Pregnancy management should be tailored to the specific features in the affected woman. For example, involvement of a cardiologist and maternal fetal medicine physician for a pregnant woman with a history of a congenital heart defect; control of seizures during pregnancy for those with a seizure disorder. GENETIC COUNSELING: Recurrence risk for sibs of a proband with KBG syndrome depends on the genetic alteration: Deletion of 16q24.3 (~75% of reported pathogenic variants are de novo and the remainder are inherited in an autosomal dominant manner.) ANKRD11 sequence variants (~66% of reported pathogenic variants are de novo and the remainder are inherited in an autosomal dominant manner.) Prenatal testing and preimplantation genetic diagnosis are possible if the causative genetic alteration has been identified in an affected family member.
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000316(widely spaced eyes)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001156(brachydactyly)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00249160399081
-Lin 	 MICA 	 intrinsic 	0.00249160399081
-JC 	 DiShIn 	 intrinsic 	0.0926091133534
-JC 	 MICA 	 intrinsic 	0.0926091133534
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000389(chronic otitis media)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001250(seizure)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00293571837295
-Lin 	 MICA 	 intrinsic 	0.00293571837295
-JC 	 DiShIn 	 intrinsic 	0.109164769107
-JC 	 MICA 	 intrinsic 	0.109164769107
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0011010(chronic)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0783026783398
-JC 	 MICA 	 intrinsic 	0.0783026783398
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000664(synophrys)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001572(macrodontia)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0004322(short stature)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.002642730747
-Lin 	 MICA 	 intrinsic 	0.002642730747
-JC 	 DiShIn 	 intrinsic 	0.0982411479213
-JC 	 MICA 	 intrinsic 	0.0982411479213
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0040288(nasogastric tube feeding)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000463(anteverted nares)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0002020(gastroesophageal reflux)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000006(autosomal dominant)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0887557328834
-JC 	 MICA 	 intrinsic 	0.0887557328834
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000343(long philtrum)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001627(congenital heart defects)
-Resnik 	 DiShIn 	 intrinsic 	3.88856353052
-Resnik 	 MICA 	 intrinsic 	3.88856353052
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001250(seizures)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00293571837295
-Lin 	 MICA 	 intrinsic 	0.00293571837295
-JC 	 DiShIn 	 intrinsic 	0.109164769107
-JC 	 MICA 	 intrinsic 	0.109164769107
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000414(bulbous nose)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000574(bushy eyebrows)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000028(undescended testis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000248(brachycephaly)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0022331639496
-Lin 	 MICA 	 intrinsic 	0.0022331639496
-JC 	 DiShIn 	 intrinsic 	0.0829817925127
-JC 	 MICA 	 intrinsic 	0.0829817925127
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000325(triangular face)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000486(strabismus)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00289855881664
-Lin 	 MICA 	 intrinsic 	0.00289855881664
-JC 	 DiShIn 	 intrinsic 	0.107778973164
-JC 	 MICA 	 intrinsic 	0.107778973164
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000411(prominent ears)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0030645(central)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0783026783398
-JC 	 MICA 	 intrinsic 	0.0783026783398
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000388(otitis media)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0023107379265
-Lin 	 MICA 	 intrinsic 	0.0023107379265
-JC 	 DiShIn 	 intrinsic 	0.0858710281437
-JC 	 MICA 	 intrinsic 	0.0858710281437
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001627(congenital heart defect)
-Resnik 	 DiShIn 	 intrinsic 	3.88856353052
-Resnik 	 MICA 	 intrinsic 	3.88856353052
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0002650(scoliosis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00245662124188
-Lin 	 MICA 	 intrinsic 	0.00245662124188
-JC 	 DiShIn 	 intrinsic 	0.0913056559253
-JC 	 MICA 	 intrinsic 	0.0913056559253
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000260(large anterior fontanelle)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000365(hearing loss)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00274479020176
-Lin 	 MICA 	 intrinsic 	0.00274479020176
-JC 	 DiShIn 	 intrinsic 	0.102045559028
-JC 	 MICA 	 intrinsic 	0.102045559028
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0002020(gastroesophageal reflux disease)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0011968(feeding difficulties)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00241649273638
-Lin 	 MICA 	 intrinsic 	0.00241649273638
-JC 	 DiShIn 	 intrinsic 	0.0898105801556
-JC 	 MICA 	 intrinsic 	0.0898105801556
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0000426(prominent nasal bridge)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00211195834934
-Lin 	 MICA 	 intrinsic 	0.00211195834934
-JC 	 DiShIn 	 intrinsic 	0.078468400333
-JC 	 MICA 	 intrinsic 	0.078468400333
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001263(developmental delay)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0023107379265
-Lin 	 MICA 	 intrinsic 	0.0023107379265
-JC 	 DiShIn 	 intrinsic 	0.0858710281437
-JC 	 MICA 	 intrinsic 	0.0858710281437
-
-
-Title: Genotype and phenotype analysis using an epilepsy-associated gene panel in Chinese pediatric epilepsy patients.
-
-Abstract: Epilepsy is a common and genetically heterogeneous disorder among children. Advances in next-generation sequencing have revealed that numerous epilepsy genes, helped us improve the understanding of mechanisms underlying epileptogenesis, and guided the development of treatments. We identified 39 candidate variants in 21 genes, including 37 that were pathogenic or likely pathogenic variants according to the American College of Medical Genetics and Genomics scoring system and two variants of uncertain significance that were considered causative after they were associated with clinical characteristics. Thirty were de novo variants (76.9%), and 20 variants had not previously been reported (51.3%). We obtained a diagnosis in 39 of the 141 probands (27.7%). The most frequently mutated gene was SCN1A; KCNQ2, KCNT1, PCDH19, STXBP1, SCN2A, TSC2, and PRRT2 were mutated in more than one individual; ANKRD11, CDKL5, DCX, DEPDC5, GABRB3, GRIN2A, IQSEC2, KCNA2, KCNB1, KCNJ6, TSC1, SCN9A, and SCN1B were mutated in a single individual. In addition, we detected a nonsense variant in a candidate gene KCND1 and considered it as a new candidate epilepsy gene, which needed further functional study. Consequently, large number of unreported variants were detected, diverse phenotypes were associated with known epilepsy genes. Changes in clinical management beyond genetic counseling were suggested.
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001425(heterogeneous)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0783026783398
-JC 	 MICA 	 intrinsic 	0.0783026783398
-
-
-Similarity: HP_0001627(congenital heart defects)<> HP_0001250(epilepsy)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00293571837295
-Lin 	 MICA 	 intrinsic 	0.00293571837295
-JC 	 DiShIn 	 intrinsic 	0.109164769107
-JC 	 MICA 	 intrinsic 	0.109164769107
 
 

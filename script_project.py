@@ -3,7 +3,7 @@ import requests
 import sys
 
 
-annotations=open("5.txt","r")
+annotations=open("3.txt","r")
 header = True
 
 geneDict = dict()
