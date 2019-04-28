@@ -97,7 +97,7 @@ with open("relatorio.txt", "w") as f:
                 dishinEval1 = str(dishinEval1)
                 dishinEval2 = str(dishinEval2)
                 dishinEval3 = str(dishinEval3)
-                output += "%s\t%f\t%f\t%f\t%f\t%f\t%f\t\t%s\t%s\t%s\t\t\n" % (idcount[0], ResnikDishin,ResnikMica,LinDishin,LinMica,JcDishin,JcMica,dishinEval1,dishinEval2,dishinEval3)
+                output += "%s\t%f\t%f\t%f\t%f\t%f\t%f\t\t%s\t%s\t%s\t\t\n" % (term, ResnikDishin,ResnikMica,LinDishin,LinMica,JcDishin,JcMica,dishinEval1,dishinEval2,dishinEval3)
     f.write(output)
 
 with open("papers.txt", "w") as f:
