@@ -82,15 +82,15 @@ with open("relatorio.txt", "w") as f:
                 JcMica = float(JcMica.split('\t')[-1])
                 # Checking for treshold 1
                 dishinEval1 = False
-                if LinDishin >= treshold1 and ResnikDishin >= treshold1 and JcDishin >= treshold1:
+                if LinDishin >= treshold1:
                     dishinEval1 = True
                 # Checking for treshold 2
                 dishinEval2 = False
-                if LinDishin >= treshold2 and ResnikDishin >= treshold2 and JcDishin >= treshold2:
+                if LinDishin >= treshold2:
                     dishinEval2 = True
                 # Checking for treshold 3
                 dishinEval3 = False
-                if LinDishin >= treshold3 and ResnikDishin >= treshold3 and JcDishin >= treshold3:
+                if LinDishin >= treshold3:
                     dishinEval3 = True
                 
                 # Converting bool to str
