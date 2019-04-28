@@ -53,10 +53,10 @@ with open("relatorio.txt", "w") as f:
 
         output += "#"*40 + "\n"
         output += "Gene: %s\tPhenotype: %s\n\n" % (gene, phenotype[0])
-        treshold1 = 0.75
-        treshold2 = 0.5
-        treshold3 = 0.25
-        output += "HP_Code\tResnik DiShIn\tResnik MICA\tLin DiShIn\tLin MICA\tJC DiShIn\tJC MICA\tRelation in Text\tRelation by Lin/DiShIn > %i\tRelation by Lin/DiShIn > %f\tRelation by Lin/DiShIn > %f\tEvaluation\n" % (treshold1,treshold2,treshold3)
+        treshold1 = 0.5
+        treshold2 = 0.25
+        treshold3 = 0.0
+        output += "HP_Term\tResnik DiShIn\tResnik MICA\tLin DiShIn\tLin MICA\tJC DiShIn\tJC MICA\tRelation in Text\tRelation by Lin/DiShIn > %s\tRelation by Lin/DiShIn > %s\tRelation by Lin/DiShIn > %s\tEvaluation\n" % (str(treshold1),str(treshold2),str(treshold3))
 		# captures the 2 papers given for each entry in genePaper.
         for pub in genePaper.get(gene):
             title = pub[0]
@@ -82,15 +82,15 @@ with open("relatorio.txt", "w") as f:
                 JcMica = float(JcMica.split('\t')[-1])
                 # Checking for treshold 1
                 dishinEval1 = False
-                if LinDishin >= treshold1:
+                if LinDishin > treshold1:
                     dishinEval1 = True
                 # Checking for treshold 2
                 dishinEval2 = False
-                if LinDishin >= treshold2:
+                if LinDishin > treshold2:
                     dishinEval2 = True
                 # Checking for treshold 3
                 dishinEval3 = False
-                if LinDishin >= treshold3:
+                if LinDishin > treshold3:
                     dishinEval3 = True
                 
                 # Converting bool to str
