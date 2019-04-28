@@ -11,15 +11,13 @@ mitochondrial	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	Fals
 alkalosis	0.013486	0.013486	0.001826	0.001826	0.067833	0.067833		False	False	True		
 renal failure	7.272954	7.272954	1.000000	1.000000	1.000000	1.000000		True	True	True		
 metabolic alkalosis	0.013486	0.013486	0.001744	0.001744	0.064787	0.064787		False	False	True		
-progressive renal failure	7.272954	7.272954	0.976066	0.976066	2.803673	2.803673		True	True	True		
-hyperuricemia	0.013486	0.013486	0.001670	0.001670	0.062003	0.062003		False	False	True		
-progressive	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
-peripheral	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
-hypertension	0.013486	0.013486	0.001810	0.001810	0.067224	0.067224		False	False	True		
+irritability	0.013486	0.013486	0.001670	0.001670	0.062003	0.062003		False	False	True		
+seizures	0.013486	0.013486	0.002145	0.002145	0.079714	0.079714		False	False	True		
+distal	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
+arrhythmias	0.013486	0.013486	0.002133	0.002133	0.079259	0.079259		False	False	True		
+cardiac arrhythmias	0.013486	0.013486	0.002133	0.002133	0.079259	0.079259		False	False	True		
 mitochondrial	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
-alkalosis	0.013486	0.013486	0.001826	0.001826	0.067833	0.067833		False	False	True		
-renal failure	7.272954	7.272954	1.000000	1.000000	1.000000	1.000000		True	True	True		
-metabolic alkalosis	0.013486	0.013486	0.001744	0.001744	0.064787	0.064787		False	False	True		
+hypomagnesemia	0.013486	0.013486	0.001670	0.001670	0.062003	0.062003		False	False	True		
 ########################################
 Gene: ASB10	Phenotype: glaucoma
 
@@ -42,12 +40,10 @@ respiratory failure	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False
 chronic	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
 coma	0.013486	0.013486	0.001591	0.001591	0.059078	0.059078		False	False	True		
 respiratory acidosis	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	True		
-acute	0.000000	0.000000	0.000000	-0.000000	0.060816	0.060816		False	False	False		
-acidosis	0.013486	0.013486	0.001849	0.001849	0.068682	0.068682		False	False	True		
-respiratory failure	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False	False	True		
-chronic	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
-coma	0.013486	0.013486	0.001591	0.001591	0.059078	0.059078		False	False	True		
-respiratory acidosis	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	True		
+central	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+prostate cancer	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False	False	True		
+mitochondrial	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+cancer	0.013486	0.013486	0.002316	0.002316	0.086057	0.086057		False	False	True		
 ########################################
 Gene: ZFYVE26	Phenotype: spastic paraplegia
 
@@ -91,14 +87,13 @@ paracentral	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	
 retinal dystrophy	4.191044	4.191044	0.632028	0.632028	0.204913	0.204913		True	True	True		
 autosomal dominant	0.000000	0.000000	0.000000	-0.000000	0.071381	0.071381		False	False	False		
 retinal atrophy	6.631100	6.631100	0.946663	0.946663	1.338304	1.338304		True	True	True		
-central	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	False		
-vision loss	2.558929	2.558929	0.350605	0.350605	0.105493	0.105493		False	True	True		
+retinal degeneration	6.631100	6.631100	1.000000	1.000000	1.000000	1.000000		True	True	True		
+visual loss	2.558929	2.558929	0.350605	0.350605	0.105493	0.105493		False	True	True		
 macular degeneration	5.411072	6.631100	0.758877	0.929981	0.290817	1.001473		True	True	True		
-nyctalopia	2.558929	2.558929	0.368084	0.368084	0.113815	0.113815		False	True	True		
-paracentral	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	False		
+tumor	0.013486	0.013486	0.002752	0.002752	0.102308	0.102308		False	False	True		
+severe	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	False		
 retinal dystrophy	4.191044	4.191044	0.632028	0.632028	0.204913	0.204913		True	True	True		
 autosomal dominant	0.000000	0.000000	0.000000	-0.000000	0.071381	0.071381		False	False	False		
-retinal atrophy	6.631100	6.631100	0.946663	0.946663	1.338304	1.338304		True	True	True		
 ########################################
 Gene: HFM1	Phenotype: premature ovarian failure
 
@@ -106,9 +101,8 @@ HP_Term	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation
 autism spectrum disorder	0.013486	0.013486	0.001689	0.001689	0.062711	0.062711		False	False	True		
 autism	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
 asd	0.013486	0.013486	0.001647	0.001647	0.061156	0.061156		False	False	True		
-autism spectrum disorder	0.013486	0.013486	0.001689	0.001689	0.062711	0.062711		False	False	True		
-autism	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
-asd	0.013486	0.013486	0.001647	0.001647	0.061156	0.061156		False	False	True		
+position	0.000000	0.000000	0.000000	-0.000000	0.066415	0.066415		False	False	False		
+severe	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
 ########################################
 Gene: FOXRED1	Phenotype: epilepsy
 
@@ -123,16 +117,14 @@ severe	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False
 hypertension	0.013486	0.013486	0.002086	0.002086	0.077510	0.077510		False	False	True		
 congenital lactic acidosis	0.013486	0.013486	0.001902	0.001902	0.070650	0.070650		False	False	True		
 periventricular cysts	2.082222	2.082222	0.302301	0.302301	0.104044	0.104044		False	True	True		
-prenatal onset	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
-bilateral	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
-lactic acidosis	0.013486	0.013486	0.002128	0.002128	0.079050	0.079050		False	False	True		
-acidosis	0.013486	0.013486	0.002364	0.002364	0.087860	0.087860		False	False	True		
 onset	0.000000	0.000000	0.000000	-0.000000	0.082194	0.082194		False	False	False		
-autosomal recessive	0.000000	0.000000	0.000000	-0.000000	0.072591	0.072591		False	False	False		
+chronic	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
 severe	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+oxidative stress	0.013486	0.013486	0.001902	0.001902	0.070650	0.070650		False	False	True		
 hypertension	0.013486	0.013486	0.002086	0.002086	0.077510	0.077510		False	False	True		
-congenital lactic acidosis	0.013486	0.013486	0.001902	0.001902	0.070650	0.070650		False	False	True		
-periventricular cysts	2.082222	2.082222	0.302301	0.302301	0.104044	0.104044		False	True	True		
+proteinuria	0.013486	0.013486	0.002204	0.002204	0.081911	0.081911		False	False	True		
+mitochondrial	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+preeclampsia	0.013486	0.013486	0.001902	0.001902	0.070650	0.070650		False	False	True		
 ########################################
 Gene: POLR1C	Phenotype: mandibulofacial dysostosis
 
@@ -218,24 +210,10 @@ large fontanelle	0.951463	1.436682	0.112943	0.170541	0.066909	0.071556		False	Fa
 spinal deformities	0.951463	1.436682	0.107118	0.161745	0.063044	0.067153		False	False	True		
 short nose	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
 atrophic scars	0.013486	0.013486	0.001580	0.001580	0.058669	0.058669		False	False	True		
-talipes equinovarus	0.836109	1.658731	0.097953	0.194326	0.064938	0.072705		False	False	True		
 skin hyperextensibility	0.013486	0.013486	0.001601	0.001601	0.059448	0.059448		False	False	True		
-blue sclerae	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
-hypertelorism	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
+progressive	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
 recurrent	0.000000	0.000000	0.000000	-0.000000	0.059352	0.059352		False	False	False		
 bruisability	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
-high palate	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False	False	True		
-talipes	0.836109	1.658731	0.102838	0.204017	0.068547	0.077260		False	False	True		
-long philtrum	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
-pneumothorax	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	True		
-equinovarus	0.836109	1.658731	0.097953	0.194326	0.064938	0.072705		False	False	True		
-thin upper lip vermilion	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
-small mouth	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
-congenital contractures	0.951463	1.436682	0.116185	0.175435	0.069082	0.074046		False	False	True		
 contractures	0.951463	1.436682	0.135775	0.205017	0.082560	0.089751		False	False	True		
-downslanting palpebral fissures	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		
-progressive	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
-multiple congenital contractures	0.951463	1.436682	0.107118	0.161745	0.063044	0.067153		False	False	True		
-large fontanelle	0.951463	1.436682	0.112943	0.170541	0.066909	0.071556		False	False	True		
+talipes	0.836109	1.658731	0.102838	0.204017	0.068547	0.077260		False	False	True		
 spinal deformities	0.951463	1.436682	0.107118	0.161745	0.063044	0.067153		False	False	True		
-short nose	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	True		

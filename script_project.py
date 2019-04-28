@@ -32,7 +32,15 @@ for gene in geneDict.keys():
             # function has a tendency not to retrieve abstracts.
             # append papers with title and abstracts until reaches 2.
             abstract = values[1]
-            if abstract != None and title != None and len(paperBuffer) < 2:
+            
+            # papers have a tendency to be fetched 2 times.
+            skip = False
+            for paper in paperBuffer:
+                if paper[0] == title or paper[1] == abstract:
+                    print('Found repeated paper.')
+                    skip = True
+            
+            if abstract != None and title != None and len(paperBuffer) < 2 and skip == False:
                 # mer is run over the combination of the title and abstract
                 titleAbstract = title + abstract
                 mer = wp.runMER(titleAbstract.lower(), "hp")
