@@ -1,805 +1,241 @@
 ########################################
-Gene: SARS2
+Gene: SARS2	Phenotype: renal failure
 
-Title: Genetic causes of hypomagnesemia, a clinical overview.
-
-Abstract: Magnesium is essential to the proper functioning of numerous cellular processes. Magnesium ion (Mg(2+)) deficits, as reflected in hypomagnesemia, can cause neuromuscular irritability, seizures and cardiac arrhythmias. With normal Mg(2+) intake, homeostasis is maintained primarily through the regulated reabsorption of Mg(2+) by the thick ascending limb of Henle's loop and distal convoluted tubule of the kidney. Inadequate reabsorption results in renal Mg(2+) wasting, as evidenced by an inappropriately high fractional Mg(2+) excretion. Familial renal Mg(2+) wasting is suggestive of a genetic cause, and subsequent studies in these hypomagnesemic families have revealed over a dozen genes directly or indirectly involved in Mg(2+) transport. Those can be classified into four groups: hypercalciuric hypomagnesemias (encompassing mutations in CLDN16, CLDN19, CASR, CLCNKB), Gitelman-like hypomagnesemias (CLCNKB, SLC12A3, BSND, KCNJ10, FYXD2, HNF1B, PCBD1), mitochondrial hypomagnesemias (SARS2, MT-TI, Kearns-Sayre syndrome) and other hypomagnesemias (TRPM6, CNMM2, EGF, EGFR, KCNA1, FAM111A). Although identification of these genes has not yet changed treatment, which remains Mg(2+) supplementation, it has contributed enormously to our understanding of Mg(2+) transport and renal function. In this review, we discuss general mechanisms and symptoms of genetic causes of hypomagnesemia as well as the specific molecular mechanisms and clinical phenotypes associated with each syndrome.
-
-
-Similarity: HP_0000083(renal failure)<> HP_0000737(irritability)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0016695232882
-Lin 	 MICA 	 intrinsic 	0.0016695232882
-JC 	 DiShIn 	 intrinsic 	0.0620025313137
-JC 	 MICA 	 intrinsic 	0.0620025313137
-
-
-Similarity: HP_0000083(renal failure)<> HP_0001250(seizures)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00214541024799
-Lin 	 MICA 	 intrinsic 	0.00214541024799
-JC 	 DiShIn 	 intrinsic 	0.079713955487
-JC 	 MICA 	 intrinsic 	0.079713955487
-
-
-Similarity: HP_0000083(renal failure)<> HP_0012839(distal)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0618990166438
-JC 	 MICA 	 intrinsic 	0.0618990166438
-
-
-Similarity: HP_0000083(renal failure)<> HP_0011675(arrhythmias)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0021331977262
-Lin 	 MICA 	 intrinsic 	0.0021331977262
-JC 	 DiShIn 	 intrinsic 	0.0792592221584
-JC 	 MICA 	 intrinsic 	0.0792592221584
-
-
-Similarity: HP_0000083(renal failure)<> HP_0011675(cardiac arrhythmias)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0021331977262
-Lin 	 MICA 	 intrinsic 	0.0021331977262
-JC 	 DiShIn 	 intrinsic 	0.0792592221584
-JC 	 MICA 	 intrinsic 	0.0792592221584
-
-
-Similarity: HP_0000083(renal failure)<> HP_0001427(mitochondrial)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0618990166438
-JC 	 MICA 	 intrinsic 	0.0618990166438
-
-
-Similarity: HP_0000083(renal failure)<> HP_0002917(hypomagnesemia)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.0016695232882
-Lin 	 MICA 	 intrinsic 	0.0016695232882
-JC 	 DiShIn 	 intrinsic 	0.0620025313137
-JC 	 MICA 	 intrinsic 	0.0620025313137
-
-
-Title: The bidirectional promoter of two genes for the mitochondrial translational apparatus in mouse is regulated by an array of CCAAT boxes interacting with the transcription factor NF-Y.
-
-Abstract: The genes for mitoribosomal protein S12 (Mrps12) and mitochondrial seryl-tRNA ligase (Sarsm and Sars2) are oppositely transcribed from a conserved promoter region of <200 bp in both human and mouse. Using a dual reporter vector we identified an array of 4 CCAAT box elements required for efficient transcription of the two genes in cultured mouse 3T3 cells, and for enforcing directionality in favour of Mrps12. Electrophoretic mobility shift assay (EMSA) and in vivo footprinting confirmed the importance of these promoter elements as sites of protein-binding, and EMSA supershift and chromatin immunoprecipitation (ChIP) assays identified NF-Y as the key transcription factor involved, revealing a common pattern of protein-DNA interactions in all tissues tested (liver, brain, heart, kidney and 3T3 cells). The inherently bidirectional activity of NF-Y makes it an especially suitable factor to govern promoters of this class, whose expression is linked to cell proliferation.
-
-
-Similarity: HP_0000083(renal failure)<> HP_0001427(mitochondrial)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0618990166438
-JC 	 MICA 	 intrinsic 	0.0618990166438
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0012622	7.272954	7.272954	0.976066	0.976066	2.803673	2.803673		False	True	True		
+HP_0002149	0.013486	0.013486	0.001670	0.001670	0.062003	0.062003		False	False	False		
+HP_0003676	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
+HP_0030646	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
+HP_0000822	0.013486	0.013486	0.001810	0.001810	0.067224	0.067224		False	False	False		
+HP_0001427	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
+HP_0001948	0.013486	0.013486	0.001826	0.001826	0.067833	0.067833		False	False	False		
+HP_0000083	7.272954	7.272954	1.000000	1.000000	1.000000	1.000000		True	True	True		
+HP_0200114	0.013486	0.013486	0.001744	0.001744	0.064787	0.064787		False	False	False		
+HP_0012622	7.272954	7.272954	0.976066	0.976066	2.803673	2.803673		False	True	True		
+HP_0002149	0.013486	0.013486	0.001670	0.001670	0.062003	0.062003		False	False	False		
+HP_0003676	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
+HP_0030646	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
+HP_0000822	0.013486	0.013486	0.001810	0.001810	0.067224	0.067224		False	False	False		
+HP_0001427	0.000000	0.000000	0.000000	-0.000000	0.061899	0.061899		False	False	False		
+HP_0001948	0.013486	0.013486	0.001826	0.001826	0.067833	0.067833		False	False	False		
+HP_0000083	7.272954	7.272954	1.000000	1.000000	1.000000	1.000000		True	True	True		
+HP_0200114	0.013486	0.013486	0.001744	0.001744	0.064787	0.064787		False	False	False		
 ########################################
-Gene: ASB10
+Gene: ASB10	Phenotype: glaucoma
 
-Title: Variants in the ASB10 Gene Are Associated with Primary Open Angle Glaucoma.
-
-Abstract: BACKGROUND: Recently nonsynonymous coding variants in the ankyrin repeats and suppressor of cytokine signaling box-containing protein 10 (ASB10) gene were found to be associated with primary open angle glaucoma (POAG) in cohorts from Oregon and Germany, but this finding was not confirmed in an independent cohort from Iowa. The aim of the current study was to assess the role of ASB10 gene variants in Pakistani glaucoma patients. METHODS: Sanger sequencing of the coding exons and splice junctions of the ASB10 gene was performed in 30 probands of multiplex POAG families, 208 sporadic POAG patients and 151 healthy controls from Pakistan. Genotypic associations of individual variants with POAG were analyzed with the Fisher's exact or Chi-square test. RESULTS: In total 24 variants were identified in POAG probands and sporadic patients, including 11 novel variants and 13 known variants. 13 of the variants were nonsynonymous, 6 were synonymous, and 5 were intronic. Three nonsynonymous variants (p.Arg49Cys, p.Arg237Gly, p.Arg453Cys) identified in the probands were not segregating in the respective families. This is not surprising since glaucoma is a multifactorial disease, and multiple factors are likely to be involved in the disease manifestation in these families. However a nonsynonymous variant, p.Arg453Cys (rs3800791), was found in 6 sporadic POAG patients but not in controls, suggesting that it infers increased risk for the disease. In addition, one synonymous variant was found to be associated with sporadic POAG: p.Ala290Ala and the association of the variant with POAG remained significant after correction for multiple testing (uncorrected p-value 0.002, corrected p-value 0.047). The cumulative burden of rare, nonsynonymous variants was significantly higher in sporadic POAG patients compared to control individuals (p-value 0.000006). CONCLUSIONS: Variants in ASB10 were found to be significantly associated with sporadic POAG in the Pakistani population. This supports previous findings that sequence variants in the ASB10 gene may act as a risk factor for glaucoma.
-
-
-Similarity: HP_0000501(glaucoma)<> HP_0003745(sporadic)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0614979447404
-JC 	 MICA 	 intrinsic 	0.0614979447404
-
-
-Similarity: HP_0000501(glaucoma)<> HP_0000501(glaucoma)
-Resnik 	 DiShIn 	 intrinsic 	7.37831430952
-Resnik 	 MICA 	 intrinsic 	7.37831430952
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0000501(glaucoma)<> HP_0012108(primary open angle glaucoma)
-Resnik 	 DiShIn 	 intrinsic 	7.37831430952
-Resnik 	 MICA 	 intrinsic 	7.37831430952
-Lin 	 DiShIn 	 intrinsic 	0.907502331368
-Lin 	 MICA 	 intrinsic 	0.907502331368
-JC 	 DiShIn 	 intrinsic 	0.664859402943
-JC 	 MICA 	 intrinsic 	0.664859402943
-
-
-Title: Analysis of microsatellite polymorphisms within the GLC1F locus in Japanese patients with normal tension glaucoma.
-
-Abstract: PURPOSE: To investigate whether the GLC1F locus is associated with normal tension glaucoma (NTG) in Japanese patients. METHODS: We recruited 242 unrelated Japanese subjects, including, 141 NTG patients and 101 healthy controls. The patients exhibiting a comparatively early onset were selected as they suggest that genetic factors may show stronger involvement. Genotyping and assessment of allelic diversity was performed on 11 highly polymorphic microsatellite markers in and around the GLC1F locus. RESULTS: Individuals carrying the 163 allele of D7S1277i had a statistically significant increased risk of NTG (p=0.0013, pc=0.016, OR=2.47, 95%CI=1.42-4.30). None of the other markers identified significant loci (pc>0.05) after Bonferroni's correction. CONCLUSIONS: These findings suggested that the genes in the GLC1F locus may be associated with the pathogenesis of NTG.
-
-
-Similarity: HP_0000501(glaucoma)<> HP_0003674(onset)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0701961132224
-JC 	 MICA 	 intrinsic 	0.0701961132224
-
-
-Similarity: HP_0000501(glaucoma)<> HP_0000501(glaucoma)
-Resnik 	 DiShIn 	 intrinsic 	7.37831430952
-Resnik 	 MICA 	 intrinsic 	7.37831430952
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0002664	0.013486	0.013486	0.002557	0.002557	0.095042	0.095042		False	False	True		
+HP_0012828	0.000000	0.000000	0.000000	-0.000000	0.061498	0.061498		False	False	False		
+HP_0000501	7.378314	7.378314	1.000000	1.000000	1.000000	1.000000		True	True	True		
+HP_0030645	0.000000	0.000000	0.000000	-0.000000	0.061498	0.061498		False	False	False		
+HP_0002140	0.013486	0.013486	0.001701	0.001701	0.063178	0.063178		False	False	False		
+HP_0001297	0.013486	0.013486	0.001779	0.001779	0.066071	0.066071		False	False	False		
+HP_0031796	0.000000	0.000000	0.000000	-0.000000	0.065170	0.065170		False	False	False		
+HP_0001626	0.013486	0.013486	0.002737	0.002737	0.101745	0.101745		False	False	True		
 ########################################
-Gene: ACO2
+Gene: ACO2	Phenotype: optic-nerve degeneration
 
-Title: Zinc cooperates with p53 to inhibit the activity of mitochondrial aconitase through reactive oxygen species accumulation.
-
-Abstract: Metabolic reprogramming is a central hallmark of cancer. Therefore, targeting metabolism may provide an effective strategy for identifying promising drug targets for cancer treatment. In prostate cancer, cells undergo metabolic transformation from zinc-accumulating, citrate-producing cells to citrate-oxidizing malignant cells with lower zinc levels and higher mitochondrial aconitase (ACO2) activity. ACO2 is a Krebs cycle enzyme that converts citrate to isocitrate and is sensitive to reactive oxygen species (ROS)-mediated damage. In this study, we found that the expression of ACO2 is positively correlated with the malignancy of prostate cancer. Both zinc and p53 can lead to an increase in ROS. ACO2 can be a target for remodeling metabolism by sensing changes in the ROS levels of prostate cancer. Our results indicate that targeting ACO2 through zinc and p53 can change prostate cancer metabolism, and thus provides a potential new therapeutic strategy for prostate cancer.
-
-
-Similarity: HP_0000648(optic-nerve degeneration)<> HP_0030645(central)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0000648(optic-nerve degeneration)<> HP_0012125(prostate cancer)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00155373183833
-Lin 	 MICA 	 intrinsic 	0.00155373183833
-JC 	 DiShIn 	 intrinsic 	0.0576955921949
-JC 	 MICA 	 intrinsic 	0.0576955921949
-
-
-Similarity: HP_0000648(optic-nerve degeneration)<> HP_0001427(mitochondrial)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0000648(optic-nerve degeneration)<> HP_0002664(cancer)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00231571878196
-Lin 	 MICA 	 intrinsic 	0.00231571878196
-JC 	 DiShIn 	 intrinsic 	0.0860565549974
-JC 	 MICA 	 intrinsic 	0.0860565549974
-
-
-Title: Elevated CO2 and virus infection impacts wheat and aphid metabolism.
-
-Abstract: INTRODUCTION: The aphid Rhopalosiphum padi L. is a vector of Barley yellow dwarf virus (BYDV) in wheat and other economically important cereal crops. Increased atmospheric CO2 has been shown to alter plant growth and metabolism, enhancing BYDV disease in wheat. However, the biochemical influences on aphid metabolism are not known. OBJECTIVES: This work aims to determine whether altered host-plant quality, influenced by virus infection and elevated CO2, impacts aphid weight and metabolism. METHODS: Untargeted (1)H NMR metabolomics coupled with multivariate statistics were employed to profile the metabolism of R. padi reared on virus-infected and non-infected (sham-inoculated) wheat grown under ambient CO2 (aCO2, 400 micromol mol(-1)) and future, predicted elevated CO2 (eCO2, 650 micromol mol(-1)) concentrations. Un-colonised wheat was also profiled to observe changes to host-plant quality (i.e., amino acids and sugars). RESULTS: The direct impacts of virus or eCO2 were compared. Virus presence increased aphid weight under aCO2 but decreased weight under eCO2; whilst eCO2 increased non-viruliferous (sham) aphid weight but decreased viruliferous aphid weight. Discriminatory metabolites due to eCO2 were succinate and sucrose (in sham wheat), glucose, choline and betaine (in infected wheat), and threonine, lactate, alanine, GABA, glutamine, glutamate and asparagine (in aphids), irrespective of virus presence. Discriminatory metabolites due to virus presence were alanine, GABA, succinate and betaine (in wheat) and threonine and lactate (in aphids), irrespective of CO2 treatment. CONCLUSION: This study confirms that virus and eCO2 alter host-plant quality, and these differences are reflected by aphid weight and metabolism.
-
-
-Similarity: HP_0000648(optic-nerve degeneration)<> HP_0004325(decreased weight)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00173255973058
-Lin 	 MICA 	 intrinsic 	0.00173255973058
-JC 	 DiShIn 	 intrinsic 	0.0643476332612
-JC 	 MICA 	 intrinsic 	0.0643476332612
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0011009	0.000000	0.000000	0.000000	-0.000000	0.060816	0.060816		False	False	False		
+HP_0001941	0.013486	0.013486	0.001849	0.001849	0.068682	0.068682		False	False	False		
+HP_0002878	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False	False	False		
+HP_0011010	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0001259	0.013486	0.013486	0.001591	0.001591	0.059078	0.059078		False	False	False		
+HP_0005972	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	False		
+HP_0011009	0.000000	0.000000	0.000000	-0.000000	0.060816	0.060816		False	False	False		
+HP_0001941	0.013486	0.013486	0.001849	0.001849	0.068682	0.068682		False	False	False		
+HP_0002878	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False	False	False		
+HP_0011010	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0001259	0.013486	0.013486	0.001591	0.001591	0.059078	0.059078		False	False	False		
+HP_0005972	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	False		
 ########################################
-Gene: ZFYVE26
+Gene: ZFYVE26	Phenotype: spastic paraplegia
 
-Title: Screening for susceptibility genes in hereditary non-polyposis colorectal cancer.
-
-Abstract: In the present study, hereditary non-polyposis colorectal cancer (HNPCC) susceptibility genes were screened for using whole exome sequencing in 3 HNPCC patients from 1 family and using single nucleotide polymorphism (SNP) genotyping assays in 96 other colorectal cancer and control samples. Peripheral blood was obtained from 3 HNPCC patients from 1 family; the proband and the proband's brother and cousin. High-throughput sequencing was performed using whole exome capture technology. Sequences were aligned against the HAPMAP, dbSNP130 and 1,000 Genome Project databases. Reported common variations and synonymous mutations were filtered out. Non-synonymous single nucleotide variants in the 3 HNPCC patients were integrated and the candidate genes were identified. Finally, SNP genotyping was performed for the genes in 96 peripheral blood samples. In total, 60.4 Gb of data was retrieved from the 3 HNPCC patients using whole exome capture technology. Subsequently, according to certain screening criteria, 15 candidate genes were identified. Among the 96 samples that had been SNP genotyped, 92 were successfully genotyped for 15 gene loci, while genotyping for HTRA1 failed in 4 sporadic colorectal cancer patient samples. In 12 control subjects and 81 sporadic colorectal cancer patients, genotypes at 13 loci were wild-type, namely DDX20, ZFYVE26, PIK3R3, SLC26A8, ZEB2, TP53INP1, SLC11A1, LRBA, CEBPZ, ETAA1, SEMA3G, IFRD2 and FAT1. The CEP290 genotype was mutant in 1 sporadic colorectal cancer patient and was wild-type in all other subjects. A total of 5 of the 12 control subjects and 30 of the 81 sporadic colorectal cancer patients had a mutant HTRA1 genotype. In all 3 HNPCC patients, the same mutant genotypes were identified at all 15 gene loci. Overall, 13 potential susceptibility genes for HNPCC were identified, namely DDX20, ZFYVE26, PIK3R3, SLC26A8, ZEB2, TP53INP1, SLC11A1, LRBA, CEBPZ, ETAA1, SEMA3G, IFRD2 and FAT1.
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0003745(sporadic)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0030646(peripheral)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0002664(cancer)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00231571878196
-Lin 	 MICA 	 intrinsic 	0.00231571878196
-JC 	 DiShIn 	 intrinsic 	0.0860565549974
-JC 	 MICA 	 intrinsic 	0.0860565549974
-
-
-Title: Congenital disorders of autophagy: an emerging novel class of inborn errors of neuro-metabolism.
-
-Abstract: Single gene disorders of the autophagy pathway are an emerging, novel and diverse group of multisystem diseases in children. Clinically, these disorders prominently affect the central nervous system at various stages of development, leading to brain malformations, developmental delay, intellectual disability, epilepsy, movement disorders, and neurodegeneration, among others. Frequent early and severe involvement of the central nervous system puts the paediatric neurologist, neurogeneticist, and neurometabolic specialist at the forefront of recognizing and treating these rare conditions. On a molecular level, mutations in key autophagy genes map to different stages of this highly conserved pathway and thus lead to impairment in isolation membrane (or phagophore) and autophagosome formation, maturation, or autophagosome-lysosome fusion. Here we discuss 'congenital disorders of autophagy' as an emerging subclass of inborn errors of metabolism by using the examples of six recently identified monogenic diseases: EPG5-related Vici syndrome, beta-propeller protein-associated neurodegeneration due to mutations in WDR45, SNX14-associated autosomal-recessive cerebellar ataxia and intellectual disability syndrome, and three forms of hereditary spastic paraplegia, SPG11, SPG15 and SPG49 caused by SPG11, ZFYVE26 and TECPR2 mutations, respectively. We also highlight associations between defective autophagy and other inborn errors of metabolism such as lysosomal storage diseases and neurodevelopmental diseases associated with the mTOR pathway, which may be included in the wider spectrum of autophagy-related diseases from a pathobiological point of view. By exploring these emerging themes in disease pathogenesis and underlying pathophysiological mechanisms, we discuss how congenital disorders of autophagy inform our understanding of the importance of this fascinating cellular pathway for central nervous system biology and disease. Finally, we review the concept of modulating autophagy as a therapeutic target and argue that congenital disorders of autophagy provide a unique genetic perspective on the possibilities and challenges of pathway-specific drug development.
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0002180(neurodegeneration)
-Resnik 	 DiShIn 	 intrinsic 	1.04785375038
-Resnik 	 MICA 	 intrinsic 	2.08222163799
-Lin 	 DiShIn 	 intrinsic 	0.12361246004
-Lin 	 MICA 	 intrinsic 	0.245634029489
-JC 	 DiShIn 	 intrinsic 	0.0673031494297
-JC 	 MICA 	 intrinsic 	0.0781896902378
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0030645(central)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0001250(epilepsy)
-Resnik 	 DiShIn 	 intrinsic 	1.41837718674
-Resnik 	 MICA 	 intrinsic 	2.82326851071
-Lin 	 DiShIn 	 intrinsic 	0.205923031986
-Lin 	 MICA 	 intrinsic 	0.409888157587
-JC 	 DiShIn 	 intrinsic 	0.0914156583762
-JC 	 MICA 	 intrinsic 	0.123012391237
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0010550(paraplegia)
-Resnik 	 DiShIn 	 intrinsic 	4.61548121421
-Resnik 	 MICA 	 intrinsic 	8.18924452574
-Lin 	 DiShIn 	 intrinsic 	0.553874213806
-Lin 	 MICA 	 intrinsic 	0.982738562426
-JC 	 DiShIn 	 intrinsic 	0.134495216066
-JC 	 MICA 	 intrinsic 	3.47605949678
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0012828(severe)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0001258(spastic paraplegia)
-Resnik 	 DiShIn 	 intrinsic 	8.47692659819
-Resnik 	 MICA 	 intrinsic 	8.47692659819
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0001251(ataxia)
-Resnik 	 DiShIn 	 intrinsic 	2.38035550616
-Resnik 	 MICA 	 intrinsic 	4.74722514955
-Lin 	 DiShIn 	 intrinsic 	0.317212758425
-Lin 	 MICA 	 intrinsic 	0.632628353477
-JC 	 DiShIn 	 intrinsic 	0.0975873286157
-JC 	 MICA 	 intrinsic 	0.181373232118
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0001249(intellectual disability)
-Resnik 	 DiShIn 	 intrinsic 	1.41837718674
-Resnik 	 MICA 	 intrinsic 	2.82326851071
-Lin 	 DiShIn 	 intrinsic 	0.1775965768
-Lin 	 MICA 	 intrinsic 	0.353504573802
-JC 	 DiShIn 	 intrinsic 	0.0761251125885
-JC 	 MICA 	 intrinsic 	0.0968383543755
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0001263(developmental delay)
-Resnik 	 DiShIn 	 intrinsic 	1.41837718674
-Resnik 	 MICA 	 intrinsic 	2.82326851071
-Lin 	 DiShIn 	 intrinsic 	0.174454563703
-Lin 	 MICA 	 intrinsic 	0.347250421718
-JC 	 DiShIn 	 intrinsic 	0.0744937129278
-JC 	 MICA 	 intrinsic 	0.0942136874332
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0001251(cerebellar ataxia)
-Resnik 	 DiShIn 	 intrinsic 	2.38035550616
-Resnik 	 MICA 	 intrinsic 	4.74722514955
-Lin 	 DiShIn 	 intrinsic 	0.317212758425
-Lin 	 MICA 	 intrinsic 	0.632628353477
-JC 	 DiShIn 	 intrinsic 	0.0975873286157
-JC 	 MICA 	 intrinsic 	0.181373232118
-
-
-Similarity: HP_0001258(spastic paraplegia)<> HP_0040282(frequent)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0576059487164
-JC 	 MICA 	 intrinsic 	0.0576059487164
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0002180	1.047854	2.082222	0.123612	0.245634	0.067303	0.078190		False	True	True		
+HP_0030645	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0001250	1.418377	2.823269	0.205923	0.409888	0.091416	0.123012		False	True	True		
+HP_0010550	4.615481	8.189245	0.553874	0.982739	0.134495	3.476059		False	True	True		
+HP_0012828	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0001258	8.476927	8.476927	1.000000	1.000000	1.000000	1.000000		True	True	True		
+HP_0001251	2.380356	4.747225	0.317213	0.632628	0.097587	0.181373		False	True	True		
+HP_0001249	1.418377	2.823269	0.177597	0.353505	0.076125	0.096838		False	True	True		
+HP_0001263	1.418377	2.823269	0.174455	0.347250	0.074494	0.094214		False	True	True		
+HP_0001251	2.380356	4.747225	0.317213	0.632628	0.097587	0.181373		False	True	True		
+HP_0040282	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0001258	8.476927	8.476927	1.000000	1.000000	1.000000	1.000000		True	True	True		
+HP_0003676	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0009830	1.047854	2.082222	0.149779	0.297630	0.084060	0.101754		False	True	True		
+HP_0010550	4.615481	8.189245	0.553874	0.982739	0.134495	3.476059		False	True	True		
+HP_0001257	6.020599	6.397485	0.809524	0.860200	0.352956	0.480898		False	True	True		
+HP_0003674	0.000000	0.000000	0.000000	-0.000000	0.065170	0.065170		False	False	False		
+HP_0000007	0.000000	0.000000	0.000000	-0.000000	0.058984	0.058984		False	False	False		
+HP_0012828	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0040279	0.000000	0.000000	0.000000	-0.000000	0.062606	0.062606		False	False	False		
+HP_0000763	1.047854	2.082222	0.133872	0.266021	0.073752	0.087031		False	True	True		
+HP_0001425	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0002061	6.713746	7.783779	0.825763	0.957373	0.352956	1.442695		False	True	True		
+HP_0001425	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0000006	0.000000	0.000000	0.000000	-0.000000	0.063071	0.063071		False	False	False		
+HP_0001417	0.000000	0.000000	0.000000	-0.000000	0.060002	0.060002		False	False	False		
+HP_0001425	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
 ########################################
-Gene: C1QTNF5
+Gene: C1QTNF5	Phenotype: retinal degeneration
 
-Title: Cataract surgery in patients with late-onset retinal degeneration.
-
-Abstract: PURPOSE: To review the outcomes in a series of patients with long anterior lens zonular fibers associated with late-onset retinal degeneration who had phacoemulsification cataract surgery. SETTING: Newcastle Eye Centre, Newcastle upon Tyne, United Kingdom. DESIGN: Retrospective case series. METHODS: Inclusion criteria were patients with genetically confirmed late-onset retinal degeneration requiring cataract surgery. Perioperative data relating to surgery were collected. In addition, the corrected distance visual acuity (CDVA) and retinal imaging data were recorded. Selected lens capsules were examined using immunohistochemistry or scanning electron microscopy (SEM). RESULTS: Eleven eyes of 7 patients were included. The long anterior lens zonular fibers made capsulorhexis challenging; however, it was completed safely in all cases. There were no intraoperative or postoperative issues with lens stability. The CDVA improved postoperatively in those cases with intact foveal photoreceptors and retinal pigment epithelium. Over the longer term, the CDVA slowly declined because of progressive atrophy of the macula. Most patients noticed a subjective improvement in vision, even those with advanced disease at baseline. Immunohistochemistry showed that the C1QTNF5 protein was expressed within the lens capsule epithelial cells, although SEM of the long anterior lens zonular fibers showed them to be smaller in diameter than normal anterior lens zonular fibers and to be composed of a helix of fibers. CONCLUSIONS: In this small series of patients with late-onset retinal degeneration, cataract surgery was successfully performed without long-term complications involving intraocular lens stability. The objective improvement in CDVA seemed to be limited to patients with good foveal photoreceptor architecture.
-
-
-Similarity: HP_0000546(retinal degeneration)<> HP_0000546(retinal degeneration)
-Resnik 	 DiShIn 	 intrinsic 	6.63109990769
-Resnik 	 MICA 	 intrinsic 	6.63109990769
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Similarity: HP_0000546(retinal degeneration)<> HP_0003676(progressive)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0644600213081
-JC 	 MICA 	 intrinsic 	0.0644600213081
-
-
-Similarity: HP_0000546(retinal degeneration)<> HP_0000518(cataract)
-Resnik 	 DiShIn 	 intrinsic 	3.10628857006
-Resnik 	 MICA 	 intrinsic 	3.10628857006
-Lin 	 DiShIn 	 intrinsic 	0.501015242886
-Lin 	 MICA 	 intrinsic 	0.501015242886
-JC 	 DiShIn 	 intrinsic 	0.161618795456
-JC 	 MICA 	 intrinsic 	0.161618795456
-
-
-Title: Aerobic exercise training-induced changes in serum C1q/TNF-related protein levels are associated with reduced arterial stiffness in middle-aged and older adults.
-
-Abstract: Adiponectin regulates endothelial nitric oxide synthase in endothelial cells, and body fat loss by aerobic exercise training promotes adiponectin secretion. Recently, C1q/tumor necrosis factor-related proteins (CTRPs) have been identified as novel adipokines and are paralogs of adiponectin, but the association between exercise training-induced reduction of arterial stiffness and circulating CTRPs levels remains unclear. This study aimed to clarify whether the reduction of arterial stiffness in middle-aged and older adults is associated with the change in serum levels of CTRPs induced by exercise training. A total of 52 middle-aged and older participants were randomly divided into two groups: a training group ( n = 26) and a sedentary control group ( n = 26). Participants in the training group completed 8 wk of aerobic exercise training (60-70% peak oxygen uptake for 45 min, 3 days/wk). The reduction of percent whole body fat, abdominal visceral fat area, and carotid-femoral pulse-wave velocity (cfPWV) was significantly greater in the training group than in the control group ( P < 0.05). Moreover, the increase in serum adiponectin, CTRP3, and CTRP5 from baseline to 8 wk was significantly higher in the training group compared with the control group ( P < 0.05). Additionally, the training-induced change in cfPWV was negatively correlated with the training-induced change in serum adiponectin, CTRP3, and CTRP5 levels ( r = -0.51, r = -0.48, r = -0.42, respectively, P < 0.05), and increased plasma nitrite/nitrate level by exercise training was correlated only with adiponectin levels ( r = 0.41, P < 0.05). These results suggest that the exercise training-induced increase in serum CTRPs levels may be associated with the reduction of arterial stiffness in middle-aged and older adults.
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0030645	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	False		
+HP_0000572	2.558929	2.558929	0.350605	0.350605	0.105493	0.105493		False	True	True		
+HP_0000608	5.411072	6.631100	0.758877	0.929981	0.290817	1.001473		False	True	True		
+HP_0000662	2.558929	2.558929	0.368084	0.368084	0.113815	0.113815		False	True	True		
+HP_0030647	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	False		
+HP_0000556	4.191044	4.191044	0.632028	0.632028	0.204913	0.204913		False	True	True		
+HP_0000006	0.000000	0.000000	0.000000	-0.000000	0.071381	0.071381		False	False	False		
+HP_0001105	6.631100	6.631100	0.946663	0.946663	1.338304	1.338304		False	True	True		
+HP_0030645	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	False		
+HP_0000572	2.558929	2.558929	0.350605	0.350605	0.105493	0.105493		False	True	True		
+HP_0000608	5.411072	6.631100	0.758877	0.929981	0.290817	1.001473		False	True	True		
+HP_0000662	2.558929	2.558929	0.368084	0.368084	0.113815	0.113815		False	True	True		
+HP_0030647	0.000000	0.000000	0.000000	-0.000000	0.064460	0.064460		False	False	False		
+HP_0000556	4.191044	4.191044	0.632028	0.632028	0.204913	0.204913		False	True	True		
+HP_0000006	0.000000	0.000000	0.000000	-0.000000	0.071381	0.071381		False	False	False		
+HP_0001105	6.631100	6.631100	0.946663	0.946663	1.338304	1.338304		False	True	True		
 ########################################
-Gene: HFM1
+Gene: HFM1	Phenotype: premature ovarian failure
 
-Title: Concerted action of the MutLbeta heterodimer and Mer3 helicase regulates the global extent of meiotic gene conversion.
-
-Abstract: Gene conversions resulting from meiotic recombination are critical in shaping genome diversification and evolution. How the extent of gene conversions is regulated is unknown. Here we show that the budding yeast mismatch repair related MutLbeta complex, Mlh1-Mlh2, specifically interacts with the conserved meiotic Mer3 helicase, which recruits it to recombination hotspots, independently of mismatch recognition. This recruitment is essential to limit gene conversion tract lengths genome-wide, without affecting crossover formation. Contrary to expectations, Mer3 helicase activity, proposed to extend the displacement loop (D-loop) recombination intermediate, does not influence the length of gene conversion events, revealing non-catalytical roles of Mer3. In addition, both purified Mer3 and MutLbeta preferentially recognize D-loops, providing a mechanism for limiting gene conversion in vivo. These findings show that MutLbeta is an integral part of a new regulatory step of meiotic recombination, which has implications to prevent rapid allele fixation and hotspot erosion in populations.
-
-
-Title: Damage Detection and Evaluation for an In-Service Shield Tunnel Based on the Monitored Increment of Neutral Axis Depth Using Long-Gauge Fiber Bragg Grating Sensors.
-
-Abstract: It is difficult to detect and evaluate the structural damage in a shield tunnel during operation because many traditional techniques based on the observation of vibrations are limited in daily monitoring in tunnels. Thus, the curvature radius of a static longitudinal settlement curve is used to identify the residual health and safety of an in-service shield tunnel. However, there are still two problems. The curvature radius is suitable for a qualitative judgment rather than a quantitative evaluation for longitudinal damage detection. Moreover, the curvature radius, which is calculated from the measured settlements of three neighboring points, gives an average damage degree in a wide scope only and is difficult to use to identify the damage's precise location. By means of the analysis of three kinds of longitudinal failure modes in a shield tunnel, this paper proposes: (1) a damage detection method based on the monitored increment of the neutral axis depth; and (2) an index to evaluate longitudinal damage. The index is composed of the residual ratios of the equivalent flexural stiffness (HFM1) and the equivalent shear stiffness (HFM3). The neutral axis position and the proposed damage index can be determined using long-gauge Fiber Bragg Grating sensors. Results from numerical simulations show that the deviation between the HFM1 and the true value residual ratio of the equivalent flexural stiffness is no more than 1.7%. The HFM3 is equal to its true value in the entire damage process. A loading experiment for a scaled-down model of a shield tunnel using long-gauge Fiber Bragg Grating sensors indicated that the errors in the HFM1 were no more than 5.0% in the case of early damage development (HFM1 >/= 0.5). The maximum error did not exceed 9.0% even under severe damage conditions in the model. Meanwhile, the HFM3 also coincided with its true value in the entire testing process.
-
-
-Similarity: HP_0008209(premature ovarian failure)<> HP_0012830(position)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0664154691429
-JC 	 MICA 	 intrinsic 	0.0664154691429
-
-
-Similarity: HP_0008209(premature ovarian failure)<> HP_0012828(severe)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0562911450579
-JC 	 MICA 	 intrinsic 	0.0562911450579
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0000729	0.013486	0.013486	0.001689	0.001689	0.062711	0.062711		False	False	False		
+HP_0000717	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0001631	0.013486	0.013486	0.001647	0.001647	0.061156	0.061156		False	False	False		
+HP_0000729	0.013486	0.013486	0.001689	0.001689	0.062711	0.062711		False	False	False		
+HP_0000717	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0001631	0.013486	0.013486	0.001647	0.001647	0.061156	0.061156		False	False	False		
 ########################################
-Gene: FOXRED1
+Gene: FOXRED1	Phenotype: epilepsy
 
-Title: Congenital lactic acidosis, cerebral cysts and pulmonary hypertension in an infant with FOXRED1 related complex I deficiency.
-
-Abstract: Mitochondrial complex I is encoded by 38 nuclear-encoded and 7 mitochondrial-encoded genes. FOXRED1 is one of the 13 additional nuclear genes known as assembly factors. So far, four patients have been described with complex I deficiency caused by autosomal recessive mutations in FOXRED1. Here, we report the fifth patient with FOXRED1 related complex 1 deficiency presenting with prenatal onset of bilateral periventricular cysts, congenital lactic acidosis, and persistent life-limiting pulmonary hypertension. Whole exome sequencing identified a compound heterozygosity for a known pathogenic variant (c.612_615dupAGTG; p.A206SfsX15) (paternal) and a likely pathogenic variant (c.874G>A; p.Gly292Arg) (maternal). Deficiency of complex I was demonstrated by the absence of complex I on Blue Native Gel Electrophoresis and by a significantly reduced complex I enzyme activity in the patient's fibroblasts. Compared with the previous known FOXRED1 cases, unique clinical features observed in our patient include bilateral periventricular cysts and severe pulmonary hypertension. Whole exome sequencing was instrumental in recognizing the underlying gene defect in this patient.
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0003577(prenatal onset)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0705155736869
-JC 	 MICA 	 intrinsic 	0.0705155736869
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0012832(bilateral)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0705155736869
-JC 	 MICA 	 intrinsic 	0.0705155736869
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0003128(lactic acidosis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00212757967338
-Lin 	 MICA 	 intrinsic 	0.00212757967338
-JC 	 DiShIn 	 intrinsic 	0.0790500376625
-JC 	 MICA 	 intrinsic 	0.0790500376625
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0001941(acidosis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00236414165219
-Lin 	 MICA 	 intrinsic 	0.00236414165219
-JC 	 DiShIn 	 intrinsic 	0.0878603061268
-JC 	 MICA 	 intrinsic 	0.0878603061268
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0007109(periventricular cysts)
-Resnik 	 DiShIn 	 intrinsic 	2.08222163799
-Resnik 	 MICA 	 intrinsic 	2.08222163799
-Lin 	 DiShIn 	 intrinsic 	0.302301388496
-Lin 	 MICA 	 intrinsic 	0.302301388496
-JC 	 DiShIn 	 intrinsic 	0.104043590793
-JC 	 MICA 	 intrinsic 	0.104043590793
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0003674(onset)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0821938427372
-JC 	 MICA 	 intrinsic 	0.0821938427372
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0000007(autosomal recessive)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0725910688324
-JC 	 MICA 	 intrinsic 	0.0725910688324
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0012828(severe)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0705155736869
-JC 	 MICA 	 intrinsic 	0.0705155736869
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0000822(hypertension)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00208622209849
-Lin 	 MICA 	 intrinsic 	0.00208622209849
-JC 	 DiShIn 	 intrinsic 	0.0775101880974
-JC 	 MICA 	 intrinsic 	0.0775101880974
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0004902(congenital lactic acidosis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00190192669988
-Lin 	 MICA 	 intrinsic 	0.00190192669988
-JC 	 DiShIn 	 intrinsic 	0.0706499447031
-JC 	 MICA 	 intrinsic 	0.0706499447031
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0001427(mitochondrial)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0705155736869
-JC 	 MICA 	 intrinsic 	0.0705155736869
-
-
-Title: FOXRED1 silencing in mice: a possible animal model for Leigh syndrome.
-
-Abstract: Leigh syndrome (LS) is one of the most puzzling mitochondrial disorders, which is also known as subacute necrotizing encephalopathy. It has an incidence of 1 in 77,000 live births worldwide with poor prognosis. Currently, there is a poor understanding of the underlying pathophysiological mechanisms of the disease without any available effective treatment. Hence, the inevitability for developing suitable animal and cellular models needed for the development of successful new therapeutic modalities. In this short report, we blocked FOXRED1 gene with small interfering RNA (siRNA) using C57bl/6 mice. Results showed neurobehavioral changes in the injected mice along with parallel degeneration in corpus striatum and sparing of the substantia nigra similar to what happen in Leigh syndrome cases. FOXRED1 blockage could serve as a new animal model for Leigh syndrome due to defective CI, which echoes damage to corpus striatum and affection of the central dopaminergic system in this disease. Further preclinical studies are required to validate this model.
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0030645(central)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0705155736869
-JC 	 MICA 	 intrinsic 	0.0705155736869
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0011011(subacute)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0705155736869
-JC 	 MICA 	 intrinsic 	0.0705155736869
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0006976(necrotizing encephalopathy)
-Resnik 	 DiShIn 	 intrinsic 	2.82326851071
-Resnik 	 MICA 	 intrinsic 	2.82326851071
-Lin 	 DiShIn 	 intrinsic 	0.398168797411
-Lin 	 MICA 	 intrinsic 	0.398168797411
-JC 	 DiShIn 	 intrinsic 	0.117168357811
-JC 	 MICA 	 intrinsic 	0.117168357811
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0001427(mitochondrial)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0705155736869
-JC 	 MICA 	 intrinsic 	0.0705155736869
-
-
-Similarity: HP_0001250(epilepsy)<> HP_0001298(encephalopathy)
-Resnik 	 DiShIn 	 intrinsic 	2.82326851071
-Resnik 	 MICA 	 intrinsic 	2.82326851071
-Lin 	 DiShIn 	 intrinsic 	0.466585658454
-Lin 	 MICA 	 intrinsic 	0.466585658454
-JC 	 DiShIn 	 intrinsic 	0.154911806198
-JC 	 MICA 	 intrinsic 	0.154911806198
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0003577	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+HP_0012832	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+HP_0003128	0.013486	0.013486	0.002128	0.002128	0.079050	0.079050		False	False	False		
+HP_0001941	0.013486	0.013486	0.002364	0.002364	0.087860	0.087860		False	False	False		
+HP_0003674	0.000000	0.000000	0.000000	-0.000000	0.082194	0.082194		False	False	False		
+HP_0000007	0.000000	0.000000	0.000000	-0.000000	0.072591	0.072591		False	False	False		
+HP_0012828	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+HP_0000822	0.013486	0.013486	0.002086	0.002086	0.077510	0.077510		False	False	False		
+HP_0004902	0.013486	0.013486	0.001902	0.001902	0.070650	0.070650		False	False	False		
+HP_0007109	2.082222	2.082222	0.302301	0.302301	0.104044	0.104044		False	True	True		
+HP_0003577	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+HP_0012832	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+HP_0003128	0.013486	0.013486	0.002128	0.002128	0.079050	0.079050		False	False	False		
+HP_0001941	0.013486	0.013486	0.002364	0.002364	0.087860	0.087860		False	False	False		
+HP_0003674	0.000000	0.000000	0.000000	-0.000000	0.082194	0.082194		False	False	False		
+HP_0000007	0.000000	0.000000	0.000000	-0.000000	0.072591	0.072591		False	False	False		
+HP_0012828	0.000000	0.000000	0.000000	-0.000000	0.070516	0.070516		False	False	False		
+HP_0000822	0.013486	0.013486	0.002086	0.002086	0.077510	0.077510		False	False	False		
+HP_0004902	0.013486	0.013486	0.001902	0.001902	0.070650	0.070650		False	False	False		
+HP_0007109	2.082222	2.082222	0.302301	0.302301	0.104044	0.104044		False	True	True		
 ########################################
-Gene: POLR1C
+Gene: POLR1C	Phenotype: mandibulofacial dysostosis
 
-Title: Restoration of polr1c in Early Embryogenesis Rescues the Type 3 Treacher Collins Syndrome Facial Malformation Phenotype in Zebrafish.
-
-Abstract: Treacher Collins syndrome (TCS) is a rare congenital birth disorder (1 in 50,000 live births) characterized by severe craniofacial defects. Recently, the authors' group unfolded the pathogenesis of polr1c Type 3 TCS by using the zebrafish model. Facial development depends on the neural crest cells, in which polr1c plays a role in regulating their expression. In this study, the authors aimed to identify the functional time window of polr1c in TCS by the use of photo-morpholino to restore the polr1c expression at different time points. Results suggested that the restoration of polr1c at 8 hours after fertilization could rescue the TCS facial malformation phenotype by correcting the neural crest cell expression, reducing the cell death, and normalizing the p53 mRNA expression level in the rescued morphants. However, such recovery could not be reproduced if the polr1c is restored after 30 hours after fertilization.
-
-
-Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0012828(severe)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0562911450579
-JC 	 MICA 	 intrinsic 	0.0562911450579
-
-
-Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0005321(treacher collins syndrome)
-Resnik 	 DiShIn 	 intrinsic 	8.8823917063
-Resnik 	 MICA 	 intrinsic 	8.8823917063
-Lin 	 DiShIn 	 intrinsic 	1.0
-Lin 	 MICA 	 intrinsic 	1.0
-JC 	 DiShIn 	 intrinsic 	1.0
-JC 	 MICA 	 intrinsic 	1.0
-
-
-Title: 4H Leukodystrophy: Lessons from 3T Imaging.
-
-Abstract: 4H leukodystrophy is characterized by hypomyelination, hypodontia, and hypogonadotropic hypogonadism. With its variability in clinical symptoms, application of pattern recognition to identify specific magnetic resonance imaging (MRI) features proved useful for the diagnosis. We collected 3T MR imaging data of 12 patients with mutations in POLR3A (n = 8), POLR3B (n = 3), and POLR1C (n = 1), all obtained at the same scanner. We assessed these images and compared them with previously obtained 1.5T images in 8 patients. Novel MRI findings were myelin islets, closed eye sign, and a cyst-like lesion in the splenium. Myelin islets were variable numbers of small T1 hyperintense and T2 hypointense dots, mostly in the frontal and parietal white matter, and present in all patients. This interpretation was supported with perivascular staining of myelin protein in the hypomyelinated white matter of a deceased 4H patient. All patients had better myelination of the medial lemniscus with a relatively hypointense signal of this structure on axial T2-weighted (T2W) images ("closed eye sign"). Five patients had a small cyst-like lesion in the splenium. In 10 patients with sagittal T2W images, we also found spinal cord hypomyelination. In conclusion, imaging at 3T identified additional features in 4H leukodystrophy, aiding the MRI diagnosis of this entity.
-
-
-Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0002415(leukodystrophy)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00160083908113
-Lin 	 MICA 	 intrinsic 	0.00160083908113
-JC 	 DiShIn 	 intrinsic 	0.0594476565267
-JC 	 MICA 	 intrinsic 	0.0594476565267
-
-
-Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0003429(hypomyelination)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00155373183833
-Lin 	 MICA 	 intrinsic 	0.00155373183833
-JC 	 DiShIn 	 intrinsic 	0.0576955921949
-JC 	 MICA 	 intrinsic 	0.0576955921949
-
-
-Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0000135(hypogonadism)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00161835165023
-Lin 	 MICA 	 intrinsic 	0.00161835165023
-JC 	 DiShIn 	 intrinsic 	0.0600990453962
-JC 	 MICA 	 intrinsic 	0.0600990453962
-
-
-Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0025287(axial)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0562911450579
-JC 	 MICA 	 intrinsic 	0.0562911450579
-
-
-Similarity: HP_0005321(mandibulofacial dysostosis)<> HP_0000668(hypodontia)
-Resnik 	 DiShIn 	 intrinsic 	1.6963289457
-Resnik 	 MICA 	 intrinsic 	2.66080799414
-Lin 	 DiShIn 	 intrinsic 	0.190976597497
-Lin 	 MICA 	 intrinsic 	0.299559857538
-JC 	 DiShIn 	 intrinsic 	0.0695791306947
-JC 	 MICA 	 intrinsic 	0.0803653897677
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0004389	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0012531	0.013486	0.013486	0.001857	0.001857	0.068970	0.068970		False	False	False		
+HP_0012832	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
+HP_0000494	1.696329	2.660808	0.190977	0.299560	0.069579	0.080365		False	True	True		
+HP_0002617	0.013486	0.013486	0.001791	0.001791	0.066535	0.066535		False	False	False		
+HP_0002027	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	False		
+HP_0000365	0.013486	0.013486	0.001820	0.001820	0.067598	0.067598		False	False	False		
+HP_0000175	2.537750	2.660808	0.326031	0.341840	0.095310	0.097600		False	True	True		
+HP_0011010	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
+HP_0012828	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
+HP_0008513	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0005321	8.882392	8.882392	1.000000	1.000000	1.000000	1.000000		True	True	True		
+HP_0012851	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0000272	3.980828	3.980828	0.448171	0.448171	0.102008	0.102008		False	True	True		
+HP_0000494	1.696329	2.660808	0.190977	0.299560	0.069579	0.080365		False	True	True		
+HP_0012824	0.000000	0.000000	0.000000	-0.000000	0.060562	0.060562		False	False	False		
+HP_0000007	0.000000	0.000000	0.000000	-0.000000	0.057606	0.057606		False	False	False		
+HP_0012833	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
+HP_0000405	0.013486	0.013486	0.001670	0.001670	0.062003	0.062003		False	False	False		
+HP_0008551	0.013486	0.013486	0.001601	0.001601	0.059448	0.059448		False	False	False		
+HP_0000175	2.537750	2.660808	0.326031	0.341840	0.095310	0.097600		False	True	True		
+HP_0002098	0.013486	0.013486	0.001601	0.001601	0.059448	0.059448		False	False	False		
+HP_0000365	0.013486	0.013486	0.001820	0.001820	0.067598	0.067598		False	False	False		
+HP_0040280	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
+HP_0008551	0.013486	0.013486	0.001601	0.001601	0.059448	0.059448		False	False	False		
+HP_0000006	0.000000	0.000000	0.000000	-0.000000	0.061498	0.061498		False	False	False		
+HP_0000452	1.696329	2.660808	0.195437	0.306557	0.071599	0.083072		False	True	True		
+HP_0005321	8.882392	8.882392	1.000000	1.000000	1.000000	1.000000		True	True	True		
+HP_0000347	2.721412	3.980828	0.332315	0.486104	0.091444	0.118810		False	True	True		
+HP_0012832	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
 ########################################
-Gene: SPG11
+Gene: SPG11	Phenotype: neuropathy
 
-Title: Potential oligogenic disease of mental retardation, short stature, spastic paraparesis, and osteopetrosis.
-
-Abstract: The interaction of multiple genetic factors, as opposed to monogenic inheritance, has been suspected to play a role in many diseases. This interaction has been described as an oligogenic inheritance model, which may be a useful tool in explaining certain clinical observations. The purpose of this study was to search for novel genetic defects among members of a family with traits that include mental retardation, short stature, osteopetrosis, calcification of basal ganglia, and thinning of the corpus callosum. In the index case (111-4), we identified four homozygous mutations: chromosome 8, intron2 (c.232+1G>A) at CA2 gene; chromosome 15, exon 32 (c.6100C>T) at the SPG11; chromosome 5, exon 11 (c.1015G>A) at the MCCC2; and chromosome 9, exon 9 (C.1193g>t) at the LARP gene. The mutations were confirmed by Sanger sequencing, and both parents were observed to be heterozygous for the four mutations. A moderately affected sister of the index case was homozygous for only three mutations in CA2, LARP, and Mccc2, while a nonaffected sister was heterozygous for three mutations in CA2, LARP, and MCCC2 and negative for SPG11. The clinical features of the two affected sisters can be explained distinctively by each homozygous mutation in an oligogenic pattern of inheritance. This family represents an example of an oligogenic pattern of inheritance of mental retardation, short stature, spastic paraparesis, and osteopetrosis.
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0004322(short stature)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00227945391159
-Lin 	 MICA 	 intrinsic 	0.00227945391159
-JC 	 DiShIn 	 intrinsic 	0.0847058038285
-JC 	 MICA 	 intrinsic 	0.0847058038285
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0000005(inheritance)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0862505631173
-JC 	 MICA 	 intrinsic 	0.0862505631173
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0011002(osteopetrosis)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00187336334806
-Lin 	 MICA 	 intrinsic 	0.00187336334806
-JC 	 DiShIn 	 intrinsic 	0.0695869243628
-JC 	 MICA 	 intrinsic 	0.0695869243628
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0010983(oligogenic inheritance)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0694565627692
-JC 	 MICA 	 intrinsic 	0.0694565627692
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0002313(spastic paraparesis)
-Resnik 	 DiShIn 	 intrinsic 	1.04785375038
-Resnik 	 MICA 	 intrinsic 	2.08222163799
-Lin 	 DiShIn 	 intrinsic 	0.14977874032
-Lin 	 MICA 	 intrinsic 	0.297629830396
-JC 	 DiShIn 	 intrinsic 	0.0840596438652
-JC 	 MICA 	 intrinsic 	0.101754458529
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0002385(paraparesis)
-Resnik 	 DiShIn 	 intrinsic 	2.08222163799
-Resnik 	 MICA 	 intrinsic 	2.08222163799
-Lin 	 DiShIn 	 intrinsic 	0.303877687931
-Lin 	 MICA 	 intrinsic 	0.303877687931
-JC 	 DiShIn 	 intrinsic 	0.104822933286
-JC 	 MICA 	 intrinsic 	0.104822933286
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0001249(mental retardation)
-Resnik 	 DiShIn 	 intrinsic 	2.08222163799
-Resnik 	 MICA 	 intrinsic 	2.08222163799
-Lin 	 DiShIn 	 intrinsic 	0.320066208002
-Lin 	 MICA 	 intrinsic 	0.320066208002
-JC 	 DiShIn 	 intrinsic 	0.113035861323
-JC 	 MICA 	 intrinsic 	0.113035861323
-
-
-Title: "Ears of the Lynx" MRI Sign Is Associated with SPG11 and SPG15 Hereditary Spastic Paraplegia.
-
-Abstract: BACKGROUND AND PURPOSE: The "ears of the lynx" MR imaging sign has been described in case reports of hereditary spastic paraplegia with a thin corpus callosum, mostly associated with mutations in the spatacsin vesicle trafficking associated gene, causing Spastic Paraplegia type 11 (SPG11). This sign corresponds to long T1 and T2 values in the forceps minor of the corpus callosum, which appears hyperintense on FLAIR and hypointense on T1-weighted images. Our purpose was to determine the sensitivity and specificity of the ears of the lynx MR imaging sign for genetic cases compared with common potential mimics. MATERIALS AND METHODS: Four independent raters, blinded to the diagnosis, determined whether the ears of the lynx sign was present in each of a set of 204 single anonymized FLAIR and T1-weighted MR images from 34 patients with causal mutations associated with SPG11 or Spastic Paraplegia type 15 (SPG15). 34 healthy controls, and 34 patients with multiple sclerosis. RESULTS: The interrater reliability for FLAIR images was substantial (Cohen kappa, 0.66-0.77). For these images, the sensitivity of the ears of the lynx sign across raters ranged from 78.8 to 97.0 and the specificity ranged from 90.9 to 100. The accuracy of the sign, measured by area under the receiver operating characteristic curve, ranged from very good (87.1) to excellent (93.9). CONCLUSIONS: The ears of the lynx sign on FLAIR MR imaging is highly specific for the most common genetic subtypes of hereditary spastic paraplegia with a thin corpus callosum. When this sign is present, there is a high likelihood of a genetic mutation, particularly associated with SPG11 or SPG15, even in the absence of a family history.
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0001258(spastic paraplegia)
-Resnik 	 DiShIn 	 intrinsic 	1.04785375038
-Resnik 	 MICA 	 intrinsic 	2.08222163799
-Lin 	 DiShIn 	 intrinsic 	0.14977874032
-Lin 	 MICA 	 intrinsic 	0.297629830396
-JC 	 DiShIn 	 intrinsic 	0.0840596438652
-JC 	 MICA 	 intrinsic 	0.101754458529
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0002079(thin corpus callosum)
-Resnik 	 DiShIn 	 intrinsic 	2.74682681521
-Resnik 	 MICA 	 intrinsic 	2.74682681521
-Lin 	 DiShIn 	 intrinsic 	0.392627559057
-Lin 	 MICA 	 intrinsic 	0.392627559057
-JC 	 DiShIn 	 intrinsic 	0.117669639709
-JC 	 MICA 	 intrinsic 	0.117669639709
-
-
-Similarity: HP_0009830(neuropathy)<> HP_0010550(paraplegia)
-Resnik 	 DiShIn 	 intrinsic 	2.08222163799
-Resnik 	 MICA 	 intrinsic 	2.08222163799
-Lin 	 DiShIn 	 intrinsic 	0.303877687931
-Lin 	 MICA 	 intrinsic 	0.303877687931
-JC 	 DiShIn 	 intrinsic 	0.104822933286
-JC 	 MICA 	 intrinsic 	0.104822933286
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0100315	2.746827	2.746827	0.381570	0.381570	0.112311	0.112311		False	True	True		
+HP_0003829	0.000000	0.000000	0.000000	-0.000000	0.071469	0.071469		False	False	False		
+HP_0000006	0.000000	0.000000	0.000000	-0.000000	0.077559	0.077559		False	False	False		
+HP_0000005	0.000000	0.000000	0.000000	-0.000000	0.086251	0.086251		False	False	False		
+HP_0003677	0.000000	0.000000	0.000000	-0.000000	0.069457	0.069457		False	False	False		
+HP_0003674	0.000000	0.000000	0.000000	-0.000000	0.080759	0.080759		False	False	False		
+HP_0000007	0.000000	0.000000	0.000000	-0.000000	0.071469	0.071469		False	False	False		
+HP_0012828	0.000000	0.000000	0.000000	-0.000000	0.069457	0.069457		False	False	False		
+HP_0001300	2.082222	2.082222	0.297630	0.297630	0.101754	0.101754		False	True	True		
+HP_0003812	0.000000	0.000000	0.000000	-0.000000	0.074177	0.074177		False	False	False		
+HP_0000726	2.082222	2.082222	0.316815	0.316815	0.111355	0.111355		False	True	True		
+HP_0001417	0.000000	0.000000	0.000000	-0.000000	0.072970	0.072970		False	False	False		
+HP_0001258	1.047854	2.082222	0.149779	0.297630	0.084060	0.101754		False	True	True		
+HP_0100543	2.082222	2.082222	0.345708	0.345708	0.126877	0.126877		False	True	True		
+HP_0002119	2.746827	2.746827	0.432819	0.432819	0.138907	0.138907		False	True	True		
+HP_0002180	2.746827	2.746827	0.392628	0.392628	0.117670	0.117670		False	True	True		
+HP_0010550	2.082222	2.082222	0.303878	0.303878	0.104823	0.104823		False	True	True		
+HP_0002079	2.746827	2.746827	0.392628	0.392628	0.117670	0.117670		False	True	True		
+HP_0003674	0.000000	0.000000	0.000000	-0.000000	0.080759	0.080759		False	False	False		
+HP_0011463	0.000000	0.000000	0.000000	-0.000000	0.069457	0.069457		False	False	False		
 ########################################
-Gene: CHST14
+Gene: CHST14	Phenotype: arachnodactyly
 
-Title: DNA methylome changes by estradiol benzoate and bisphenol A links early-life environmental exposures to prostate cancer risk.
-
-Abstract: Developmental exposure to endocrine-disrupting chemicals (EDCs), 17beta-estradiol-3-benzoate (EB) and bisphenol A (BPA), increases susceptibility to prostate cancer (PCa) in rodent models. Here, we used the methylated-CpG island recovery assay (MIRA)-assisted genomic tiling and CpG island arrays to identify treatment-associated methylome changes in the postnatal day (PND)90 dorsal prostate tissues of Sprague-Dawley rats neonatally (PND1, 3, and 5) treated with 25 microg/pup or 2,500 microg EB/kg body weight (BW) or 0.1 microg BPA/pup or 10 microg BPA/kg BW. We identified 111 EB-associated and 86 BPA-associated genes, with 20 in common, that have significant differentially methylated regions. Pathway analysis revealed cancer as the top common disease pathway. Bisulfite sequencing validated the differential methylation patterns observed by array analysis in 15 identified candidate genes. The methylation status of 7 (Pitx3, Wnt10b, Paqr4, Sox2, Chst14, Tpd52, Creb3l4) of these 15 genes exhibited an inverse correlation with gene expression in tissue samples. Cell-based assays, using 5-aza-cytidine-treated normal (NbE-1) and cancerous (AIT) rat prostate cells, added evidence of DNA methylation-mediated gene expression of 6 genes (exception: Paqr4). Functional connectivity of these genes was linked to embryonic stem cell pluripotency. Furthermore, clustering analyses using the dataset from The Cancer Genome Atlas revealed that expression of this set of 7 genes was associated with recurrence-free survival of PCa patients. In conclusion, our study reveals that gene-specific promoter methylation changes, resulting from early-life EDC exposure in the rat, may serve as predictive epigenetic biomarkers of PCa recurrence, and raises the possibility that such exposure may impact human disease.
-
-
-Similarity: HP_0001166(arachnodactyly)<> HP_0012125(prostate cancer)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00151826931491
-Lin 	 MICA 	 intrinsic 	0.00151826931491
-JC 	 DiShIn 	 intrinsic 	0.0563767401325
-JC 	 MICA 	 intrinsic 	0.0563767401325
-
-
-Similarity: HP_0001166(arachnodactyly)<> HP_0002664(cancer)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00223781565652
-Lin 	 MICA 	 intrinsic 	0.00223781565652
-JC 	 DiShIn 	 intrinsic 	0.0831550322468
-JC 	 MICA 	 intrinsic 	0.0831550322468
-
-
-Title: Structural alteration of glycosaminoglycan side chains and spatial disorganization of collagen networks in the skin of patients with mcEDS-CHST14.
-
-Abstract: Musculocontractural Ehlers-Danlos syndrome (mcEDS) due to CHST14/D4ST1 deficiency (mcEDS-CHST14) is a recently delineated type of EDS caused by biallelic loss-of-function mutations in CHST14, which results in the depletion of dermatan sulfate (DS). Clinical characteristics of mcEDS-CHST14 consist of multiple malformations and progressive fragility-related manifestations, including skin hyperextensibility and fragility. Skin fragility is suspected to result from the impaired assembly of collagen fibrils caused by alteration of the glycosaminoglycan (GAG) chain of decorin-proteoglycan (PG) from DS to chondroitin sulfate (CS). This systematic investigation of the skin pathology of patients with mcEDS-CHST14 comprised both immunostaining of decorin and transmission electron microscopy-based cupromeronic blue staining to visualize GAG chains. Collagen fibrils were dispersed in the affected papillary to reticular dermis; in contrast, they were regularly and tightly assembled in controls. Moreover, the fibrils exhibited a perpendicular arrangement to the affected epidermis, whereas fibrils were parallel to control epidermis. Affected GAG chains were linear, stretching from the outer surface of collagen fibrils to adjacent fibrils; in contrast, those of controls were curved, maintaining close contact with attached collagen fibrils. This is the first observation of compositional alteration, from DS to CS, of GAG side chains, which caused structural alteration of GAG side chains and resulted in spatial disorganization of collagen networks; this presumably disrupted the ring-mesh structure of GAG side chains surrounding collagen fibrils. McEDS-CHST14 provides a critical example of the importance of DS in GAG side chains of decorin-PG during assembly of collagen fibrils in maintenance of connective tissues.
-
-
-Similarity: HP_0001166(arachnodactyly)<> HP_0001030(skin fragility)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00155373183833
-Lin 	 MICA 	 intrinsic 	0.00155373183833
-JC 	 DiShIn 	 intrinsic 	0.0576955921949
-JC 	 MICA 	 intrinsic 	0.0576955921949
-
-
-Similarity: HP_0001166(arachnodactyly)<> HP_0000974(skin hyperextensibility)
-Resnik 	 DiShIn 	 intrinsic 	0.0134858627707
-Resnik 	 MICA 	 intrinsic 	0.0134858627707
-Lin 	 DiShIn 	 intrinsic 	0.00160083908113
-Lin 	 MICA 	 intrinsic 	0.00160083908113
-JC 	 DiShIn 	 intrinsic 	0.0594476565267
-JC 	 MICA 	 intrinsic 	0.0594476565267
-
-
-Similarity: HP_0001166(arachnodactyly)<> HP_0003676(progressive)
-Resnik 	 DiShIn 	 intrinsic 	0.0
-Resnik 	 MICA 	 intrinsic 	0.0
-Lin 	 DiShIn 	 intrinsic 	0.0
-Lin 	 MICA 	 intrinsic 	-0.0
-JC 	 DiShIn 	 intrinsic 	0.0562911450579
-JC 	 MICA 	 intrinsic 	0.0562911450579
-
-
+HP_Code	Resnik DiShIn	Resnik MICA	Lin DiShIn	Lin MICA	JC DiShIn	JC MICA	Relation in Text	Relation byDiShIn > 1	Relation byDiShIn > 0.003	Relation byDiShIn > 0.0025	Evaluation
+HP_0001075	0.013486	0.013486	0.001580	0.001580	0.058669	0.058669		False	False	False		
+HP_0001762	0.836109	1.658731	0.097953	0.194326	0.064938	0.072705		False	True	True		
+HP_0000974	0.013486	0.013486	0.001601	0.001601	0.059448	0.059448		False	False	False		
+HP_0000592	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0000316	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0031796	0.000000	0.000000	0.000000	-0.000000	0.059352	0.059352		False	False	False		
+HP_0000978	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0000218	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False	False	False		
+HP_0001883	0.836109	1.658731	0.102838	0.204017	0.068547	0.077260		False	True	True		
+HP_0000343	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0002107	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	False		
+HP_0001762	0.836109	1.658731	0.097953	0.194326	0.064938	0.072705		False	True	True		
+HP_0000219	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0000160	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0002803	0.951463	1.436682	0.116185	0.175435	0.069082	0.074046		False	True	True		
+HP_0001371	0.951463	1.436682	0.135775	0.205017	0.082560	0.089751		False	True	True		
+HP_0000494	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0003676	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
+HP_0002804	0.951463	1.436682	0.107118	0.161745	0.063044	0.067153		False	True	True		
+HP_0000239	0.951463	1.436682	0.112943	0.170541	0.066909	0.071556		False	True	True		
+HP_0008443	0.951463	1.436682	0.107118	0.161745	0.063044	0.067153		False	True	True		
+HP_0003196	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0001075	0.013486	0.013486	0.001580	0.001580	0.058669	0.058669		False	False	False		
+HP_0001762	0.836109	1.658731	0.097953	0.194326	0.064938	0.072705		False	True	True		
+HP_0000974	0.013486	0.013486	0.001601	0.001601	0.059448	0.059448		False	False	False		
+HP_0000592	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0000316	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0031796	0.000000	0.000000	0.000000	-0.000000	0.059352	0.059352		False	False	False		
+HP_0000978	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0000218	0.013486	0.013486	0.001554	0.001554	0.057696	0.057696		False	False	False		
+HP_0001883	0.836109	1.658731	0.102838	0.204017	0.068547	0.077260		False	True	True		
+HP_0000343	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0002107	0.013486	0.013486	0.001618	0.001618	0.060099	0.060099		False	False	False		
+HP_0001762	0.836109	1.658731	0.097953	0.194326	0.064938	0.072705		False	True	True		
+HP_0000219	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0000160	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0002803	0.951463	1.436682	0.116185	0.175435	0.069082	0.074046		False	True	True		
+HP_0001371	0.951463	1.436682	0.135775	0.205017	0.082560	0.089751		False	True	True		
+HP_0000494	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
+HP_0003676	0.000000	0.000000	0.000000	-0.000000	0.056291	0.056291		False	False	False		
+HP_0002804	0.951463	1.436682	0.107118	0.161745	0.063044	0.067153		False	True	True		
+HP_0000239	0.951463	1.436682	0.112943	0.170541	0.066909	0.071556		False	True	True		
+HP_0008443	0.951463	1.436682	0.107118	0.161745	0.063044	0.067153		False	True	True		
+HP_0003196	0.013486	0.013486	0.001518	0.001518	0.056377	0.056377		False	False	False		
