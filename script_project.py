@@ -56,7 +56,7 @@ with open("relatorio.txt", "w") as f:
         treshold1 = 1
         treshold2 = 0.003
         treshold3 = 0.0025
-        output += "HP_Code\tResnik DiShIn\tResnik MICA\tLin DiShIn\tLin MICA\tJC DiShIn\tJC MICA\tRelation in Text\tRelation byDiShIn > 1\tRelation byDiShIn > 0.003\tRelation byDiShIn > 0.0025\tEvaluation\n"
+        output += "HP_Code\tResnik DiShIn\tResnik MICA\tLin DiShIn\tLin MICA\tJC DiShIn\tJC MICA\tRelation in Text\tRelation byDiShIn > %i\tRelation byDiShIn > %f\tRelation byDiShIn > %f\tEvaluation\n" % (treshold1,treshold2,treshold3)
 		# captures the 2 papers given for each entry in genePaper.
         for pub in genePaper.get(gene):
             title = pub[0]
