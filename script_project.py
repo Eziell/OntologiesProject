@@ -53,10 +53,10 @@ with open("relatorio.txt", "w") as f:
 
         output += "#"*40 + "\n"
         output += "Gene: %s\tPhenotype: %s\n\n" % (gene, phenotype[0])
-        treshold1 = 1
-        treshold2 = 0.003
-        treshold3 = 0.0025
-        output += "HP_Code\tResnik DiShIn\tResnik MICA\tLin DiShIn\tLin MICA\tJC DiShIn\tJC MICA\tRelation in Text\tRelation byDiShIn > %i\tRelation byDiShIn > %f\tRelation byDiShIn > %f\tEvaluation\n" % (treshold1,treshold2,treshold3)
+        treshold1 = 0.75
+        treshold2 = 0.5
+        treshold3 = 0.25
+        output += "HP_Code\tResnik DiShIn\tResnik MICA\tLin DiShIn\tLin MICA\tJC DiShIn\tJC MICA\tRelation in Text\tRelation by Lin/DiShIn > %i\tRelation by Lin/DiShIn > %f\tRelation by Lin/DiShIn > %f\tEvaluation\n" % (treshold1,treshold2,treshold3)
 		# captures the 2 papers given for each entry in genePaper.
         for pub in genePaper.get(gene):
             title = pub[0]
