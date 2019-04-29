@@ -24,33 +24,37 @@ for gene in geneDict.keys():
     
     # while cicle will only stop if set of paper for gene has 2 entries.
     # if by the end of the cicle it doesn't it widdens the pubmed query to +10 publications
+    ammount = 10
     fetch = 10
+    papers = wp.getPubmedArticles(gene, ammount)
     while len(paperBuffer) < 2:
         print('Searching for %i terms' % fetch)
         
-        for title, values in wp.getPubmedArticles(gene, fetch).items():
+        # drop is an array containing keys to be dropped from the dictionary.
+        drop = []
+        for title, values in papers.items():
+            # stopping if 2 papers were already found
+            if len(paperBuffer) == 2:
+                break
             # function has a tendency not to retrieve abstracts.
             # append papers with title and abstracts until reaches 2.
             abstract = values[1]
             
-            # papers have a tendency to be fetched 2 times.
-            skip = False
-            for paper in paperBuffer:
-                if paper[0] == title or paper[1] == abstract:
-                    print('Found repeated paper.')
-                    skip = True
-            
-            if abstract != None and title != None and len(paperBuffer) < 2 and skip == False:
+            if abstract != None and title != None:
                 # mer is run over the combination of the title and abstract
                 titleAbstract = title + abstract
                 mer = wp.runMER(titleAbstract.lower(), "hp")
                 # only append mer set of title, abstract and mer values if annotated mer terms are >= 5
                 if len(mer) >= fetch:
                     paperBuffer.append([title, abstract, mer])
+                    # joins another title to be dropped for the next for cycle.
+                    drop.append(title)
+        # dropping already chosen keys
+        for title in drop:
+            papers.pop(title)
         fetch -= 1
 
     genePaper[gene] = paperBuffer
-
 
 papers = ""
 with open("relatorio.txt", "w") as f:
